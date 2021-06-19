@@ -4,7 +4,7 @@ text = ""
 addEvent("onShowMoney",true)
 addEventHandler("onShowMoney",root,
 	function ()
-		setText("+4000$")
+		setText("+$40.000 Pa' la gasofa")
 		setTimer(setText,5000,1,"")
 		playSound("sound.ogg")
 	end
@@ -20,3 +20,4 @@ addEventHandler("onClientRender",root,
 		dxDrawText(text,0,0,x,y,tocolor(255,255,255,120),2,"pricedown","center","center",false,false,false)
 	end
 )
+

@@ -1,0 +1,235 @@
+﻿<meta>
+	<info author="Dannys (AFK)" name = "AFK Mod Downloader" version="1.1.2" type="script"/>
+	<!-- PROFILE: http://forum.mtasa.com/memberlist.php?mode=viewprofile&u=77381 
+	-->
+	<!-- Avalible languages: EN -> English, ES -> Spanish, PT/BR -> Portugues/Brazilian.
+	-->
+	<!-- You can change the button and gridlist color. Example: <gui r="255" g="0"  b="200"/>
+		Default color: <gui r="255" g="51" b="51"/>
+	-->
+	<translation language="ES"/>
+	<gui r="124" g="6" b="166"/>
+	<script src="util.lua" type="shared"/>
+	<script src="downloader_s.lua"/>
+	<script src="translate.lua" type="client"/>
+	<script src="downloader_c.lua" type="client"/>
+	<export function="download" type="server"/>
+	<min_mta_version server="1.5.0" client="1.5.0"/>
+	<!-- 											FILES HERE
+		<file src="files/name.extension" model = "model" displayName = "This is a mod" download="false"/> 
+		DFF and TXD must have same name of file. Example: namesd.dff|namesd.txd
+		!!!!!! displayName -> Is name of the mod when player open the selection GUI. !!!!!!!!!
+	-->
+	<file src="files/alpha.dff" model="602" displayName = "Nissan GTR" download="false"/>
+	<file src="files/alpha.txd" model="602" displayName = "Nissan GTR" download="false"/>
+	<file displayName="Peugeot 205T16 Rally" src="blade.txd" replace="536" />
+	<file displayName="Peugeot 205T16 Rally" src="blade.dff" replace="536" />
+	<file displayName="Suzuki Swift" src="bravura.txd" replace="401" />
+	<file displayName="Suzuki Swift" src="bravura.dff" replace="401" />
+	<file displayName="Alimentador" src="bus.txd" replace="431" />
+	<file displayName="Carro Perro" src="mrwhoop.txd" replace="423" />
+	<file displayName="Ferrari F430" src="banshee.txd" dff="banshee.dff" replace="429" />
+	<file displayName="Camión de Acarreos" src="benson.txd" dff="benson.dff" replace="499" />
+	<file displayName="Yamaha Ninja" src="bf400.txd" dff="bf400.dff" replace="581" />
+	<file displayName="Toyota AE85 LEVIN" src="buccanee.txd" dff="buccanee.dff" replace="518" />
+	<file displayName="Dodge Charger RT 1970" src="buffalo.txd" dff="buffalo.dff" replace="402" />
+	<file displayName="Ford GT 2005" src="bullet.txd" dff="bullet.dff" replace="541" />
+	<file displayName="Shelby Mustang 1970" src="cheetah.txd" dff="cheetah.dff" replace="415" />
+	<file displayName="Bravado GTA V" src="clover.txd" dff="clover.dff" replace="542" />
+	<file displayName="Nissan Skyline R32 GTR" src="comet.txd" dff="comet.dff" replace="480" />
+	<file displayName="Nissan Farlady 300zx" src="euros.txd" dff="euros.dff" replace="587" />
+	<file displayName="Ford Focus ST" src="flash.txd" dff="flash.dff" replace="565" />
+	<file displayName="Lamborghini Countach" src="hotring.txd" dff="hotring.dff" replace="494" />
+	<file displayName="Trineo de Nieve" src="kart.txd" dff="kart.dff" replace="571" />
+	<file displayName="Mitshubishi Lancer Evo III" src="merit.txd" dff="merit.dff" replace="551" />
+	<file displayName="Yamaha Ninja 2" src="nrg500.txd" dff="nrg500.dff" replace="522" />
+	<file displayName="Mazda FC Savanna RX7" src="phoenix.txd" dff="phoenix.dff" replace="603" />
+	<file displayName="Toyota Fortuner" src="sandking.txd" dff="sandking.dff" replace="495" />
+	<file displayName="Camioneta FULL SONIDO KEVIN OCAMPO EDITION" src="topfun.txd" dff="topfun.dff" replace="459" />
+	<file displayName="Pontiac Trans AM 1970" src="tornado.txd" dff="tornado.dff" replace="576" />
+	<file displayName="Ferrari F40" src="turismo.txd" dff="turismo.dff" replace="451" />
+	<file displayName="Mazda FD RX7" src="uranus.txd" dff="uranus.dff" replace="558" />
+	<file displayName="Chévrolet Impala" src="voodoo.txd" dff="voodoo.dff" replace="412" />
+	<file displayName="Maserati Gran Turismo" src="windsor.txd" dff="windsor.dff" replace="555" />
+	<file displayName="Toyota AE86 Sprinter Trueno GT APEX" src="zr350.txd" dff="zr350.dff" replace="477" />
+	<file displayName="Lancer Evo X" src="sultan.txd" dff="sultan.dff" replace="560" />
+	<file displayName="Delorean DMC-12 Time Machine" src="supergt.txd" dff="supergt.dff" replace="506" />
+	<file displayName="Honda Civic Type R" src="oceanic.txd" dff="oceanic.dff" replace="467" />
+	<file displayName="Nissan Skyline R35 LibertyWalk" src="alpha.txd" dff="alpha.dff" replace="602" />
+	<file displayName="Nissan Skyline R32 Drift" src="blistac.txd" dff="blistac.dff" replace="496" />
+	<file displayName="Dodge Durango" src="durango.txd" dff="durango.dff" replace="458" />
+	<file displayName="Mini Cooper" src="minic.txd" dff="minic.dff" replace="527" />
+	<file displayName="Rolls Royce Phantom Hamann" src="stafford.txd" dff="stafford.dff" replace="580" />
+	<file displayName="Mercedes Benz GWagon" src="huntley.txd" dff="huntley.dff" replace="579" />
+	<file displayName="Suzuki Ax100" src="bike.txd" dff="bike.dff" replace="461" />
+	<file displayName="Chevrolet Camaro Dragster" src="virgo.txd" dff="virgo.dff" replace="491" />
+	<file displayName="Trailer2" src="artict3.txd" dff="artict3.dff" replace="450" />
+	<file displayName="Barracks" src="barracks.txd" dff="barracks.dff" replace="433" />
+	<file displayName="Honda S2000 CVR Edition" src="feltzer.txd" dff="feltzer.dff" replace="533" />
+	<file displayName="Mercedes Benz Clase E" src="merchopercho.txd" dff="merchopercho.dff" replace="445" />
+	<file displayName="BMW E30 1986" src="fortune.txd" dff="fortune.dff" replace="526" />
+	<file displayName="Ambulancia" dff="ambulan.dff" src="ambulan.txd" replace="416" />
+	<file displayName="Andromeda" dff="androm.dff" src="androm.txd" replace="592" />
+	<file displayName="Vehiculo Exclusivo Clan GT" dff="bandito.dff" src="bandito.txd" replace="568" />
+	<file displayName="Chevrolet Old" dff="bobcat.dff" src="bobcat.txd" replace="422" />
+	<file displayName="Bus Viejo" dff="bus.dff" src="bus.txd" replace="431" />
+	<file displayName="Camioneta PONAL" dff="camper.dff" src="camper.txd" replace="483" />
+	<file displayName="Honda Civic Initial D" dff="club.dff" src="club.txd" replace="589" />
+	<file displayName="Hijuebus" dff="coach.dff" src="coach.txd" replace="437" />
+	<file displayName="Camión Postobón" dff="dft30.dff" src="dft30.txd" replace="578" />
+	<file displayName="Yamaha DT" dff="dirtbike.dff" src="dirtbike.txd" replace="468" />
+	<file displayName="Fiat 80ntero" dff="emperor.dff" src="emperor.txd" replace="585" />
+	<file displayName="Camión Ejército" dff="enforcer.dff" src="enforcer.txd" replace="427" />
+	<file displayName="Honda C90" dff="faggio.dff" src="faggio.txd" replace="462" />
+	<file displayName="Mitshubishi Montero" dff="fbiranch.dff" src="fbiranch.txd" replace="490" />
+	<file displayName="Yamaha 115" dff="fcr900.dff" src="fcr900.txd" replace="521" />
+	<file displayName="Tanqueta ESMAD" dff="firetruk.dff" src="firetruk.txd" replace="407" />
+	<file displayName="Harley Davidson" dff="freeway.dff" src="freeway.txd" replace="463" />
+	<file displayName="Sofá" dff="golfcart.dff" src="golfcart.txd" replace="457" />
+	<file displayName="Renault Sandero" dff="greenwoo.dff" src="greenwoo.txd" replace="492" />
+	<file displayName="Cadillac Eldorado Biarritz Convertible 1959" dff="hermes.dff" src="hermes.txd" replace="474" />
+	<file displayName="Formula1" dff="hotrinb.dff" src="hotrinb.txd" replace="503" />
+	<file displayName="Ferrari LaFerrari" dff="hotring2.dff" src="hotring2.txd" replace="502" />
+	<file displayName="Moto Policías" dff="hpv1000.dff" src="hpv1000.txd" replace="523" />
+	<file displayName="Rare Halloween" dff="hustler.dff" src="hustler.txd" replace="545" />
+	<file displayName="Infernus" dff="infernus.dff" src="infernus.txd" replace="411" />
+	<file displayName="Renault Logan" dff="intruder.dff" src="intruder.txd" replace="546" />
+	<file displayName="Toyota Land Cruiser 1990" dff="landstal.dff" src="landstal.txd" replace="400" />
+	<file displayName="Mazda Miata NB" dff="majestic.dff" src="majestic.txd" replace="517" />
+	<file displayName="Toyota Land Cruiser (FJ)" dff="manana.dff" src="manana.txd" replace="410" />
+	<file displayName="Jeep" dff="mesa.dff" src="mesa.txd" replace="500" />
+	<file displayName="Daewoo Van" dff="moonbeam.dff" src="moonbeam.txd" replace="418" />
+	<file displayName="MTB" dff="mtb.dff" src="mtb.txd" replace="510" />
+	<file displayName="Mazda 626 Millenium" dff="nebula.dff" src="nebula.txd" replace="516" />
+	<file displayName="Chiva Rumbera" dff="newsvan.dff" src="newsvan.txd" replace="582" />
+	<file displayName="Renault 4" dff="peren.dff" src="peren.txd" replace="404" />
+	<file displayName="Chevrolet Elcamino" dff="picador.dff" src="picador.txd" replace="600" />
+	<file displayName="Pizzaboy Rappi" dff="pizzaboy.dff" src="pizzaboy.txd" replace="448" />
+	<file displayName="Duster Policía" dff="police_la.dff" src="police_la.txd" replace="596" />
+	<file displayName="Nissan NP300 Policía" dff="police_vg.dff" src="police_vg.txd" replace="598" />
+	<file displayName="Nissan Camión Policía" dff="polranger.dff" src="polranger.txd" replace="599" />
+	<file displayName="Chevrolet Spark" dff="premier.dff" src="premier.txd" replace="426" />
+	<file displayName="Chevrolet Corsa" dff="previon.dff" src="previon.txd" replace="436" />
+	<file displayName="Chevrolet Spark GT" dff="primo.dff" src="primo.txd" replace="547" />
+	<file displayName="Buseta Colombia Shitposting .exe" dff="regina.dff" src="regina.txd" replace="479" />
+	<file displayName="Camión alquería" dff="securica.dff" src="securica.txd" replace="428" />
+	<file displayName="Buseta Bogotana" dff="sentinel.dff" src="sentinel.txd" replace="405" />
+	<file displayName="Chevrolet Aveo tunning" dff="sunrise.dff" src="sunrise.txd" replace="550" />
+	<file displayName="Zorra" dff="sweeper.dff" src="sweeper.txd" replace="574" />
+	<file displayName="Renault 18" dff="tahoma.dff" src="tahoma.txd" replace="566" />
+	<file displayName="Chevrolet Spark Taxi" dff="taxi.dff" src="taxi.txd" replace="420" />
+	<file displayName="Camión Basura Bogotá" dff="trash.dff" src="trash.txd" replace="408" />
+	<file displayName="Yate" dff="tropic.dff" src="tropic.txd" replace="454" />
+	<file displayName="Nissan Skyline R34 Nur II" dff="vincent.dff" src="vincent.txd" replace="540" />
+	<file displayName="NMax" dff="wayfarer.dff" src="wayfarer.txd" replace="586" />
+	<file displayName="Nissan Tsuru" dff="willard.dff" src="willard.txd" replace="529" />
+	<file displayName="Toyota Hilux" dff="yosemite.dff" src="yosemite.txd" replace="554" />
+	<file displayName="Suzuki Samurai" dff="rancher.dff" src="rancher.txd" replace="489" />
+	<file displayName="Mazda 3 2005" dff="savanna.dff" src="savanna.txd" replace="567" />
+	<file displayName="Toyota Prado" dff="Romero.dff" src="Romero.txd" replace="442" />
+	<file displayName="Toyota Supra" dff="jester.dff" src="jester.txd" replace="559" />
+	<file displayName="Peugeot 206 Tunning" dff="esperanto.dff" src="esperanto.txd" replace="419" />
+	<file displayName="Alimentador" src="bus.dff" replace="431" />
+	<file displayName="Carro Perro" src="mrwhoop.dff" replace="423" />
+	<file displayName="Ferrari F430" src="banshee.dff" dff="banshee.dff" replace="429" />
+	<file displayName="Camión de Acarreos" src="benson.dff" dff="benson.dff" replace="499" />
+	<file displayName="Yamaha Ninja" src="bf400.dff" dff="bf400.dff" replace="581" />
+	<file displayName="Toyota AE85 LEVIN" src="buccanee.dff" dff="buccanee.dff" replace="518" />
+	<file displayName="Dodge Charger RT 1970" src="buffalo.dff" dff="buffalo.dff" replace="402" />
+	<file displayName="Ford GT 2005" src="bullet.dff" dff="bullet.dff" replace="541" />
+	<file displayName="Shelby Mustang 1970" src="cheetah.dff" dff="cheetah.dff" replace="415" />
+	<file displayName="Bravado GTA V" src="clover.dff" dff="clover.dff" replace="542" />
+	<file displayName="Nissan Skyline R32 GTR" src="comet.dff" dff="comet.dff" replace="480" />
+	<file displayName="Nissan Farlady 300zx" src="euros.dff" dff="euros.dff" replace="587" />
+	<file displayName="Ford Focus ST" src="flash.dff" dff="flash.dff" replace="565" />
+	<file displayName="Lamborghini Countach" src="hotring.dff" dff="hotring.dff" replace="494" />
+	<file displayName="Trineo de Nieve" src="kart.dff" dff="kart.dff" replace="571" />
+	<file displayName="Mitshubishi Lancer Evo III" src="merit.dff" dff="merit.dff" replace="551" />
+	<file displayName="Yamaha Ninja 2" src="nrg500.dff" dff="nrg500.dff" replace="522" />
+	<file displayName="Mazda FC Savanna RX7" src="phoenix.dff" dff="phoenix.dff" replace="603" />
+	<file displayName="Toyota Fortuner" src="sandking.dff" dff="sandking.dff" replace="495" />
+	<file displayName="Camioneta FULL SONIDO KEVIN OCAMPO EDITION" src="topfun.dff" dff="topfun.dff" replace="459" />
+	<file displayName="Pontiac Trans AM 1970" src="tornado.dff" dff="tornado.dff" replace="576" />
+	<file displayName="Ferrari F40" src="turismo.dff" dff="turismo.dff" replace="451" />
+	<file displayName="Mazda FD RX7" src="uranus.dff" dff="uranus.dff" replace="558" />
+	<file displayName="Chévrolet Impala" src="voodoo.dff" dff="voodoo.dff" replace="412" />
+	<file displayName="Maserati Gran Turismo" src="windsor.dff" dff="windsor.dff" replace="555" />
+	<file displayName="Toyota AE86 Sprinter Trueno GT APEX" src="zr350.dff" dff="zr350.dff" replace="477" />
+	<file displayName="Lancer Evo X" src="sultan.dff" dff="sultan.dff" replace="560" />
+	<file displayName="Delorean DMC-12 Time Machine" src="supergt.dff" dff="supergt.dff" replace="506" />
+	<file displayName="Honda Civic Type R" src="oceanic.dff" dff="oceanic.dff" replace="467" />
+	<file displayName="Nissan Skyline R35 LibertyWalk" src="alpha.dff" dff="alpha.dff" replace="602" />
+	<file displayName="Nissan Skyline R32 Drift" src="blistac.dff" dff="blistac.dff" replace="496" />
+	<file displayName="Dodge Durango" src="durango.dff" dff="durango.dff" replace="458" />
+	<file displayName="Mini Cooper" src="minic.dff" dff="minic.dff" replace="527" />
+	<file displayName="Rolls Royce Phantom Hamann" src="stafford.dff" dff="stafford.dff" replace="580" />
+	<file displayName="Mercedes Benz GWagon" src="huntley.dff" dff="huntley.dff" replace="579" />
+	<file displayName="Suzuki Ax100" src="bike.dff" dff="bike.dff" replace="461" />
+	<file displayName="Chevrolet Camaro Dragster" src="virgo.dff" dff="virgo.dff" replace="491" />
+	<file displayName="Trailer2" src="artict3.dff" dff="artict3.dff" replace="450" />
+	<file displayName="Barracks" src="barracks.dff" dff="barracks.dff" replace="433" />
+	<file displayName="Honda S2000 CVR Edition" src="feltzer.dff" dff="feltzer.dff" replace="533" />
+	<file displayName="Mercedes Benz Clase E" src="merchopercho.dff" dff="merchopercho.dff" replace="445" />
+	<file displayName="BMW E30 1986" src="fortune.dff" dff="fortune.dff" replace="526" />
+	<file displayName="Ambulancia" dff="ambulan.dff" src="ambulan.dff" replace="416" />
+	<file displayName="Andromeda" dff="androm.dff" src="androm.dff" replace="592" />
+	<file displayName="Vehiculo Exclusivo Clan GT" dff="bandito.dff" src="bandito.dff" replace="568" />
+	<file displayName="Chevrolet Old" dff="bobcat.dff" src="bobcat.dff" replace="422" />
+	<file displayName="Bus Viejo" dff="bus.dff" src="bus.dff" replace="431" />
+	<file displayName="Camioneta PONAL" dff="camper.dff" src="camper.dff" replace="483" />
+	<file displayName="Honda Civic Initial D" dff="club.dff" src="club.dff" replace="589" />
+	<file displayName="Hijuebus" dff="coach.dff" src="coach.dff" replace="437" />
+	<file displayName="Camión Postobón" dff="dft30.dff" src="dft30.dff" replace="578" />
+	<file displayName="Yamaha DT" dff="dirtbike.dff" src="dirtbike.dff" replace="468" />
+	<file displayName="Fiat 80ntero" dff="emperor.dff" src="emperor.dff" replace="585" />
+	<file displayName="Camión Ejército" dff="enforcer.dff" src="enforcer.dff" replace="427" />
+	<file displayName="Honda C90" dff="faggio.dff" src="faggio.dff" replace="462" />
+	<file displayName="Mitshubishi Montero" dff="fbiranch.dff" src="fbiranch.dff" replace="490" />
+	<file displayName="Yamaha 115" dff="fcr900.dff" src="fcr900.dff" replace="521" />
+	<file displayName="Tanqueta ESMAD" dff="firetruk.dff" src="firetruk.dff" replace="407" />
+	<file displayName="Harley Davidson" dff="freeway.dff" src="freeway.dff" replace="463" />
+	<file displayName="Sofá" dff="golfcart.dff" src="golfcart.dff" replace="457" />
+	<file displayName="Renault Sandero" dff="greenwoo.dff" src="greenwoo.dff" replace="492" />
+	<file displayName="Cadillac Eldorado Biarritz Convertible 1959" dff="hermes.dff" src="hermes.dff" replace="474" />
+	<file displayName="Formula1" dff="hotrinb.dff" src="hotrinb.dff" replace="503" />
+	<file displayName="Ferrari LaFerrari" dff="hotring2.dff" src="hotring2.dff" replace="502" />
+	<file displayName="Moto Policías" dff="hpv1000.dff" src="hpv1000.dff" replace="523" />
+	<file displayName="Rare Halloween" dff="hustler.dff" src="hustler.dff" replace="545" />
+	<file displayName="Infernus" dff="infernus.dff" src="infernus.dff" replace="411" />
+	<file displayName="Renault Logan" dff="intruder.dff" src="intruder.dff" replace="546" />
+	<file displayName="Toyota Land Cruiser 1990" dff="landstal.dff" src="landstal.dff" replace="400" />
+	<file displayName="Mazda Miata NB" dff="majestic.dff" src="majestic.dff" replace="517" />
+	<file displayName="Toyota Land Cruiser (FJ)" dff="manana.dff" src="manana.dff" replace="410" />
+	<file displayName="Jeep" dff="mesa.dff" src="mesa.dff" replace="500" />
+	<file displayName="Daewoo Van" dff="moonbeam.dff" src="moonbeam.dff" replace="418" />
+	<file displayName="MTB" dff="mtb.dff" src="mtb.dff" replace="510" />
+	<file displayName="Mazda 626 Millenium" dff="nebula.dff" src="nebula.dff" replace="516" />
+	<file displayName="Chiva Rumbera" dff="newsvan.dff" src="newsvan.dff" replace="582" />
+	<file displayName="Renault 4" dff="peren.dff" src="peren.dff" replace="404" />
+	<file displayName="Chevrolet Elcamino" dff="picador.dff" src="picador.dff" replace="600" />
+	<file displayName="Pizzaboy Rappi" dff="pizzaboy.dff" src="pizzaboy.dff" replace="448" />
+	<file displayName="Duster Policía" dff="police_la.dff" src="police_la.dff" replace="596" />
+	<file displayName="Nissan NP300 Policía" dff="police_vg.dff" src="police_vg.dff" replace="598" />
+	<file displayName="Nissan Camión Policía" dff="polranger.dff" src="polranger.dff" replace="599" />
+	<file displayName="Chevrolet Spark" dff="premier.dff" src="premier.dff" replace="426" />
+	<file displayName="Chevrolet Corsa" dff="previon.dff" src="previon.dff" replace="436" />
+	<file displayName="Chevrolet Spark GT" dff="primo.dff" src="primo.dff" replace="547" />
+	<file displayName="Buseta Colombia Shitposting .exe" dff="regina.dff" src="regina.dff" replace="479" />
+	<file displayName="Camión alquería" dff="securica.dff" src="securica.dff" replace="428" />
+	<file displayName="Buseta Bogotana" dff="sentinel.dff" src="sentinel.dff" replace="405" />
+	<file displayName="Chevrolet Aveo tunning" dff="sunrise.dff" src="sunrise.dff" replace="550" />
+	<file displayName="Zorra" dff="sweeper.dff" src="sweeper.dff" replace="574" />
+	<file displayName="Renault 18" dff="tahoma.dff" src="tahoma.dff" replace="566" />
+	<file displayName="Chevrolet Spark Taxi" dff="taxi.dff" src="taxi.dff" replace="420" />
+	<file displayName="Camión Basura Bogotá" dff="trash.dff" src="trash.dff" replace="408" />
+	<file displayName="Yate" dff="tropic.dff" src="tropic.dff" replace="454" />
+	<file displayName="Nissan Skyline R34 Nur II" dff="vincent.dff" src="vincent.dff" replace="540" />
+	<file displayName="NMax" dff="wayfarer.dff" src="wayfarer.dff" replace="586" />
+	<file displayName="Nissan Tsuru" dff="willard.dff" src="willard.dff" replace="529" />
+	<file displayName="Toyota Hilux" dff="yosemite.dff" src="yosemite.dff" replace="554" />
+	<file displayName="Suzuki Samurai" dff="rancher.dff" src="rancher.dff" replace="489" />
+	<file displayName="Mazda 3 2005" dff="savanna.dff" src="savanna.dff" replace="567" />
+	<file displayName="Toyota Prado" dff="Romero.dff" src="Romero.dff" replace="442" />
+	<file displayName="Toyota Supra" dff="jester.dff" src="jester.dff" replace="559" />
+	<file displayName="Peugeot 206 Tunning" dff="esperanto.dff" src="esperanto.dff" replace="419" />
+</meta>

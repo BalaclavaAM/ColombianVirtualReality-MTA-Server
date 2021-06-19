@@ -574,14 +574,14 @@ local function disableHud()
     setPlayerHudComponentVisible( "crosshair", true)
 end
 addEvent("CVRHud->DisableHud",true)
-addEventHandler("CVRHud->DisableHud",root,disableHud)    
+addEventHandler("CVRHud->DisableHud",root,onStop)    
 
 
 local function enableHud() 
     setPlayerHudComponentVisible( "all", true)
 end
 addEvent("CVRHud->EnableHud",true)
-addEventHandler("CVRHud->EnableHud",root,disableHud)  
+addEventHandler("CVRHud->EnableHud",root,onStart)  
 
 
 addEventHandler("onClientHUDRender", root, disableHud)

@@ -306,6 +306,7 @@ function closeLogin ( user, _, intro, ip )
 	removeEventHandler ( "onClientPreRender", root, dxDrawLoginPanel )
 	removeEventHandler ( 'onClientCursorMove', root, cursorMove )
 	removeEventHandler ( "onClientClick", root, clientClicking )
+	triggerEvent("CVRHud->EnableHud",localPlayer)
 	guiSetVisible ( password, false )
 	guiSetVisible ( username, false )
 	showCursor ( false )
@@ -442,3 +443,5 @@ function dxDrawLinedRectangle( x, y, width, height, color, _width, postGUI )
 	dxDrawLine ( x, y+height, x+width, y+height, color, _width, postGUI ) -- Bottom
 	return dxDrawLine ( x+width, y, x+width, y+height, color, _width, postGUI ) -- Right
 end
+
+triggerEvent("CVRHud->DisableHud",localPlayer)

@@ -573,10 +573,17 @@ local function disableHud()
     setPlayerHudComponentVisible( "radar", true)
     setPlayerHudComponentVisible( "crosshair", true)
 end
-    
+addEvent("CVRHud->DisableHud",true)
+addEventHandler("CVRHud->DisableHud",root,disableHud)    
+
+
 local function enableHud() 
     setPlayerHudComponentVisible( "all", true)
 end
+addEvent("CVRHud->EnableHud",true)
+addEventHandler("CVRHud->EnableHud",root,disableHud)  
+
+
 addEventHandler("onClientHUDRender", root, disableHud)
 addEventHandler("onClientResourceStart", root, disableHud)
 addEventHandler("onClientPlayerJoin", root, disableHud)

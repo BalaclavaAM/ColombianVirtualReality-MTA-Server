@@ -1,6 +1,7 @@
 local momo=false
 function modofoto()
     if not momo then
+		triggerEvent("CVRHud->EnableHud",localPlayer)
         setPlayerHudComponentVisible ( "all", false )
         showChat ( false )
         local players = getElementsByType ( "player" ) -- Store all the players in the server into a table
@@ -9,6 +10,7 @@ function modofoto()
         end
         momo=true
     else
+		triggerEvent("CVRHud->DisableHud",localPlayer)
         setPlayerHudComponentVisible ( "all", true )
         showChat ( true )
         local players = getElementsByType ( "player" ) -- Store all the players in the server into a table

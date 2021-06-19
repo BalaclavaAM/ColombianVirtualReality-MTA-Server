@@ -1,0 +1,29 @@
+﻿<meta>
+	<info author="KaMiKaZe" version="1.9" name="Misterix Mod V1" description="Misterix monsters and attackers around SA" type="script" />
+	<script src="server.lua" type="server" />
+	<script src="client.lua" type="client" />
+	<script src="engine/engine_s.lua" type="server" />
+	<script src="engine/engine_c.lua" type="client" />	
+
+	<file src="files/jason.txd" />
+	<file src="files/jason.dff" />
+	<file src="files/leatherface.txd" />
+	<file src="files/leatherface.dff" />
+	<file src="files/bigfoot.txd" />
+	<file src="files/bigfoot.dff" />
+	<file src="files/samara.txd" />
+	<file src="files/samara.dff" />
+	<file src="files/lizard.txd" />
+	<file src="files/lizard.dff" />
+	<file src="files/cavedemon.txd" />
+	<file src="files/cavedemon.dff" />
+	<file src="files/pigsy.txd" />
+	<file src="files/pigsy.dff" />
+	<file src="files/yeti.txd" />
+	<file src="files/yeti.dff" />
+	<file src="files/nemesis.txd" />
+	<file src="files/nemesis.dff" />	
+	<file src="files/nessie.txd" />
+	<file src="files/nessie.dff" />		
+	
+</meta>

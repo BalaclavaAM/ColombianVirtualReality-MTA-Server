@@ -1,0 +1,14 @@
+<meta>
+    <info author="BalaclavaAM" description="torrecolpatria" version="1.0" type="script" />
+
+	<script src="replace.lua" type="client" />
+
+    <file src="texturas/landshit_09_sfe.dff" />
+    <file src="texturas/lod2_sfe.txd" />
+    <file src="texturas/loda02.dff" />
+    <file src="texturas/nitelites.txd" />
+    <file src="texturas/nitelites_sfe01.dff" />
+    <file src="texturas/pointysfe.txd" />
+    <file src="texturas/loda02.col" />
+    <file src="texturas/landshit_09_sfe.col" />
+</meta>

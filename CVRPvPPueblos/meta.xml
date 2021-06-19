@@ -1,0 +1,5 @@
+<meta>
+	<info author="BalaclavaAM" type="script" name="CVRPvPPueblos" />
+	<script src="c_CVRPvPPueblos.lua" type="client" cache="false" />
+	<script src="s_CVRPvPPueblos.lua" type="server" />
+</meta>

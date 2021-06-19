@@ -1,0 +1,6 @@
+<meta>
+	<info author="BalaclavaAM" type="script" name="CVRhitman" />
+	<script src="c_CVRhitman.lua" type="client" cache="false" />
+	<script src="s_CVRhitman.lua" type="server" />
+	<export function="hasReward" type="server" cache="false" />
+</meta>

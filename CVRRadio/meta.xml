@@ -1,0 +1,6 @@
+<meta>
+	<info author="AshTheLynx" name="Radio" version="1.0" type="script" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+<file src="mp3.png"/>
+</meta>

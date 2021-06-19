@@ -1,0 +1,45 @@
+<meta>
+    <script src="client.lua" type="client" />
+    <script src="teleport.lua" type="server" />
+    <script src="radar.lua" type="server" />
+    <file src="data/tran.txd" />
+    <file src="data/tran1.col" />
+    <file src="data/tran1.dff" />
+    <file src="data/tran2.col" />
+    <file src="data/tran2.dff" />
+    <file src="data/tran3.col" />
+    <file src="data/tran3.dff" />
+    <file src="data/tran4.col" />
+    <file src="data/tran4.dff" />
+    <file src="data/tran5.col" />
+    <file src="data/tran5.dff" />
+    <file src="data/tran6.col" />
+    <file src="data/tran6.dff" />
+    <file src="data/tran7.col" />
+    <file src="data/tran7.dff" />
+    <file src="data/tran8.col" />
+    <file src="data/tran8.dff" />
+    <file src="data/tran9.col" />
+    <file src="data/tran9.dff" />
+    <file src="data/tran10.col" />
+    <file src="data/tran10.dff" />
+    <file src="data/tran11.col" />
+    <file src="data/tran11.dff" />
+    <file src="data/tran12.col" />
+    <file src="data/tran12.dff" />
+    <info type="map" version="1.0.0"></info>
+    <map src="map-Transfagarasan.map" dimension="0"></map>
+    <settings>
+        <setting name="#maxplayers" value="[ 128 ]"></setting>
+        <setting name="#useLODs" value="[ false ]"></setting>
+        <setting name="#gamespeed" value="[ 1 ]"></setting>
+        <setting name="#minplayers" value="[ 0 ]"></setting>
+        <setting name="#gravity" value="[ 0.008 ]"></setting>
+        <setting name="#waveheight" value="[ 0 ]"></setting>
+        <setting name="#locked_time" value="[ false ]"></setting>
+        <setting name="#weather" value="[ 0 ]"></setting>
+        <setting name="#time" value="12:0"></setting>
+    </settings>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

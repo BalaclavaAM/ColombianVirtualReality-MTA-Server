@@ -1,0 +1,18 @@
+<meta>
+<info author="SPARROWMTA" description="Obje Tover" version="1.3" type="script" />
+<script src="client.lua" type="client"/>
+<file src="base.txd" type="client"/>
+<file src="base.dff" type="client"/>
+<file src="base.col" type="client"/>
+</meta>
+
+
+<!-----
+
+-- SparroW MTA :https://sparrow-mta.blogspot.com
+
+-- Discord :  https://discord.gg/DzgEcvy
+
+----->
+
+

@@ -1,0 +1,5 @@
+<meta>
+	<info author="Leaver" version="1.1" name="exhaust sound replacement system" type="script"/>
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+</meta>

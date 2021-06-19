@@ -1,0 +1,9 @@
+<meta>
+    <info author="AshTLX" type="script" name="DT" version="1.1" />
+    <script src="c_DT.lua" type="client"  />
+    <script src="s_DT.lua" type="server"  />
+    <file src="Fondo.png" />
+    <file src="fondo4.png" />
+    <file src="fondo5.png" />
+    <file src="cedula.png" />
+</meta>

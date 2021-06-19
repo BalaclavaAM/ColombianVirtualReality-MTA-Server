@@ -1,0 +1,5 @@
+<meta>
+ <info author="Nicol" version="1.0.0" name="Custom text 2D" description="Custom text" type="script" />
+
+	<script src="client.lua" type="client" />	
+</meta>

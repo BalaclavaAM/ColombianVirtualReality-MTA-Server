@@ -1,0 +1,16 @@
+<help>
+Sistema de Casas por DakiLLa (Construccion/Mantenimiento), traducido al Español por TheBakkeseKing
+==============================================
+Descripción:
+Este es un recurso para crear un sistema de casas. Le permite construir una casa en cualquier lugar y con cualquier interior que desee. Otros jugadores pueden comprar sus casas.
+
+El sistema de la casa incluye:
+- GUI fácil de usar.
+- Comprando una casa.
+- Protección de clave. ¡Puedes configurar tu propia llave para que nadie pueda entrar a tu casa!
+- Vender una casa a mitad de precio de su precio.
+- Establecer un nuevo propietario (si quieres hacer un "pequeño" regalo para alguien: P)
+- Destruir una casa existente. (¡Administradores solamente!)
+
+Si quiere ver todas las casas en su radar, sostenga la tecla 'I'. El ícono de la casa verde significa que aún no hay un dueño en esta casa, el rojo muestra que esta casa ya está ocupada por alguien.
+</help>

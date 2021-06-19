@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (int_tatooA07) (1)" breakable="true" interior="0" alpha="255" model="1981" doublesided="true" scale="1" dimension="0" posX="2123.0039" posY="-2731.0381" posZ="988.23999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA08) (1)" breakable="true" interior="0" alpha="255" model="1982" doublesided="true" scale="1" dimension="0" posX="2485.7429" posY="-2578.168" posZ="956.61603" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Int_tat_tools01) (1)" breakable="true" interior="0" alpha="255" model="1983" doublesided="true" scale="1" dimension="0" posX="2109.72" posY="-2469.72" posZ="922.32001" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Int_tat_lights01) (1)" breakable="true" interior="0" alpha="255" model="1984" doublesided="true" scale="1" dimension="0" posX="2435.8" posY="-2334.637" posZ="880.504" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA09) (1)" breakable="true" interior="0" alpha="255" model="1986" doublesided="true" scale="1" dimension="0" posX="2497.6001" posY="-2054.1001" posZ="855.89999" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA11) (1)" breakable="true" interior="0" alpha="255" model="1987" doublesided="true" scale="1" dimension="0" posX="2139.3401" posY="-2163.167" posZ="834.28799" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA12) (1)" breakable="true" interior="0" alpha="255" model="1988" doublesided="true" scale="1" dimension="0" posX="2186.1001" posY="-2011.036" posZ="760.89401" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA13) (1)" breakable="true" interior="0" alpha="255" model="1989" doublesided="true" scale="1" dimension="0" posX="2210.27" posY="-1877.84" posZ="737.98599" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Int_tat_tools02) (1)" breakable="true" interior="0" alpha="255" model="1990" doublesided="true" scale="1" dimension="0" posX="2117.3721" posY="-1614.58" posZ="694.612" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Int_tat_lights02) (1)" breakable="true" interior="0" alpha="255" model="1991" doublesided="true" scale="1" dimension="0" posX="2057.48" posY="-1372.3199" posZ="662" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_tatooA14) (1)" breakable="true" interior="0" alpha="255" model="1992" doublesided="true" scale="1" dimension="0" posX="1987.962" posY="-1086.58" posZ="646.894" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_7_11A40_bits) (1)" breakable="true" interior="0" alpha="255" model="1993" doublesided="true" scale="1" dimension="0" posX="2066.6526" posY="-729.69275" posZ="595.39578" rotX="0" rotY="0" rotZ="0"></object>
+</map>

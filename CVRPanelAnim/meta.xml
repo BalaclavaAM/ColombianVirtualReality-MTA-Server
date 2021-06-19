@@ -1,0 +1,9 @@
+<meta>
+	<info author="ReizerB" type="script" name="CVRPanelAnim" version="1.1"/>
+	<script src="c_CVRPanelAnim.lua" type="client" />
+	<script src="s_CVRPanelAnim.lua" type="server" />
+	<file src="Fortnite pt1.ifp" />
+	<file src="Fortnite pt2.ifp" />
+	<file src="Fortnite pt3.ifp" />
+	<file src="bailes_w.ifp" />
+</meta>

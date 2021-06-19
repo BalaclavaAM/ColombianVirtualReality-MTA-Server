@@ -1,0 +1,20 @@
+<meta>
+    <info type="script" version="1.0.0"></info>
+    <settings>
+        <setting name="*kills" value="10" friendlyname="Kills para Ganar" desc="El número de kills necesarias para que alguien gane." />
+    </settings>
+    <map src="encerrona.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+    <script src="s_CVREncerrona.lua" type="server"></script>
+    <script src="c_CVREncerrona.lua" type="client"></script>
+    <file src="archivos/lockout.txd" />
+    <file src="archivos/lockout.col" />
+    <file src="archivos/lockout.dff" />
+    <file src="archivos/ASESINO.mp3" />
+    <file src="archivos/RESPAWN.mp3" />
+    <file src="archivos/break_s_fillers.txd" />
+    <file src="archivos/xbox.txd" />
+    <file src="archivos/xbox.dff" />
+    <file src="archivos/billbrd01_lan2.txd" />
+</meta>

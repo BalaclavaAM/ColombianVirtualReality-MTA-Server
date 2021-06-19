@@ -1,0 +1,7 @@
+<meta>
+    <info name="Animations Panel @AUR" author="Element" type="script" version="1.0"/>
+	<script src="FuckingClient.lua" type="client" cache="false" />
+	<script src="FuckingServer.lua" type="server" cache="false" />
+	<file src="font.ttf"/>
+	<file src="logo.png"/>
+</meta>

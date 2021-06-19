@@ -1,0 +1,5 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="CVRWarns" />
+	<script src="c_CVRWarns.lua" type="client" cache="false" />
+	<script src="s_CVRWarns.lua" type="server" />
+</meta>

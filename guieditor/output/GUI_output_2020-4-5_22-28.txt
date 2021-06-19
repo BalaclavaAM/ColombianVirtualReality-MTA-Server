@@ -1,0 +1,15 @@
+
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        recoveryWindow = guiCreateWindow(0.12, 0.36, 0.28, 0.27, "Recuperar contraseña", true)
+        guiWindowSetSizable(recoveryWindow, false)
+
+        emailrecLabel = guiCreateEdit(35, 128, 322, 25, "", false, recoveryWindow)
+        recoveryBtn = guiCreateButton(0.60, 0.80, 0.32, 0.14, "Recuperar", true, recoveryWindow)
+        guiSetProperty(recoveryBtn, "NormalTextColour", "FF13FD01")
+        closeBtn = guiCreateButton(0.09, 0.80, 0.32, 0.14, "Cerrar", true, recoveryWindow)
+        guiSetProperty(closeBtn, "NormalTextColour", "FFFD0000")
+        msgLabel = guiCreateLabel(0.08, 0.13, 0.84, 0.46, "Ingresa tu email en el campo para resetear tu clave.\nEl email con la nueva contraseña puede demorar de 0-30\nminutos dependiendo de la disponibilidad del servidor.\nLuego de reiniciar tu clave usa \n/chgmypass nuevapass \npara cambiarla a la que desees.", true, recoveryWindow)
+        guiLabelSetHorizontalAlign(msgLabel, "left", true)    
+    end
+)

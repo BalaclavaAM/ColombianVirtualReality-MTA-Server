@@ -1,0 +1,14 @@
+
+GUIEditor = {
+    window = {},
+    memo = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+        GUIEditor.window[1] = guiCreateWindow(905, 486, 96, 48, "", false)
+        guiWindowSetSizable(GUIEditor.window[1], false)
+
+
+        GUIEditor.memo[1] = guiCreateMemo(902, 446, 20, 20, "", false)    
+    end
+)

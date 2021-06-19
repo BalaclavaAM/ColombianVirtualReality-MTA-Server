@@ -1,0 +1,19 @@
+
+<meta>
+	<info author="GamerCarl" version="0.2.0" name="Panel de Ayuda!" type="script" />
+     <oop>true</oop>
+	<script src="Cliente.lua" type="client" cache="false" />
+	<file src="abrir.wav"/>
+	
+	<!-- PANEL EN ESPAÑOL -->
+ 	<file src="Espanol/Administracion.txt"/>
+    <file src="Espanol/General.txt"/>
+	<file src="Espanol/Comandos.txt"/>
+	<file src="Espanol/Reglas.txt"/>
+	<file src="Espanol/Encargados.txt"/>
+	<file src="Espanol/VIP.txt"/>
+	<file src="Espanol/Redes.txt"/>
+    
+	<!-- Logos -->
+	<file src="Logos/logoColor.png"/>
+</meta>

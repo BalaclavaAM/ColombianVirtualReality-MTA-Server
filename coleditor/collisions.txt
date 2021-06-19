@@ -1,0 +1,4 @@
+
+
+-- -- -- -- -- 1.4.2021 at 20:14, Creator: XXXCEJON
+myCollision = createColCuboid(718.01129, -1300.0067, 13.645313, 11.25, 49, 2)

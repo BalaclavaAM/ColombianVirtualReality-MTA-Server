@@ -1,0 +1,9 @@
+<meta>
+    <script src="ptele.lua" type="server"></script>
+    <script src="musiclocated.lua" type="client" />
+    <script src="dj.lua" type="client" />
+    <info type="map" version="1.0.0"></info>
+    <map src="disco1.map" dimension="0"></map>
+    <script src="mapEditorScriptingExtension_s.lua" type="server"></script>
+    <script src="mapEditorScriptingExtension_c.lua" type="client" validate="false"></script>
+</meta>

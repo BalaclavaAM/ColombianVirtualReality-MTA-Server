@@ -1,0 +1,96 @@
+<meta>
+	<info author="Killuminati" version="1.0" type="script" /> 
+
+		<script src="client.lua" type="client" /> 
+	<script src="server.lua" type="server" /> 
+	<file src="1.wav" />
+		<file src="shop10/33.png" />
+	<file src="shop10/34.png" />
+	<file src="shop10/35.png" />
+	<file src="shop10/36.png" />
+	<file src="shop10/37.png" />
+	<file src="shop10/38.png" />
+	<file src="shop10/39.png" />
+	<file src="shop10/40.png" />
+	<file src="shop10/41.png" />
+	<file src="shop10/42.png" />
+	<file src="shop10/43.png" />
+	<file src="shop10/44.png" />
+	<file src="shop10/45.png" />
+	<file src="shop10/46.png" />
+	<file src="shop10/47.png" />
+	<file src="shop10/48.png" />
+	<file src="shop10/49.png" />
+		<file src="shop10/62.png" />
+	<file src="shop10/63.png" />
+	<file src="shop10/64.png" />
+	<file src="shop10/65.png" />
+	<file src="shop10/66.png" />
+	<file src="shop10/67.png" />
+	<file src="shop10/69.png" />
+	<file src="shop10/58.png" />
+	<file src="shop10/59.png" />
+	<file src="shop10/61.png" />
+	<file src="shop10/50.png" />
+		<file src="shop10/87.png" />
+		<file src="shop10/60.png" />
+		<file src="shop10/51.png" />
+		<file src="shop10/52.png" />
+		<file src="shop10/53.png" />
+		<file src="shop10/54.png" />
+		<file src="shop10/55.png" />
+		<file src="shop10/56.png" />
+		<file src="shop10/57.png" />
+		<file src="shop12/flwrdn.png" />
+		<file src="shop12/trffco.png" />
+		<file src="shop12/9.png" />
+		<file src="shop12/blblck.png" />
+		<file src="shop12/wdblck.png" />
+		<file src="shop12/ststfh.png" />
+		<file src="shop12/wtrtt.png" />
+		<file src="shop12/knnn.png" />
+		<file src="shop12/hzkndf.png" />
+		<file src="shop12/rtskfg.png" />
+		<file src="shop12/rtskf.png" />
+		<file src="shop11/9.png" />
+		<file src="shop12/sptrd.png" />
+		<file src="shop12/strsf.png" />
+		<file src="shop12/strs.png" />
+		<file src="shop8/20.png" />
+		<file src="shop11/101.png" />
+		<file src="shop12/1.png" />
+		<file src="shop12/gngsttu.png" />
+		<file src="shop11/122.png" />
+		<file src="shop12/dsclght.png" />
+		<file src="shop12/staanlichtje.png" />
+		<file src="shop11/103.png" />
+		<file src="shop11/104.png" />
+		<file src="shop11/105.png" />
+		<file src="shop11/106.png" />
+		<file src="shop11/107.png" />
+		<file src="shop11/102.png" />
+		<file src="shop11/109.png" />
+		<file src="shop11/108.png" />
+		<file src="shop11/66.png" />
+		<file src="shop11/120.png" />
+		<file src="shop11/121.png" />
+		<file src="shop12/bshjfg.png" />
+		<file src="shop12/flghrtg.png" />
+		<file src="shop12/ffghht.png" />
+		<file src="shop12/flwnrtg.png" />
+		<file src="shop12/fencdfg.png" />
+		<file src="wep/9.png" />
+		<file src="shop/777.png" />
+		<file src="shop8/30.png" />
+		<file src="shop12/fencdfjk.png" />
+		<file src="shop12/weedvggh.png" />
+		<file src="shop4/34.png" />
+		<file src="shop4/33.png" />
+		<file src="shop12/langgrs.png" />
+		<file src="shop12/othrcbn.png" />
+		<file src="shop12/brkhs.png" />
+		<file src="shop12/weidtrr.png" />
+
+</meta>
+
+

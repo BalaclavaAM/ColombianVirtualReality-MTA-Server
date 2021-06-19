@@ -1,0 +1,15 @@
+<meta>
+	<info author="BalacalvaAM" type="script" name="CVRTshirts" />
+	<script src="s_CVRTshirts.lua" type="client" cache="false" />
+	<file src="archivos/tshirtbobomonk.txd" />
+	<file src="archivos/tshirterisyell.txd" />
+	<file src="archivos/tshirtlocgrey.txd" />
+	<file src="archivos/tshirtsuburb.txd" />
+	<file src="archivos/tshirtmaddgrey.txd" />
+    <file src="archivos/tshirtheatwht.txd"/>
+    <file src="archivos/tshirtmaddgrn.txd"/>
+    <file src="archivos/tshirtproblk.txd"/>
+    <file src="archivos/tshirtzipcrm.txd"/>
+    <file src="archivos/tshirtzipgry.txd"/>
+    <file src="archivos/tshirt2horiz.txd"/>
+</meta>

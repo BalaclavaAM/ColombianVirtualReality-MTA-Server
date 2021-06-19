@@ -1,0 +1,406 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+	box-sizing: border-box;
+}
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+	color: #fff;
+	font-size: 20px;
+	position:fixed;
+    top:0;
+    bottom:0;
+    left:0;
+    right:0;
+	background: #f6f5f7;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-family: 'Montserrat', sans-serif;
+	height: 100vh;
+}
+
+
+input[type=text]{
+	border-radius: 5px;
+	border: none;
+	background-color: #eee;
+	color: #78007c;
+	font-size: 13px;
+	margin-top: 10%;
+	font-weight: bold;
+	padding: 12px 45px;
+	outline: none;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+input[type=password]{
+	border-radius: 5px;
+	border: none;
+	background-color: #eee;
+	color: #330035;
+	font-size: 13px;
+	margin-top: 10%;
+	font-weight: bold;
+	padding: 12px 45px;
+	outline: none;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+input[type=cpassword]{
+	border-radius: 5px;
+	border: none;
+	background-color: #eee;
+	color: #330035;
+	font-size: 13px;
+	margin-top: 10%;
+	font-weight: bold;
+	padding: 12px 45px;
+	outline: none;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+::-webkit-input-placeholder{
+   color: rgba(0,0,0,1);
+}
+
+::-moz-input-placeholder{
+   color: rgba(0,0,0,1);
+}
+#colorstrip{
+    width: 100%; height: 260px;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+	opacity: 0.35;
+	position: fixed;
+	top: calc(50% - 110px);
+}
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,800');
+
+* {
+	box-sizing: border-box;
+}
+	
+
+
+h1 {
+	font-weight: bold;
+	margin: 0;
+	font-size: 20px;
+}
+
+h2 {
+	text-align: center;
+}
+
+p {
+	font-size: 14px;
+	font-weight: 100;
+	line-height: 20px;
+	letter-spacing: 0.5px;
+	margin: 20px 0 30px;
+}
+
+
+#error 
+{
+    animation-name: example;
+    animation-duration: 1s;
+	animation-direction: alternate;
+	animation-iteration-count: infinite;
+}
+
+
+
+#error-1:hover {
+    transform: scale(1.1);
+} 
+
+
+
+
+input.jhost {
+	background-color: transparent;
+	border-radius: 20px;
+	border: 1px solid #c002b0;
+	background-color: #ea00ff;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+input.jhost:hover {
+	transform: scale(0.95);
+	background-color: #af00af;
+	color: #FFFFFF;
+	border-color: #d3058e;
+}
+
+
+
+
+
+    .button{
+	background-color: transparent;
+	border-color: #FFFFFF;
+	border-radius: 40px;
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+    display: block;
+	margin: 10%;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+      }
+	  
+	   .button:hover {
+	   	transform: scale(0.95);
+	background-color: #330035;
+	color: #FFFFFF;
+	border-color: #330035;
+	    }
+		
+        .button:focus {
+	   outline: none;
+	    }
+		
+		
+
+input[type="submit"] {
+	border-radius: 20px;
+	border: 1px solid #330035;
+	background-color: #330035;
+	color: #FFFFFF;
+	font-size: 12px;
+	font-weight: bold;
+	padding: 12px 45px;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	transition: transform 80ms ease-in;
+}
+
+input[type="submit"]:active {
+	transform: scale(0.95);
+}
+
+input[type="submit"]:focus {
+	outline: none;
+}
+
+input[type="submit"].ghost {
+	background-color: transparent;
+	border-color: #FFFFFF;
+}
+
+main {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 50px;
+	height: 100%;
+	text-align: center;
+}
+
+input {
+	background-color: #eee;
+	border: none;
+	padding: 12px 15px;
+	margin: 8px 0;
+	width: 100%;
+}
+
+
+
+.form-container {
+	position: absolute;
+	top: 0;
+	height: 100%;
+	transition: all 0.6s ease-in-out;
+}
+
+.sign-in-container {
+	left: 0;
+	width: 50%;
+	z-index: 2;
+}
+
+.container.right-panel-active .sign-in-container {
+	transform: translateX(100%);
+	opacity: 0;
+}
+
+.sign-up-container {
+	left: 0;
+	width: 50%;
+	opacity: 0;
+	z-index: 1;
+}
+
+.container.right-panel-active .sign-up-container {
+	transform: translateX(100%);
+	opacity: 1;
+	z-index: 5;
+	animation: show 0.6s;
+}
+
+
+.overlay-container {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 50%;
+	height: 100%;
+	overflow: hidden;
+	transition: transform 0.6s ease-in-out;
+	z-index: 100;
+}
+
+.container.right-panel-active .overlay-container{
+	transform: translateX(-100%);
+}
+
+.overlay {
+	background: linear-gradient(to right, #2b013f, #ff55da);
+
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: 0 0;
+	color: #FFFFFF;
+	position: relative;
+	left: -100%;
+	height: 100%;
+	width: 200%;
+  	transform: translateX(0);
+	transition: transform 0.6s ease-in-out;
+}
+
+.container.right-panel-active .overlay {
+  	transform: translateX(50%);
+}
+
+.overlay-panel {
+	position: absolute;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
+	padding: 0 40px;
+	text-align: center;
+	top: 0;
+	height: 100%;
+	width: 50%;
+	transform: translateX(0);
+	transition: transform 1s ease-in-out;
+}
+
+.overlay-left {
+	transform: translateX(-20%);
+}
+
+.container.right-panel-active .overlay-left {
+	transform: translateX(0);
+}
+
+.overlay-right {
+	right: 0;
+	transform: translateX();
+}
+
+.container.right-panel-active .overlay-right {
+	transform: translateX(20%);
+}
+
+.social-container {
+	margin: 20px 0;
+}
+
+	  
+
+.mover {
+  top: 95%;
+  left: 5%;
+  display: inline;
+  margin: 0 auto;
+  padding: 0;
+  position: absolute;
+  width: 15px;
+  background: linear-gradient(45deg, #830071 0%, transparent 100%);
+  font-weight: bold;
+  font-size:20px;
+  transition: 1s;
+}
+
+.mover:hover{
+	width: 55px;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+input[type="checkbox"]
+{
+-webkit-appearance: none;
+visibility: hidden;
+display: none;
+}
+.check
+{
+bottom:90%;
+left: 45%;
+position: absolute;
+display: block;
+width: 70px;
+height: 25px;
+background: #fff;
+cursor: pointer;
+border-radius: 20px;
+transition: ease-in 1s;
+box-shadow: 0 0 0 1600px #092c3e;
+}
+input[type="checkbox"]:checked ~ .check
+{
+background: #fff;
+box-shadow: 0 0 0 1600px transparent;
+}
+.check:before
+{
+content:'';
+position: absolute;
+top: 3px;
+left: 3px;
+background: #092c3e;
+width: 20px;
+height: 20px;
+border-radius: 50%;
+transition: 1s;
+}
+
+input[type="checkbox"]:checked ~ .check:before
+{
+transform: translateX(45px);
+background: #00e59b;
+}
+
+
+
+
+

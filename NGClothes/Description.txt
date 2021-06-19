@@ -1,0 +1,10 @@
+Hello! 
+I'm really glad that you bought my Interior Customizing System! :)
+Things you have to know to be able to run the system:
+- You have to change the MySQL datas in the server sided scripts!
+- Two element datas have to be applied to the player:
+	- "dbid": this is a number that defines the player, the players permanent id
+	- "money": the player money, stored in element data, to be able to buy the interior
+- Set up properly the MySQL table that I sent
+
+Enjoy my script! :))

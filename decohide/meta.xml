@@ -1,0 +1,11 @@
+<meta>
+    <!-- RESOURCE -->
+    <info type="script" name="Decohide" author="ZJK" description="Hides the map decorations for potato computers.." version="1.0" />
+
+    <!-- SCRIPTS/FILES -->
+    <script src="decohide_client.lua" type="client" />
+    <file src="objects.xml" />
+
+    <!-- MISC -->
+    <oop>true</oop>
+</meta>

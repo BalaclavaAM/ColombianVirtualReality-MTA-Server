@@ -1,0 +1,5 @@
+<meta>
+	<oop>true</oop>
+	<info name="Moving gates script" author="Dutchman101" version="1.0" type="script"/>
+	<script src="gates.lua" type="server" />
+</meta>

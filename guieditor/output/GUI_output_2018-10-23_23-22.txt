@@ -1,0 +1,34 @@
+GUIEditor = {
+    label = {},
+    memo = {}
+}
+addEventHandler("onClientResourceStart", resourceRoot,
+    function()
+	buyWin = guiCreateWindow(567, 316, 226, 289, "Comprar Drogas", false)
+	guiWindowSetSizable(buyWin, false)
+	baretaLabel = guiCreateLabel(24, 36, 63, 15, "Bareta (0)$", false, buyWin)
+	popperLabel = guiCreateLabel(24, 65, 77, 16, "Popper (0)$", false, buyWin)
+	pericaLabel = guiCreateLabel(24, 95, 63, 15, "Perica (0)$", false, buyWin)
+	lsdLabel = guiCreateLabel(24, 126, 63, 15, "Lsd (0)$", false, buyWin)
+	bazukoLabel = guiCreateLabel(24, 159, 69, 15, "Bazuko (0)$", false, buyWin)
+	heroinaLabel = guiCreateLabel(24, 191, 75, 15, "Heroina (0)$", false, buyWin)
+	baretaEdit = guiCreateEdit(120, 36, 52, 19, "0", false, buyWin)
+	popperEdit = guiCreateEdit(120, 62, 52, 19, "0", false, buyWin)
+	pericaEdit = guiCreateEdit(120, 91, 52, 19, "0", false, buyWin)
+	lsdEdit = guiCreateEdit(120, 122, 52, 19, "0", false, buyWin)
+	bazukoEdit = guiCreateEdit(120, 155, 52, 19, "0", false, buyWin)
+	heroinaEdit = guiCreateEdit(120, 187, 52, 19, "0", false, buyWin)
+	buyBtn = guiCreateButton(21, 246, 82, 27, "Comprar", false, buyWin)
+	closeBuyBtn = guiCreateButton(120, 246, 82, 27, "Cerrar", false, buyWin)
+	totalLabel = guiCreateLabel(59, 216, 99, 15, "Total: 0 $", false, buyWin)  
+	addEventHandler ( "onClientGUIClick", closeBuyBtn, closeBuyWindow, false )
+	addEventHandler ( "onClientGUIClick", buyBtn, buyDrugs, false )
+	
+	local sellerBPrice = tonumber(getElementData(seller,"bPrice"))
+	local sellerPopperPrice = tonumber(getElementData(seller,"popperPrice"))
+	local sellerPericaPrice = tonumber(getElementData(seller,"pericaPrice"))
+	local sellerLsdPrice = tonumber(getElementData(seller,"lsdPrice"))
+	local sellerBazukoPrice = tonumber(getElementData(seller,"bazukoPrice"))
+	local sellerHeroinaPrice = tonumber(getElementData(seller,"heroinaPrice"))
+    end
+)

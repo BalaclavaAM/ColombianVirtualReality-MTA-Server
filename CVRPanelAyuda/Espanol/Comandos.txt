@@ -1,0 +1,58 @@
+Bienvenido a Colombian Virtual Reality!
+
+Teclas Utiles:
+
+F1 - Reglas e Información
+F2 - Panel de Gangs
+F3 - Celular/Telefono
+F4 - Panel de Ayuda
+F5 - Panel de progreso en Trabajos
+F6 - Inventario
+F7 - Panel de Drogas
+F8 - Consola
+F9 - Panel de Drift
+F10 - Panel de experiencia/dinero/KD
+F11 - Mostrar mapa
+F12 - Tomar screeshot (La puedes encontrar en C:\Program Files (x86)\MTA San Andreas 1.5\screenshots)
+C - Activar modo crucero
+K - Panel de animaciones
+T - Chat Global (todo el servidor)
+U - Chat Local (chat con usuarios cercanos)
+Y - Chat equipo (chat con todos los de tu trabajo)
+Z - Chat de Voz (lo puedes cambair en ESC - Controles - Voicettp:1)
+Z - Panel V.I.P
+
+Existen los siguientes comandos:
+
+/dc - Invitación a nuestro Discord!!
+/mods - Personaliza las skins de jugadores y carros que quieres o no ver
+/anti-lag - Opciones de optimización para bajos recursos
+/resign - se utiliza para renunciar al job que tienes o simplemente para regresar a tu skin 
+/sound - Poner música en los bafles
+/radio - Poner música en el carro
+/touge - Reta a alguien a una carrera de Drift
+/touge2 - Reta a alguien a otra carrera de Drift
+/club - Panel de club de drift
+/chatclub - Chat con los miembros del club de drift
+/gc - Chat con los miembros de tu gang
+/cc - Chat privado con las pasajeros del carro actual en el que estes
+/duelo - Abre el panel de duelos
+/gclean - Limpia los grafitis
+/darclub - Invitar a una persona a tu club de drift
+/invitargang - Invita una persona a tu gang
+/cargarcarrera - empieza una carrera como evento
+/cd - Cuenta regresiva
+/tele - Mira las teletransportaciones posibles
+/terminarbasura - este comando solo funciona con el job de basurero
+/shader - Funciona para que decores tu carro con colores llamativos (Solo en algunos carros)
+/capturacamion - para entrar a un minijuego del servidor
+/salircamion - para salir del modo de juego captura camion 
+/desvalijar - Quita ciertas partes de tu carro
+/release (nick) - Para dejar en libertad a alguien cuando eres policia y no lo quieres llevar a la carcel
+/kill - Para suicidarte  
+/lock - Bloqueas tu carro para que nadie se pueda subir en el
+/net - para saber cuantos haz ganado con el job de pescador.
+/reconnect - Para salir del servidor y entrar automaticamente. 
+/quit - Adios
+/lock - Bloquea y desbloquea tu carro
+/ayuda - Abres y cierras este panel

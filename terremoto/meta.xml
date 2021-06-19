@@ -1,0 +1,10 @@
+<meta>
+	<info author="Master" name="desastres naturales" description="desastres naturales" type="script" version="0.5"/>
+	
+	<script src="terremoto/terremoto_cliente.lua" type="client" cache="false"/>
+	<script src="terremoto/terremoto_server.lua" type="server"/>
+	
+	<file src="sounds/s.mp3"/>
+
+	<oop>true</oop>
+</meta>

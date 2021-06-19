@@ -1,0 +1,11 @@
+<meta>
+	<info author="Sam@ke" type="script" name="Vehicle_Interaction_System_v2" description="Vehicle Interaction System" version="2.1"/>
+	<min_mta_version client="1.4" server="1.4"/>
+	<oop>true</oop>
+	
+	<script src="vis_client.lua" type="client"/>
+	<script src="vis_server.lua" type="server"/>
+	
+	<file src="sounds/onDoorOpened.wav" type="client" />
+	<file src="sounds/onDoorClosed.wav" type="client" />
+</meta>

@@ -1,0 +1,6 @@
+<meta>
+	<script src="server.lua" type="server" />
+	<script src="buy_c.lua" type="client" />
+	<script src="setup_c.lua" type="client" />
+
+</meta>

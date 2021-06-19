@@ -1,0 +1,238 @@
+<mods>
+    <vehicles>
+        <mod name="Peugeout 205T16 Rally" txd="blade.txd" dff="blade.dff" replace="536" />
+        <mod name="Suzuki Swift" txd="bravura.txd" dff="bravura.dff" replace="401" />
+        <mod name="Alimentador" txd="bus.txd" dff="bus.dff" replace="431" />
+        <mod name="Carro Perro" txd="mrwhoop.txd" dff="mrwhoop.dff" replace="423" />
+        <mod name="Ferrari F430" txd="banshee.txd" dff="banshee.dff" replace="429" />
+        <mod name="Camión de Acarreos" txd="benson.txd" dff="benson.dff" replace="499" />
+        <mod name="Yamaha Ninja" txd="bf400.txd" dff="bf400.dff" replace="581" />
+        <mod name="Toyota AE85 LEVIN" txd="buccanee.txd" dff="buccanee.dff" replace="518" />
+        <mod name="Dodge Charger RT 1970" txd="buffalo.txd" dff="buffalo.dff" replace="402" />
+        <mod name="Ford GT 2005" txd="bullet.txd" dff="bullet.dff" replace="541" />
+        <mod name="Shelby Mustang 1970" txd="cheetah.txd" dff="cheetah.dff" replace="415" />
+        <mod name="Bravado GTA V" txd="clover.txd" dff="clover.dff" replace="542" />
+        <mod name="Nissan Skyline R32 GTR" txd="comet.txd" dff="comet.dff" replace="480" />
+        <mod name="Nissan Farlady 300zx" txd="euros.txd" dff="euros.dff" replace="587" />
+        <mod name="Ford Focus ST" txd="flash.txd" dff="flash.dff" replace="565" />
+        <mod name="Lamborghini Countach" txd="hotring.txd" dff="hotring.dff" replace="494" />
+        <mod name="Trineo de Nieve" txd="kart.txd" dff="kart.dff" replace="571" />
+        <mod name="Mitshubishi Lancer Evo III" txd="merit.txd" dff="merit.dff" replace="551" />
+        <mod name="Yamaha Ninja 2" txd="nrg500.txd" dff="nrg500.dff" replace="522" />
+        <mod name="Mazda FC Savanna RX7" txd="phoenix.txd" dff="phoenix.dff" replace="603" />
+        <mod name="Toyota Fortuner" txd="sandking.txd" dff="sandking.dff" replace="495" />
+        <mod name="Camioneta FULL SONIDO KEVIN OCAMPO EDITION" txd="topfun.txd" dff="topfun.dff" replace="459" />
+        <mod name="Pontiac Trans AM 1970" txd="tornado.txd" dff="tornado.dff" replace="576" />
+        <mod name="Ferrari F40" txd="turismo.txd" dff="turismo.dff" replace="451" />
+        <mod name="Mazda FD RX7" txd="uranus.txd" dff="uranus.dff" replace="558" />
+        <mod name="Chévrolet Impala" txd="voodoo.txd" dff="voodoo.dff" replace="412" />
+        <mod name="Maserati Gran Turismo" txd="windsor.txd" dff="windsor.dff" replace="555" />
+        <mod name="Toyota AE86 Sprinter Trueno GT APEX" txd="zr350.txd" dff="zr350.dff" replace="477" />
+        <mod name="Lancer Evo X" txd="sultan.txd" dff="sultan.dff" replace="560" />
+        <mod name="Delorean DMC-12 Time Machine" txd="supergt.txd" dff="supergt.dff" replace="506" />
+        <mod name="Honda Civic Type R" txd="oceanic.txd" dff="oceanic.dff" replace="467" />
+        <mod name="Nissan Skyline R35 LibertyWalk" txd="alpha.txd" dff="alpha.dff" replace="602" />
+        <mod name="Nissan Skyline R32 Drift" txd="blistac.txd" dff="blistac.dff" replace="496" />
+        <mod name="Dodge Durango" txd="durango.txd" dff="durango.dff" replace="458" />
+        <mod name="Mini Cooper" txd="minic.txd" dff="minic.dff" replace="527" />
+        <mod name="Rolls Royce Phantom Hamann" txd="stafford.txd" dff="stafford.dff" replace="580" />
+        <mod name="Mercedes Benz GWagon" txd="huntley.txd" dff="huntley.dff" replace="579" />
+        <mod name="Suzuki Ax100" txd="bike.txd" dff="bike.dff" replace="461" />
+        <mod name="Chevrolet Camaro Dragster" txd="virgo.txd" dff="virgo.dff" replace="491" />
+        <mod name="Trailer2" txd="artict3.txd" dff="artict3.dff" replace="450" />
+        <mod name="Barracks" txd="barracks.txd" dff="barracks.dff" replace="433" />
+        <mod name="Honda S2000 CVR Edition" txd="feltzer.txd" dff="feltzer.dff" replace="533" />
+        <mod name="Mercedes Benz Clase E" txd="merchopercho.txd" dff="merchopercho.dff" replace="445" />
+        <mod name="BMW E30 1986" txd="fortune.txd" dff="fortune.dff" replace="526" />
+        <mod name="Ambulancia" dff="ambulan.dff" txd="ambulan.txd" replace="416" />
+        <mod name="Andromeda" dff="androm.dff" txd="androm.txd" replace="592" />
+        <mod name="Vehiculo Exclusivo Clan GT" dff="bandito.dff" txd="bandito.txd" replace="568" />
+        <mod name="Chevrolet Old" dff="bobcat.dff" txd="bobcat.txd" replace="422" />
+        <mod name="Bus Viejo" dff="bus.dff" txd="bus.txd" replace="431" />
+        <mod name="Camioneta PONAL" dff="camper.dff" txd="camper.txd" replace="483" />
+        <mod name="Honda Civic Initial D" dff="club.dff" txd="club.txd" replace="589" />
+        <mod name="Hijuebus" dff="coach.dff" txd="coach.txd" replace="437" />
+        <mod name="Camión Postobón" dff="dft30.dff" txd="dft30.txd" replace="578" />
+        <mod name="Yamaha DT" dff="dirtbike.dff" txd="dirtbike.txd" replace="468" />
+        <mod name="Fiat 80ntero" dff="emperor.dff" txd="emperor.txd" replace="585" />
+        <mod name="Camión Ejército" dff="enforcer.dff" txd="enforcer.txd" replace="427" />
+        <mod name="Honda C90" dff="faggio.dff" txd="faggio.txd" replace="462" />
+        <mod name="Mitshubishi Montero" dff="fbiranch.dff" txd="fbiranch.txd" replace="490" />
+        <mod name="Yamaha 115" dff="fcr900.dff" txd="fcr900.txd" replace="521" />
+        <mod name="Tanqueta ESMAD" dff="firetruk.dff" txd="firetruk.txd" replace="407" />
+        <mod name="Harley Davidson" dff="freeway.dff" txd="freeway.txd" replace="463" />
+        <mod name="Sofá" dff="golfcart.dff" txd="golfcart.txd" replace="457" />
+        <mod name="Renault Sandero" dff="greenwoo.dff" txd="greenwoo.txd" replace="492" />
+        <mod name="Cadillac Eldorado Biarritz Convertible 1959" dff="hermes.dff" txd="hermes.txd" replace="474" />
+        <mod name="Formula1" dff="hotrinb.dff" txd="hotrinb.txd" replace="503" />
+        <mod name="Ferrari LaFerrari" dff="hotring2.dff" txd="hotring2.txd" replace="502" />
+        <mod name="Moto Policías" dff="hpv1000.dff" txd="hpv1000.txd" replace="523" />
+        <mod name="Rare Halloween" dff="hustler.dff" txd="hustler.txd" replace="545" />
+        <mod name="Infernus" dff="infernus.dff" txd="infernus.txd" replace="411" />
+        <mod name="Renault Logan" dff="intruder.dff" txd="intruder.txd" replace="546" />
+        <mod name="Toyota Land Cruiser 1990" dff="landstal.dff" txd="landstal.txd" replace="400" />
+        <mod name="Mazda Miata NB" dff="majestic.dff" txd="majestic.txd" replace="517" />
+        <mod name="Toyota Land Cruiser (FJ)" dff="manana.dff" txd="manana.txd" replace="410" />
+        <mod name="Jeep" dff="mesa.dff" txd="mesa.txd" replace="500" />
+        <mod name="Daewoo Van" dff="moonbeam.dff" txd="moonbeam.txd" replace="418" />
+        <mod name="MTB" dff="mtb.dff" txd="mtb.txd" replace="510" />
+        <mod name="Mazda 626 Millenium" dff="nebula.dff" txd="nebula.txd" replace="516" />
+        <mod name="Chiva Rumbera" dff="newsvan.dff" txd="newsvan.txd" replace="582" />
+        <mod name="Renault 4" dff="peren.dff" txd="peren.txd" replace="404" />
+        <mod name="Chevrolet Elcamino" dff="picador.dff" txd="picador.txd" replace="600" />
+        <mod name="Pizzaboy Rappi" dff="pizzaboy.dff" txd="pizzaboy.txd" replace="448" />
+        <mod name="Duster Policía" dff="police_la.dff" txd="police_la.txd" replace="596" />
+        <mod name="Nissan NP300 Policía" dff="police_vg.dff" txd="police_vg.txd" replace="598" />
+        <mod name="Nissan Camión Policía" dff="polranger.dff" txd="polranger.txd" replace="599" />
+        <mod name="Chevrolet Spark" dff="premier.dff" txd="premier.txd" replace="426" />
+        <mod name="Chevrolet Corsa" dff="previon.dff" txd="previon.txd" replace="436" />
+        <mod name="Chevrolet Spark GT" dff="primo.dff" txd="primo.txd" replace="547" />
+        <mod name="Buseta Colombia Shitposting .exe" dff="regina.dff" txd="regina.txd" replace="479" />
+        <mod name="Camión alquería" dff="securica.dff" txd="securica.txd" replace="428" />
+        <mod name="Buseta Bogotana" dff="sentinel.dff" txd="sentinel.txd" replace="405" />
+        <mod name="Chevrolet Aveo tunning" dff="sunrise.dff" txd="sunrise.txd" replace="550" />
+        <mod name="Zorra" dff="sweeper.dff" txd="sweeper.txd" replace="574" />
+        <mod name="Renault 18" dff="tahoma.dff" txd="tahoma.txd" replace="566" />
+        <mod name="Chevrolet Spark Taxi" dff="taxi.dff" txd="taxi.txd" replace="420" />
+        <mod name="Camión Basura Bogotá" dff="trash.dff" txd="trash.txd" replace="408" />
+        <mod name="Yate" dff="tropic.dff" txd="tropic.txd" replace="454" />
+        <mod name="Nissan Skyline R34 Nur II" dff="vincent.dff" txd="vincent.txd" replace="540" />
+        <mod name="NMax" dff="wayfarer.dff" txd="wayfarer.txd" replace="586" />
+        <mod name="Nissan Tsuru" dff="willard.dff" txd="willard.txd" replace="529" />
+        <mod name="Toyota Hilux" dff="yosemite.dff" txd="yosemite.txd" replace="554" />
+        <mod name="Suzuki Samurai" dff="rancher.dff" txd="rancher.txd" replace="489" />
+        <mod name="Mazda 3 2005" dff="savanna.dff" txd="savanna.txd" replace="567" />
+        <mod name="Toyota Prado" dff="Romero.dff" txd="Romero.txd" replace="442" />
+        <mod name="Toyota Supra" dff="jester.dff" txd="jester.txd" replace="559" />
+        <mod name="Peugeot 206 Tunning" dff="esperanto.dff" txd="esperanto.txd" replace="419" />
+    </vehicles>
+    
+    <skins>
+        <mod name="Militar colombiano" txd="army.txd" dff="army.dff" replace="287" />
+        <mod name="Spiderman" txd="bfost.txd" dff="bfost.dff" replace="10" />
+        <mod name="Takeshi Nakazato" txd="bmyst.txd" dff="bmyst.dff" replace="22" />
+        <mod name="Santa Fe barrista 1" txd="ballas1.txd" dff="ballas1.dff" replace="102" />
+        <mod name="Mr.Satan - DBZ" txd="ballas2.txd" dff="ballas2.dff" replace="103" />
+        <mod name="Miracle girls Fiesta - Kyouko Toshinou" txd="ballas3.txd" dff="ballas3.dff" replace="104" />
+        <mod name="Rick grames - TWD" txd="bfori.txd" dff="bfori.dff" replace="9" />
+        <mod name="Kagamine Len" txd="bfybe.txd" dff="bfybe.dff" replace="139" />
+        <mod name="Miyuki takara - Lucky Star" txd="bfybu.txd" dff="bfybu.dff" replace="148" />
+        <mod name="Motociclista" txd="fbyst.txd" dff="bfyst.dff" replace="13" />
+        <mod name="Condorito" txd="bmobar.txd" dff="bmobar.dff" replace="156" />
+        <mod name="Eva series 1" txd="bmocd.txd" dff="bmocd.dff" replace="262" />
+        <mod name="Burro - Shrek" txd="bmori.txd" dff="bmori.dff" replace="14" />
+        <mod name="Slenderman" txd="bmost.txd" dff="bmost.dff" replace="15" />
+        <mod name="GTA Online Random " txd="bmyap.txd" dff="bmyap.dff" replace="16" />
+        <mod name="Colegiala anime" txd="bmybar.txd" dff="bmybar.dff" replace="176" />
+        <mod name="vegetta" txd="bmybe.txd" dff="bmybe.dff" replace="18" />
+        <mod name="SCP-173" txd="bmycg.txd" dff="bmycg.dff" replace="144" />
+        <mod name="Santa marta skin" txd="bmycr.txd" dff="bmycr.dff" replace="21" />
+        <mod name="jotaron - jojo&apos;s" txd="bmydj.txd" dff="bmydj.dff" replace="19" />
+        <mod name="CJ chiquito" txd="bmypimp.txd" dff="bmypimp.dff" replace="249" />
+        <mod name="Limonagrio - Hora de aventura" txd="bmypol2.txd" dff="bmypol2.dff" replace="67" />
+        <mod name="Dio - Jojo&apos;s" txd="bmyri.txd" dff="bmyri.dff" replace="20" />
+        <mod name="Policia Campesino" txd="csher.txd" dff="csher.txd" replace="283" />
+        <mod name="RE Dead Or Alive 5LR - Honoka C5" txd="cwfyfr1.txd" dff="cwfyfr1.dff" replace="198" />
+        <mod name="Pablo Escobar" txd="cwmohb2" dff="cwmohb2" replace="160" />
+        <mod name="Konata - Lucky Star" txd="dwfolc.txd" dff="dwfolc.dff" replace="31" />
+        <mod name="Thanos Skin" txd="dwmolc.txd" dff="dwmolc1.dff" replace="32" />
+        <mod name="Espia" txd="dwmolc2.txd" dff="dwmolc2.dff" replace="33" />
+        <mod name="Boca Juniors Skin" txd="fam3.txd" dff="fam3.dff" replace="107" />
+        <mod name="Tomoe Mami - Mahou Shoujo Madoka Magica" txd="hfost.txd" dff="hfost.dff" replace="39" />
+        <mod name="Skin Caleña - Colombia" txd="hfybe.txd" dff="hfybe.dff" replace="140" />
+        <mod name="rey anayami - evangelion" txd="hfyri.txd" dff="hfyri.dff" replace="40" />
+        <mod name="Sengoku Otome" txd="hfyst.txd" dff="hfyst.dff" replace="41" />
+        <mod name="Shinji - Evangelion" txd="hmycm.txd" dff="hmycm.dff" replace="146" />
+        <mod name="Guarda de transito" txd="lapdm1.txd" dff="lapdm1.dff" replace="284" />
+        <mod name="Casual jeanjacket" txd="male01.txd" dff="male01.dff" replace="7" />
+        <mod name="Rin - Love Live" txd="ofost.txd" dff="ofost.dff" replace="54" />
+        <mod name="Samus Aran Zero Suit - Metroid" txd="ofyst.txd" dff="ofyst.dff" replace="56" />
+        <mod name="Ricardo milos" txd="omoboat.txd" dff="omoboat.dff" replace="210" />
+        <mod name="Ben10" txd="omokung.txd" dff="omokung.dff" replace="49" />
+        <mod name="Goofy" txd="omonood.txd" dff="omonood.dff" replace="209" />
+        <mod name="PoloPolo" txd="omyst.txd" dff="omyst.dff" replace="60" />
+        <mod name="RockyBalboa" txd="psycho.txd" dff="psycho.dff" replace="312" />
+        <mod name="Franklin GTAV" txd="ryder3.txd" dff="ryder3.dff" replace="301" />
+        <mod name="Nico" txd="sbfyst.txd" dff="sbfyst.dff" replace="69" />
+        <mod name="Pony" txd="sbfystr.txd" dff="sbfystr.dff" replace="256" />
+        <mod name="Furro" txd="sbmost.txd" dff="sbmost.dff" replace="222" />
+        <mod name="SCP-096" txd="sbmycr.txd" dff="sbmycr.dff" replace="143" />
+        <mod name="Medico" txd="sfemt1.txd" dff="sfemt1.dff" replace="276" />
+        <mod name="Giorno Jojo´s" txd="sfr3.txd" dff="sfr3.dff" replace="175" />
+        <mod name="Michael GTAV" txd="sindaco.txd" dff="sindaco.dff" replace="308" />
+        <mod name="Mamizou" txd="smyst.txd" dff="smyst.dff" replace="241" />
+        <mod name="Rem" txd="sofori.txd" dff="sofori.dff" replace="224" />
+        <mod name="Airi" txd="sofyst.txd" dff="sofyst.dff" replace="226" />
+        <mod name="WinniePooh" txd="swfost.txd" dff="swfost.dff" replace="232" />
+        <mod name="Kurumi" txd="swfystr.txd" dff="swfystr.dff" replace="257" />
+        <mod name="Rick" txd="swmotr4.txd" dff="swmotr4.dff" replace="239" />
+        <mod name="Joker" txd="swmyri.txd" dff="swmyri.dff" replace="240" />
+        <mod name="Trevor GTAV" txd="tbone.txd" dff="tbone.dff" replace="307" />
+        <mod name="Truth" txd="truth.txd" dff="truth.dff" replace="1" />
+        <mod name="Asuka" txd="vbfycrp.txd" dff="vbfycrp.dff" replace="11" />
+        <mod name="LadyBug" txd="vhfypro.txd" dff="vhfypro.dff" replace="207" />
+        <mod name="DonkyKong" txd="vhmyelv.txd" dff="vhmyelv.dff" replace="82" />
+        <mod name="Tarzan" txd="vmaff4.txd" dff="vmaff4.dff" replace="127" />
+        <mod name="Yandere" txd="vwfycrp.txd" dff="vwfycrp.dff" replace="172" />
+        <mod name="GataKawaii" txd="vwfywai.txd" dff="vwfywai.dff" replace="214" />
+        <mod name="Yandere 2" txd="wbdyg2.txd" dff="wbdyg2.dff" replace="25" />
+        <mod name="Kana" txd="wfybe.txd" dff="wfybe.dff" replace="138" />
+        <mod name="Ryoko" txd="wfybu.txd" dff="wfybu.dff" replace="150" />
+        <mod name="Lala" txd="wfyburg.txd" dff="wfyburg.dff" replace="205" />
+        <mod name="Montana" txd="wfyclot.txd" dff="wfyclot.dff" replace="211" />
+        <mod name="Yandere 3" txd="wfyjg.txd" dff="wfyjg.dff" replace="90" />
+        <mod name="Schwi dola" txd="wfyro.txd" dff="wfyro.dff" replace="92" />
+        <mod name="Jhon Week" txd="wmoprea.txd" dff="wmoprea.dff" replace="68" />
+        <mod name="Maestro Halo" txd="wmosci.txd" dff="wmosci.dff" replace="70" />
+        <mod name="Nick Wilde Zootopia" txd="wmybe.txd" dff="wmybe.dff" replace="154" />
+        <mod name="Roblox" txd="wmybu.txd" dff="wmybu.dff" replace="147" />
+        <mod name="Lucario" txd="wmyconb.txd" dff="wmyconb.dff" replace="153" />
+        <mod name="Maduro" txd="wmydrug.txd" dff="wmydrug.dff" replace="29" />
+        <mod name="Naputo " txd="wmykara.txd" dff="wmykara.dff" replace="204" />
+        <mod name="Paul Walker" txd="wmysgrd.txd" dff="wmysgrd.dff" replace="71" />
+        <mod name="Arthur Morgan" txd="arthurs.txd" dff="arthurs.dff" replace="99" />
+        <mod name="Megu" txd="megumins.txd" dff="megumins.dff" replace="93" />
+        <mod name="Akatsuki1" txd="aka1s.txd" dff="aka1s.dff" replace="94" />
+        <mod name="Akatsuki2" txd="aka2s.txd" dff="aka2s.dff" replace="95" />
+        <mod name="Akatsuki3" txd="aka3s.txd" dff="aka3s.dff" replace="96" />
+        <mod name="Shoto Todoroki" txd="dwmylc1.txd" dff="dwmylc1.dff" replace="34" />
+        <mod name="Nea Brasileña" txd="nea.txd" dff="nea.dff" replace="92" />
+        <mod name="Akatsuki4" txd="Pain.txd" dff="Pain.dff" replace="100" />
+        <mod name="Akatsuki5" txd="sasori.txd" dff="sasori.dff" replace="101" />
+        <mod name="Akatsuki6" txd="tobiy.txd" dff="tobiy.dff" replace="159" />
+        <mod name="Akatsuki7" txd="hidan.txd" dff="hidan.dff" replace="108" />
+        <mod name="Guts" txd="Guts.txd" dff="Guts.dff" replace="109" />
+        <mod name="Aqua - Konosuba" txd="FataMusa.txd" dff="FataMusa.dff" replace="129" />
+        <mod name="Fata Bloom" txd="FataBloom.txd" dff="FataBloom.dff" replace="130" />
+        <mod name="Skin kpucho" txd="capucho.txd" dff="capucho.dff" replace="165" />
+        <mod name="Deadpool" txd="deadpool.txd" dff="deadpool.dff" replace="43" />
+        <mod name="Deku" txd="Deku.txd" dff="Deku.dff" replace="145" />
+        <mod name="Goku" txd="goku.txd" dff="goku.dff" replace="151" />
+        <mod name="Shaggy" txd="shaggy.txd" dff="shaggy.dff" replace="161" />
+        <mod name="Tommy Vercetti" txd="tommy.txd" dff="tommy.dff" replace="163" />
+        <mod name="Skin Messi" txd="lmessi_pes2020.txd" dff="lmessi_pes2020.dff" replace="250" />
+        <mod name="Skin Esmeralda1" txd="strange.txd" dff="strange.dff" replace="122" />
+        <mod name="Skin Esmeralda2" txd="GRUWood.txd" dff="GRUWood.dff" replace="123" />
+        <mod name="Skin Esmeralda3" txd="chinatsuonesie.txd" dff="chinatsuonesie.dff" replace="124" />
+        <mod name="Skin ReizerB" txd="asafasf.txd" dff="asafasf.dff" replace="125" />
+        <mod name="Skin Esmeralda5" txd="sergioramo.txd" dff="sergioramo.dff" replace="126" />
+        <mod name="Skin Esmeralda6" txd="maccer.txd" dff="maccer.dff" replace="128" />
+        <mod name="Skin Esmeralda7" txd="zero.txd" dff="zero.dff" replace="131" />
+        <mod name="Skin Esmeralda8" txd="164.txd" dff="164.dff" replace="164" />
+        <mod name="Skin Esmeralda9" txd="166.txd" dff="166.dff" replace="166" />
+        <mod name="Skin Esmeralda10" txd="167.txd" dff="167.dff" replace="167" />
+        <mod name="Skin Esmeralda11" txd="168.txd" dff="168.dff" replace="168" />
+        <mod name="Skin Ak47" txd="ak47.txd" dff="ak47_1.dff" replace="270" />
+        <mod name="Skin Personal Jiménez" txd="bikdrug.txd" dff="bikdrug.dff" replace="254" />
+        <mod name="Trunks del Futuro" txd="trunks.txd" dff="trunks.dff" replace="252" />
+        <mod name="Piccolo" txd="Piccolo.txd" dff="Piccolo.dff" replace="258" />
+        <mod name="Fiona Ogro" txd="OgreFiona.txd" dff="OgreFiona.dff" replace="259" />
+        <mod name="Takumi" txd="TakumiFujiwara.txd" dff="TakumiFujiwara.dff" replace="97" />
+    </skins>
+    
+    
+    <weapons>
+        
+    </weapons>
+    
+</mods>

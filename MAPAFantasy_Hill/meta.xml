@@ -1,0 +1,16 @@
+<meta>
+    <info author="[GT]zorrigas y [GT]Scarface" description="Robada Pass" version="2.0" type="map" />
+<script src="map.lua" type="server" />
+<script src="fantasy.lua" type="client" />
+    <file src="fantasy.txd" />
+    <file src="fantasy1.col" />
+    <file src="fantasy1.dff" />
+    <file src="fantasy2.col" />
+    <file src="fantasy2.dff" />
+    <file src="fantasy3.col" />
+    <file src="fantasy3.dff" />
+    <file src="fantasy4.col" />
+    <file src="fantasy4.dff" />
+    <file src="fantasy5.col" />
+    <file src="fantasy5.dff" />
+</meta>

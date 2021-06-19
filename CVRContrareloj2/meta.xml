@@ -1,0 +1,5 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="CVRContrareloj" />
+	<script src="c_CVRContrareloj.lua" type="client" cache="false" />
+	<script src="s_CVRContrareloj.lua" type="server" />
+</meta>

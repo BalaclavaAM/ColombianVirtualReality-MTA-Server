@@ -1,0 +1,10 @@
+<meta>
+<info name="Autoghostmode" author="ahmtork" type= "script" version="1.0.0"/>
+<script src="ghostmode.lua" type="server"/>
+	<settings>
+		<setting name="*gmontext" value="Ghostmode activate!" />
+		<setting name="*gmoncolor" value="#FF001E" />
+		<setting name="*gmofftext" value="Ghostmode deactivate!" />
+		<setting name="*gmoffcolor" value="#FFFFFF" />
+     </settings>
+</meta>

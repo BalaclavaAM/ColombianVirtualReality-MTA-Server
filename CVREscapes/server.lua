@@ -1,0 +1,5 @@
+addEvent("EgzozSistemi:AcKapa", true)
+addEventHandler("EgzozSistemi:AcKapa", root, function()
+    setVehicleEngineState(source, false)
+    setTimer(setVehicleEngineState, 500, 1, source, true)
+end)

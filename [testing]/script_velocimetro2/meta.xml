@@ -1,0 +1,14 @@
+	<meta>
+	<info author="Milionario" type="script" version="1.0" name="Script_Velocimetro" />
+	<script src="config.lua" type="client" cache ="false"/>	
+	<script src="drawing.lua" cache="false" type="client"/>
+	<file src="font.ttf" cache="false" />
+	<oop>true</oop>
+	<file src="fx/p.png" cache="false" />
+	<file src="fx/g.png" cache="false" />
+	<file src="fx/br.png" cache="false" />
+	<file src="fx/c.png" cache="false" />
+	<file src="fx/fuel.png" cache="false" />
+	<file src="fx/key.png" cache="false" />
+	<script src="drawingS.lua" type="server"/>		
+</meta>

@@ -1,0 +1,5 @@
+<meta>
+	<info author="VSCode MTA:SA Lua" type="script" name="CVREventos" />
+	<script src="c_CVREventos.lua" type="client" cache="false" />
+	<script src="s_CVREventos.lua" type="server" />
+</meta>

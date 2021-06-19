@@ -1,0 +1,29 @@
+CREATE TABLE `clothes` (
+  `ID` int(11) NOT NULL,
+  `Type` int(11) NOT NULL,
+  `ObjectID` int(11) NOT NULL,
+  `Name` varchar(255) NOT NULL,
+  `Owner` int(11) NOT NULL
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+
+
+--
+-- A tábla indexei `clothes`
+--
+ALTER TABLE `clothes`
+  ADD PRIMARY KEY (`ID`);
+
+--
+-- A kiírt táblák AUTO_INCREMENT értéke
+--
+
+--
+-- AUTO_INCREMENT a táblához `clothes`
+--
+ALTER TABLE `clothes`
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=5;
+COMMIT;
+
+/*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
+/*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
+/*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;

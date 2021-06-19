@@ -1,0 +1,63 @@
+<meta>
+	<info author="RT" version="1.0" name="Vinilos Elegy" description="Panel de Vinilos para el Elegy" />
+	<min_mta_version client="1.3.0-9.04482"/>
+    <script src="shared.lua" type="shared" />
+	<script src="client.lua" type="client" />
+	<script src="server.lua" type="server" />
+
+	<file src="textures/0.jpg"/>
+	<file src="textures/1.jpg"/>
+	<file src="textures/2.jpg"/>
+	<file src="textures/3.jpg"/>
+	<file src="textures/4.jpg"/>
+	<file src="textures/5.jpg"/>
+	<file src="textures/6.jpg"/>
+	<file src="textures/7.jpg"/>
+	<file src="textures/8.jpg"/>
+	<file src="textures/9.jpg"/>
+	<file src="textures/10.jpg"/>
+	<file src="textures/11.jpg"/>
+	<file src="textures/12.jpg"/>
+	<file src="textures/13.jpg"/>
+	<file src="textures/14.jpg"/>
+	<file src="textures/15.jpg"/>
+	<file src="textures/16.jpg"/>
+	<file src="textures/17.jpg"/>
+	<file src="textures/18.jpg"/>
+	<file src="textures/19.jpg"/>
+	<file src="textures/20.jpg"/>
+	<file src="textures/21.jpg"/>
+	<file src="textures/22.jpg"/>
+	<file src="textures/23.jpg"/>
+	<file src="textures/24.jpg"/>
+	<file src="textures/25.jpg"/>
+	<file src="textures/26.jpg"/>
+	<file src="textures/27.jpg"/>
+	<file src="textures/28.jpg"/>
+	<file src="textures/29.jpg"/>
+	<file src="textures/30.jpg"/>
+	<file src="textures/31.jpg"/>
+	<file src="textures/32.jpg"/>
+	<file src="textures/33.jpg"/>
+	<file src="textures/34.jpg"/>
+	<file src="textures/35.jpg"/>
+	<file src="textures/36.jpg"/>
+	<file src="textures/37.jpg"/>
+	<file src="textures/38.jpg"/>
+	<file src="textures/39.jpg"/>
+	<file src="textures/40.jpg"/>
+	<file src="textures/41.jpg"/>
+	<file src="textures/42.jpg"/>
+	<file src="textures/43.jpg"/>
+	<file src="textures/44.jpg"/>
+	<file src="textures/45.png"/>
+
+	<file src="textures/texreplace.fx"/>
+	
+	<script src="files/spoilers.lua" type="client" />
+	<file src="files/spoilers.txd" />
+	<file src="files/spoiler_1.dff" />
+	<file src="files/spoiler_2.dff" />
+	
+	<script src="protect.lua" type="client" />
+</meta>

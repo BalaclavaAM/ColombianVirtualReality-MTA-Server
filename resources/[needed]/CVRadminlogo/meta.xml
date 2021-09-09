@@ -1,0 +1,9 @@
+<meta>
+    <info author="BalaclavaAM" version="1.1" name="adminlogo" type="script" />
+    <script src="client.lua" type="client"/>
+    
+    <file src="admin.png" />
+    <file src="piedra.png" />
+    <file src="papel.png" />
+    <file src="tijera.png" />
+</meta>

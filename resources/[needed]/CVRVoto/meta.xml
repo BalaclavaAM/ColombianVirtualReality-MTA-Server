@@ -1,0 +1,6 @@
+<meta>
+    <info author="Dark and ReizerB" version="2.0" name="Sistema de votos" description="Envia una encuesta a los usuarios para poder votar." type="script" />
+     <script src="client.lua" type="client" />
+    <script src="server.lua" type="server" />    
+</meta>
+

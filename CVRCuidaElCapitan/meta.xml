@@ -1,5 +1,0 @@
-<meta>
-	<info author="BalaclavaAM" type="script" name="CVRCuidaElCapitan" />
-	<script src="c_CVRCuidaElCapitan.lua" type="client" cache="false" />
-	<script src="s_CVRCuidaElCapitan.lua" type="server" />
-</meta>

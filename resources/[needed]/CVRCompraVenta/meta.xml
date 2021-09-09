@@ -1,0 +1,18 @@
+<meta>
+	<settings>
+	
+		<setting name="*valorAnuncio" value="[25000]" friendlyname="Precio del anuncio" desc="El precio por anuncio."/> 
+		<setting name="*TiempoEsperaEnMin" value="[4]" friendlyname="Tiempo de espera" desc="Tiempo de espera para publicar si estan ocupados los anuncios. NOTA: El tiempo en pantalla del mensaje esta definido en el cliente en 3 minutos"/> 
+		<!--setting name="*TiempoVisibleAnuncio" value="[3]" friendlyname="Tiempo Visible del anuncio" desc="Tiempo que aparece en pantalla cada anuncio."/-->
+
+	</settings>
+
+	<info author="Adrian and FasTriX and ReizerB" description="Notificaciones" version="0.2" type="script" />
+	<script src="client.lua" type="client" cache="false"/>
+	<script src="server.lua" type="server"/>
+	<file src="img/font2.ttf" />	
+	<file src="img/cvrlogo.png" />
+	<export function="outputBarraMensaje" type="server"/>	
+	<export function="outputBarraMensaje" type="client"/>	
+	<oop>true</oop>
+</meta>

@@ -1,7 +1,0 @@
-<meta>
-	<info author="kieranb" type="script" version="1.0.2" name="VendingMachines" description="Vending machine script by Taran Preet Rayat, edited by kieranb(kieran)" />
-	<script src="food/client.lua" type="client" />
-	<script src="food/server.lua" type="server" />
-	<script src="drink/client.lua" type="client" />
-	<script src="drink/server.lua" type="server" />
-</meta>

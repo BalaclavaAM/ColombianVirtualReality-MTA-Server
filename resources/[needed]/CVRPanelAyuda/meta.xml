@@ -1,0 +1,54 @@
+
+<meta>
+	<info author="GamerCarl" version="0.2.0" name="Panel de Ayuda!" type="script" />
+     <oop>true</oop>
+	<script src="Cliente.lua" type="client" cache="false" />
+	<file src="abrir.wav"/>
+	
+	<!-- PANEL EN ESPAÑOL -->
+ 	<file src="Espanol/Administracion.txt"/>
+    <file src="Espanol/General.txt"/>
+	<file src="Espanol/Comandos.txt"/>
+	<file src="Espanol/Reglas.txt"/>
+	<file src="Espanol/Encargados.txt"/>
+	<file src="Espanol/VIP.txt"/>
+	<file src="Espanol/Redes.txt"/>
+    
+	<!-- Logos -->
+	<file src="Logos/logoColor.png"/>
+	<file src="Logos/LogoCVR.png"/>
+	<file src="Logos/iconJobs.png"/>
+
+	<file src="Logos/icon.png"/>
+	<file src="Logos/iconAvion.png"/>
+	<file src="Logos/iconCamion.png"/>
+	<file src="Logos/iconPuntos.png"/>
+	<file src="Logos/iconBasura.png"/>
+	<file src="Logos/iconBandera.png"/>
+	<file src="Logos/iconEntrega.png"/>
+	<file src="Logos/iconPescado.png"/>
+	<file src="Logos/iconCarros.png"/>
+	<file src="Logos/iconCriminal.png"/>
+	<file src="Logos/iconRobar.png"/>
+	<file src="Logos/iconZonas.png"/>
+	<file src="Logos/iconMotosierra.png"/>
+	<file src="Logos/iconExtintor.png"/>
+
+
+	<file src="Logos/piloto.png"/>
+	<file src="Logos/camionero.png"/>
+	<file src="Logos/busetero.png"/>
+	<file src="Logos/taxista.png"/>
+	<file src="Logos/policia.png"/>
+	<file src="Logos/pescador.png"/>
+	<file src="Logos/militar.png"/>
+	<file src="Logos/mecanico.png"/>
+	<file src="Logos/drifter.png"/>
+	<file src="Logos/detective.png"/>
+	<file src="Logos/criminal.png"/>
+	<file src="Logos/basurero.png"/>
+	<file src="Logos/rappi.png"/>
+	<file src="Logos/medico.png"/>
+
+	<script src="antiRobo.lua" type="client" />
+</meta>

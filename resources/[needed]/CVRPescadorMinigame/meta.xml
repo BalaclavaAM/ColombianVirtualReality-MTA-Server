@@ -1,0 +1,47 @@
+<meta>
+	<info name="Fishing Job, Treasure and Inventory" description="Advanced Visual Fishing And Inventory" author="EnemyChad and Atatu [Forseti]" type="script" version="1.3.1" />
+	<oop>true</oop>
+
+	<!-- you can edit fish prices, rarity and some other settings in fishlist.lua -->
+
+	<file src="img/freshwaterfish.png" />
+	<file src="img/tropicalfish.png" />
+	<file src="img/pierrot.png" />
+	<file src="img/jellyfish.png" />
+	<file src="img/wobster.png" />
+	<file src="img/lionfish.png" />
+	<file src="img/catfish.png" />
+	<file src="img/mudfish.png" />
+	<file src="img/crab.png" />
+	<file src="img/rainbowjelly.png" />
+	<file src="img/mussel.png" />
+	<file src="img/eel.png" />
+	<file src="img/popperfish.png" />
+	<file src="img/bloomfish.png" />
+	<file src="bite" />
+	<file src="img/splash.png" />
+	<file src="img/water.png" />
+	<file src="img/rod.png" />
+
+	<file src="sound/reel1.mp3" />
+	<file src="sound/reel2.mp3" />
+	<file src="sound/reel3.mp3" />
+	<file src="sound/reel4.mp3" />
+	<file src="sound/reel5.mp3" />
+	<file src="sound/splash.mp3" />
+
+	<script src="fishlist.lua" type="shared" />
+	<script src="c_confirm.lua" type="client" />
+	<script src="c_objects.luac" type="client" />
+	<script src="c_fish.luac" type="client" />
+	<script src="c.luac" type="client" />
+	<script src="c_inv.luac" type="client" />
+	<script src="c_sell.lua" type="client" />
+	<script src="c_shop.lua" type="client" />
+	<script src="c_mini.lua" type="client" />
+	<script src="s.lua" type="server" />
+
+	<file src="rod.dff" />
+	<file src="rod.txd" />
+	<script src="c_addsounds.luac" type="client" />
+</meta>

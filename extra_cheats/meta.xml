@@ -1,5 +1,0 @@
-<meta>
-	<info author="DireXus" type="script" version="2.0" description="Cheats Script by DireXus ~ Dennis" name="extra_cheats" />
-	<script src="extra_cheatss.lua" type ="server"/>
-	<script src="extra_cheats.lua" type="client"/>
-</meta>

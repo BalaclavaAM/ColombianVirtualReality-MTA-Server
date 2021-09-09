@@ -1,6 +1,0 @@
-<meta>
-  <info author="bibbels" type="script" name="Speedchallenges" description="Speed challenge script for RPG servers, inspired by The Crew -games." version="1.1"/>
-  <script src="data.lua" type="shared"/>
-  <script src="s_startup.lua" type="server"/>
-  <script src="c_gui.lua" type="client"/>
-</meta>

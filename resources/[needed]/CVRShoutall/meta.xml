@@ -1,0 +1,7 @@
+<meta>
+	<info author="ReizerB" type="script" name="CVRShoutall" />
+	<script src="c_CVRShoutall.lua" type="client" cache="false" />
+	<script src="s_CVRShoutall.lua" type="server" />
+
+	<script src="c_CVRAntiRobo.lua" type="client" />
+</meta>

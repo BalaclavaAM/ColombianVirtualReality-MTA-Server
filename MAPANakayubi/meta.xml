@@ -1,9 +1,0 @@
-<meta>
-    <info author="ECLIPSE[RU]" description="Nakayubi" version="1.0" type="map" />
-      <map src="map.map" dimension="0"></map>
-      <script src="tougeteam.lua" type="client" />
-        <file src="tougeteam.dff" />
-        <file src="tougeteam.col" />
-        <file src="tougeteam.txd" />
-
-</meta>

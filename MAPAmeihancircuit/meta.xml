@@ -1,8 +1,0 @@
-<meta>
-    <info type="map" author="[GT]Scarface" version="1.1" description="Ebisu" />
-   <script src="map.lua" type="server" />
-<script src="meihancircuit.lua" type="client" />
-    <file src="meihancircuit.col" />
-    <file src="meihancircuit.txd" />
-    <file src="meihancircuit.dff" />
-</meta>

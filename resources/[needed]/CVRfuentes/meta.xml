@@ -1,0 +1,7 @@
+<meta>
+	<info author="ReizerB" description="Fuentes de letras" version="1.0" type="script" />
+	<file src="PoetsenOneRegular.ttf" />	
+	<file src="Express.ttf" />
+	<!--export function="outputBarraMensaje" type="server"/-->	
+	<!--export function="outputBarraMensaje" type="client"/-->	
+</meta>

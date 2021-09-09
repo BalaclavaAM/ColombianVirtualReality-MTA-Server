@@ -1,5 +1,0 @@
-------------------------------------------------->>
--- PROJECT:     Script_Velocimetro
--- AUTHOR:      Milionario (Alexsander)
--- RIGHTS:      Copyright Milionario (C) 2013/2019 
-------------------------------------------------->>

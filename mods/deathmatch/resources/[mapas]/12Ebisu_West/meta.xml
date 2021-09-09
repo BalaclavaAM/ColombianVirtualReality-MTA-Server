@@ -1,0 +1,14 @@
+<meta>
+    <info author="[GT]zorrigas y [GT]Scarface" description="Robada Pass" version="2.0" type="map" />
+  <script src="map.lua" type="server" />
+  <script src="ebisuw.lua" type="client" />
+    <file src="ebisuw.txd" />
+    <file src="ebisuw1.dff" />
+    <file src="ebisuw2.dff" />
+    <file src="ebisuw3.dff" />
+    <file src="ebisuw4.dff" />
+    <file src="ebisu_w.col" />
+    <file src="ebisu_w2.col" />
+    <file src="ebisu_w3.col" />
+    <file src="ebisu_w4.col" />
+</meta>

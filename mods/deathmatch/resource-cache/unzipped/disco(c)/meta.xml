@@ -1,0 +1,4 @@
+<meta>
+	<info author="NitreX" version="1.0" description="Discoclubs" name="Discoclubs" type="script" />
+	<script src="discoSF.lua" type="server"/>
+</meta>

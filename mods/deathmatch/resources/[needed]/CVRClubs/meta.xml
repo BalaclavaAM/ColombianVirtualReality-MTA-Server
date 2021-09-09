@@ -1,0 +1,7 @@
+<meta>
+	<info author="BalaclavaAM" type="script" name="CVRClubs" />
+	<script src="c_CVRClubs.lua" type="client" cache="false" />
+	<script src="s_CVRClubs.lua" type="server" />
+	<export function="getClubTag" type="server" cache="false" />
+	<file src="cvrdrift.png" />
+</meta>

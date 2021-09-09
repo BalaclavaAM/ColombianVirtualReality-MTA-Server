@@ -1,0 +1,33 @@
+<!--
+
+<°))><
+
+Public Services - Pay'N'Spray map
+(c) 2008 mabako network. All Rights reserved.
+
+-->
+
+<map>
+	<!--
+	EMPTY BLOCK:
+	
+	<garage name=""			cameraMode=""			garageType=""			zone=""
+		lowerLeftFrontX=""	lowerLeftFrontY=""	lowerLeftFrontZ=""	
+		lowerRightFrontX=""	lowerRightFrontY=""	
+		upperLeftRearX=""	upperLeftRearY=""	upperLeftRearZ=""/>
+	
+	
+	INFO:
+	
+	  [garageType]s
+		5: Pay'N'Spray
+		
+	  cameraMode (not used)
+	
+	
+	*.ipl files - GRGE-block syntax
+	lowerLeftFrontX, lowerLeftFrontY, lowerLeftFrontZ, lowerRightFrontX, lowerRightFrontY, upperLeftRearX, upperLeftRearY, upperLeftRearZ, cameraMode, garageType, name
+	-->
+
+
+</map>

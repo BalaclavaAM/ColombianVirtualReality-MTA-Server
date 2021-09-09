@@ -1,0 +1,16 @@
+<meta>
+    <info author="CirnoBaka9" version="6.6.6" type="script"/>
+  <map src="OKARU.map" dimension="0"></map>
+    <script src="okaru.lua" type="client"/>
+    <file src="okaru.txd" type="client"/>
+    <file src="okaru.col" type="client"/>
+    <file src="okaru1.col" type="client"/> 
+    <file src="okaru2.col" type="client"/> 
+    <file src="okaru3.col" type="client"/> 
+    <file src="okaru4.col" type="client"/>   
+    <file src="okaru.dff" type="client"/>
+    <file src="okaru1.dff" type="client"/>
+    <file src="okaru2.dff" type="client"/>
+    <file src="okaru3.dff" type="client"/>
+    <file src="okaru4.dff" type="client"/>
+</meta>

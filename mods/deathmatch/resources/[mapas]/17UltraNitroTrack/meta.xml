@@ -1,0 +1,10 @@
+<meta>
+    <info author="[GT]zorrigas y [GT]Scarface" description="Robada Pass" version="2.0" type="map" />
+ <script src="map.lua" type="server" />
+ <script src="nitroultra.lua" type="client" />
+    <file src="nitroultra.txd" />
+    <file src="nitroultra1.col" />
+    <file src="nitroultra1.dff" />
+    <file src="nitroultra2.col" />
+    <file src="nitroultra2.dff" />
+</meta>

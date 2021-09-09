@@ -1,0 +1,12 @@
+<meta>
+    <info name="3D proximity voice chat" author="Addlibs" description="Extension of MTA's voice system for 3D voice. Features attenuation, panning and occlusion." version="1.0" type="script"></info>
+    <min_mta_version server="1.5.4-0.00000" client="1.5.4-0.00000" />
+    <oop>true</oop>
+    <script src="voice_s.lua" type="server"></script>
+    <script src="voice.lua" type="client"></script>
+    <script src="cDrawIcon.lua" type="client" />
+    <script src="cGlobals.lua" type="client" />
+	<file src="images/voice.png" />
+	<file src="images/voice_small.png" />
+	<file src="images/voice_small_muted.png" />
+</meta>

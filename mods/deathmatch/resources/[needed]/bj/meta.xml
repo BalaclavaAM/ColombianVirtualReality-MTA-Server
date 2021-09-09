@@ -1,0 +1,66 @@
+<meta>
+	<info author="ck-Godless" type="script" showInResourceBrowser="true" version="1.0.5" />
+	<script src="bj_server.lua" type="server" />
+	<script src="bj.lua" type="client"/>
+	
+	<!-- cards from http://www.pokerth.net/ Poker Projekt-->
+	<file src="gfx/0.png" />
+	<file src="gfx/1.png" />
+	<file src="gfx/2.png" />
+	<file src="gfx/3.png" />
+	<file src="gfx/4.png" />
+	<file src="gfx/5.png" />
+	<file src="gfx/6.png" />
+	<file src="gfx/7.png" />
+	<file src="gfx/8.png" />
+	<file src="gfx/9.png" />
+	<file src="gfx/10.png" />
+	<file src="gfx/11.png" />
+	<file src="gfx/12.png" />
+	<!--End  Diamond / Start Heart-->
+	<file src="gfx/13.png" />
+	<file src="gfx/14.png" />
+	<file src="gfx/15.png" />
+	<file src="gfx/16.png" />
+	<file src="gfx/17.png" />
+	<file src="gfx/18.png" />
+	<file src="gfx/19.png" />
+	<file src="gfx/20.png" />
+	<file src="gfx/21.png" />
+	<file src="gfx/22.png" />
+	<file src="gfx/23.png" />
+	<file src="gfx/24.png" />
+	<file src="gfx/25.png" />
+	<!--End  Heart / Start Pik-->
+	<file src="gfx/26.png" />
+	<file src="gfx/27.png" />
+	<file src="gfx/28.png" />
+	<file src="gfx/29.png" />
+	<file src="gfx/30.png" />
+	<file src="gfx/31.png" />
+	<file src="gfx/32.png" />
+	<file src="gfx/33.png" />
+	<file src="gfx/34.png" />
+	<file src="gfx/35.png" />
+	<file src="gfx/36.png" />
+	<file src="gfx/37.png" />
+	<file src="gfx/38.png" />
+	<!--End  Pik / Start Kreuz-->
+	<file src="gfx/39.png" />
+	<file src="gfx/40.png" />
+	<file src="gfx/41.png" />
+	<file src="gfx/42.png" />
+	<file src="gfx/43.png" />
+	<file src="gfx/44.png" />
+	<file src="gfx/45.png" />
+	<file src="gfx/46.png" />
+	<file src="gfx/47.png" />
+	<file src="gfx/48.png" />
+	<file src="gfx/49.png" />
+	<file src="gfx/50.png" />
+	<file src="gfx/51.png" />
+	<!--End  Kreuz / Back-->
+	<file src="gfx/back.png"/>
+	<file src="gfx/empty.png"/>
+	
+</meta>

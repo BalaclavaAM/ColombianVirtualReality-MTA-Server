@@ -1,0 +1,54 @@
+<meta>
+	<info author="NG Scripting Team" name="NG Vehicles" type="script" version="1.0" />
+	<script src="hud_c.lua" type="client" />
+	<script src='cruise.lua' type='client' />
+	<export function="getVehicleSpeed" type="client" />
+	
+	<script src='vehicles/cc.lua' type='server' />
+	<script src='vehicles/policelights.lua' type='client' />
+	<script src="vehicles/shops_data.lua" type="shared" />
+	<script src="vehicles/shops_s.lua" type="server" />
+	<script src="vehicles/shops_c.lua" type="client" />
+	<script src="vehicles/vehicles_s.lua" type="server" />
+	<script src="vehicles/vehicles_c.lua" type="client" />
+
+	<export function='showVehicle' />
+	<export function='getAccountVehicles' />
+	<export function='getAllAccountVehicles' />
+	<export function='warpVehicleToPlayer' />
+	
+	<script src="locks/locks_c.lua" type="client" />
+	<script src="locks/locks.lua" type="server" />
+	<file src="locks/beep.mp3" />
+	
+	<script src='fuel/timer.lua' type='server' />
+	<script src='fuel/refuel.lua' type='client' />
+	<script src='fuel/locations.lua' type='shared' />
+	<file src='fuel/fuel_icon.png' />
+	
+	
+	<!-- Exports for phone -->
+	<export function="SetVehicleVisible" />
+	<export function="recoverVehicle" />
+	<export function="sellVehicle" />
+	<export function="getVehicleHandlingg" type="server" />
+	<export function="getClientVehicleHandlingg" type="client" />
+
+
+	<script src="config.lua" type="client" cache ="false"/>	
+	<script src="drawing.lua" cache="false" type="client"/>
+	<file src="font.ttf" cache="false" />
+	<oop>true</oop>
+	<file src="fx/p.png" cache="false" />
+	<file src="fx/g.png" cache="false" />
+	<file src="fx/br.png" cache="false" />
+	<file src="fx/c.png" cache="false" />
+	<file src="fx/fuel.png" cache="false" />
+	<file src="fx/key.png" cache="false" />
+	<file src="fx/LadronesCVR.png" cache="false" />
+	<file src="fx/CarroPNG.png" cache="false" />
+	<file src="fx/Bumper.png" cache="false" />
+	<script src="drawingS.lua" type="server"/>		
+ 	
+	<min_mta_version server="1.3.4-0.00000" client="1.3.4-0.00000"></min_mta_version>
+</meta>

@@ -1,0 +1,20 @@
+<teleports>
+    <teleport x="-303.78479" y="1525.9187" z="75.359375" rot="184.61725" type="both" desc="Bigear"></teleport>
+    <teleport x="2872.4084" y="-1970.8275" z="11.117188" rot="298.25958" type="both" desc="piketes"></teleport>
+    <teleport x="-1965.8031" y="440.25851" z="35.171875" rot="277.0592" type="foot only" desc="Cine"></teleport>
+    <teleport x="-3315.1162" y="939.44067" z="322.56601" rot="271.43997" type="foot only" desc="Okaru"></teleport>
+    <teleport x="1977.5115" y="1819.39" z="23.23035" rot="119.73544" type="foot only" desc="Drift Hotel"></teleport>
+    <teleport x="-1910.8259" y="1810.2286" z="2.3" rot="244.22571" type="foot only" desc="Gymkhana"></teleport>
+    <teleport x="2972.1589" y="-1725.678" z="37.492439" rot="241.55891" type="vehicle only" desc="Project Touge"></teleport>
+    <teleport x="-3408.7849" y="-1642.892" z="62.739567" rot="181.78029" type="vehicle only" desc="Ultra Nitro Track"></teleport>
+    <teleport x="202.86798" y="3069.9014" z="29.206181" rot="40.985535" type="vehicle only" desc="Ebisu West"></teleport>
+    <teleport x="-3298.5684" y="884.51422" z="321.04712" rot="145.255" type="both" desc="Akina arriba"></teleport>
+    <teleport x="1983.2943" y="1771.3582" z="11.452054" rot="238.31238" type="vehicle only" desc="Hotel"></teleport>
+    <teleport x="3380.2617" y="1363.2709" z="19.641912" rot="249.37424" type="both" desc="GoKart"></teleport>
+    <teleport x="2239.8135" y="1969.8138" z="32.007813" rot="181.06001" type="foot only" desc="Drift Espiral."></teleport>
+    <teleport x="-2165.0361" y="314.97052" z="35.320313" rot="266.44748" type="both" desc="SFRun"></teleport>
+    <teleport x="2315.0786" y="1393.7633" z="42.820313" rot="262.75891" type="both" desc="ParkingDrift"></teleport>
+    <teleport x="2380.3547" y="2559.9045" z="10.820313" rot="81.271912" type="both" desc="Parking2Drift"></teleport>
+    <teleport x="2130.9521" y="-2859.2788" z="1002.866" rot="287.04028" type="both" desc="Tsan"></teleport>
+    <teleport x="1789.6742" y="-4112.3833" z="12.773438" rot="5.4031067" type="foot only" desc="Evento de Box"></teleport>
+</teleports>

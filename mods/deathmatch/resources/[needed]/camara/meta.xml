@@ -1,0 +1,4 @@
+<meta>
+    <info author="Fr3eak" version="1.0.0" type="script" name="AutoCamera" />
+    <script src="cockpit.luac" type="client" />
+</meta>

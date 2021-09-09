@@ -1,0 +1,10 @@
+<meta>
+	<info author="BalaclavaAMXD" type="script" name="CVRCapturaelCamion" />
+	<settings>
+		<setting name="*precio" value="25000" friendlyname="Precio Participar" desc="Esto establece el precio que tendrá la entrada."/>
+		<setting name="*tipopremio" value="auto" friendlyname="Premio Participar" desc="Esto establece el premio que se da."/>
+	</settings>
+	<script src="c_CVRCapturaelCamion.lua" type="client" cache="false" />
+	<script src="s_CVRCapturaelCamion.lua" type="server" />
+	<export function="isPlayerInMinigame" type="server" cache="false" />
+</meta>

@@ -1,0 +1,69 @@
+                            INFORMACION SOBRE EL VIP DE MANERA GENERAL
+
+1. CHALECO Y SALUD: abriendo el panel del vip te puedes curar y poner chaleco cada 5 minutos o menos dependiendo de tu rango de vip.
+
+2. DINERO: Cada 45min el juego te dará entre $5000 y $40000 dependiendo de tu rango de vip.
+
+3. REPARAR AUTO: Cada 2 minutos puedes reparar tu carro presionando la tecla "2"
+
+4. LASER: Usando /laser activas el laser y cambias el color con /lasercolor.
+
+5. REBAJA DE CÁRCEL : Pasas entre 5% y 75% de tiempo menos en la carcel dependiendo de tu rango de vip.
+
+6. VEHICULOS: Puedes spawnear un Infernus, un helicoptero y un vortex desde el panel.
+
+7. MAS VEHICULOS: Puedes sacar mas vehiculos en los spawners.
+
+8. ESTILOS DE PELEA: Puedes cambiar tus estilos de pelea.
+
+9. GRAFITIS: Puedes hacer grafitis con el /graffiti de rango ORO en adelante.
+
+10. HABILIDAD CON ARMAS: Puedes tener todas las habilidades al 100%.
+
+11. SHADERS: Puedes utilizar el /shader desde DIAMANTE en adelante para personalizar tus carros.
+
+12. PERSONALIZAR A CJ: Puedes vestir a tu CJ como tu desees.
+
+13. VIDA 200%: Si eres VIP ESMERALDA puede poner tu vida al 200% cada 5 min 
+
+14. QUITAR ESTRELLAS: Si eres VIP ESMERALDA puede quitarte las estrellas cada 180 min
+
+15. HAND: Si eres VIP ESMERALDA puedes modificar a tu gusto tus vehiculos propios.
+
+
+[[[[PRECIOS DE LOS VIPS Y DIFERENTES BUNDLES/PAQUETES]]]]
+
+
+            VIP BRONZE - PRECIO: $8000
+
+            VIP SILVER - PRECIO: $10000
+
+            VIP GOLD - PRECIO: $12000
+
+            VIP DIAMOND - PRECIO $14000
+
+            VIP ESMERALDA - PRECIO $25000
+
+            VIP BUNDLE PERSONAL - PRECIO $32000 (viene con carro)
+
+            VIP DIAMOND DUO - PRECIO $22000 (2 vip DIAMANTE)
+
+            VIP BUNDLE GANG - PRECIO $90000 
+
+
+||| Bundle gang |||
+
+-10 VIP Oro con duración de 1 mes + Base Gang por dos meses + Skin Personal por dos meses. 
+
+-Cada VIP Adicional tendrá un costo de 8000 pesos, y sólo se puede añadir adicionales hasta 7 días después de realizar la compra del Bundle Gang.
+
+
+---------------------------------------------------------------
+¿COMO PUEDO OBTENER ALGUNOS DE ESTOS VIPS O PAQUETES?
+¿COMO PUEDE OBTENER MAS INFORMACION SOBRE LOS VIP?
+
+- Para esto ponte en contacto con nosotros por nuestro discord. 
+ (usa el comando /dc para copiar nuestra invitacion a discord)
+----------------------------------------------------------------
+
+

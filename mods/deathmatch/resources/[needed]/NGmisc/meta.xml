@@ -1,0 +1,60 @@
+<meta>
+<file src="archivos/break_bar.txd" />
+<file src="archivos/dyn_cash.txd" />
+<file src="archivos/money.dff" />
+<file src="archivos/gorro.txd" />
+<file src="archivos/gorro.dff" />
+<file src="archivos/velas.txd" />
+<file src="archivos/velas.dff" />
+<file src="archivos/velas.col" />
+<file src="archivos/sancocho.txd" />
+<file src="archivos/sancocho.dff" />
+<file src="archivos/sancocho.col" />
+<file src="archivos/hospital_lawn.txd" />
+<file src="archivos/foodkarts.txd" />
+<file src="archivos/vegasflag.txd" />
+<file src="archivos/billbrd01_lan2.txd" />
+<file src="archivos/billbrd01_lan.txd" />
+<file src="archivos/ammu_lan2.txd" />
+<file src="archivos/vgshpground.txd" />
+<file src="archivos/sw_farm1.txd" />
+<file src="archivos/smallertxd.txd" />
+<file src="archivos/tshirtwhite.txd" />
+<file src="archivos/shopliquor_las.txd" />
+<file src="archivos/garag3_lawn.txd" />
+<file src="archivos/shopliquor_las.txd" />
+
+<file src="archivos/propbarstuff.txd" />
+
+
+<file src="archivos/chamber.txd"/>
+<file src="archivos/chamber.dff"/>
+
+<file src="archivos/cunte_lik.txd"/>
+
+<file src="e.png" />
+<file src="archivos/tshirtwhite.dff" />
+<script src="metropolitano.lua" type="client" />
+<script src="cartelP_s.lua" type="server" />
+<script src="putibar_s.lua" type="server" />
+<script src="putibar_c.lua" type="client" />
+<script src="prod_s.lua" type="server" />
+<script src="prod_c.lua" type="client" />
+<script src="zorra_c.lua" type="client" />
+<script src="modofoto_c.lua" type="client" />
+<script src="zorra_s.lua" type="server" />
+<script src="mapEditorScriptingExtension_c.lua" type="client" />
+<script src="mapEditorScriptingExtension_s.lua" type="server" />
+<script src="minigameDM.lua" type="server" />
+<file src="ermanoqpena.mp3" />
+<file src="bala.png" />
+<map src="TORNEOHOTEL.map" dimension="0"></map>
+<map src="BigearMORA.map" dimension="0"></map>
+<map src="Parking2MORAHPTA.map" dimension="0"></map>
+<map src="HospitalInterior.map" dimension="0"></map>
+<map src="CasaEnValle.map" dimension="0"></map>
+<file src="chat.png" />
+<file src="chat2.png" />
+<oop>true</oop>
+<script src="kchaticon.lua" type="client" />
+</meta>

@@ -1,0 +1,10 @@
+<meta>
+    <info author="ECLIPSE[RU]" description="bikohu" version="1.0" type="map" />
+   <script src="map.lua" type="server" />
+<script src="drift.lua" type="client" />
+    <file src="drift.txd" />
+    <file src="drift1.col" />
+    <file src="drift1.dff" />
+    <file src="drift2.col" />
+    <file src="drift2.dff" />
+</meta>

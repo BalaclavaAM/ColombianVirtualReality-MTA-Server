@@ -1,0 +1,5 @@
+<meta>
+    <info author="Lokote1998" type="script" name="Countdown" version="1.5.6" />
+	<script src="utils_client.lua" type="client" />
+    <script src="client.lua" type="client" />
+</meta>

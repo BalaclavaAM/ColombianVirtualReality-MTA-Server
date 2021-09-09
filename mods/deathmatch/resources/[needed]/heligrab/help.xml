@@ -1,0 +1,20 @@
+<help>
+This is a resource allowing you to jump, grab and hang onto parts of helicopters
+To grab on to a helicopter, you must be standing with your hands close to the helicopter rails and execute the grab command
+
+By default, you can do this with the following commands:
+/grab (grabs onto a helicopter)
+/drop (drops off a helicopter)
+
+These commands are also bound to the keys 'jump' (grab) and 'backspace' (drop) by default
+
+If you're bugged in the heligrab state, using /forcedrop instead of /drop may help (but use with caution, it's not graceful drop so may cause other issues)
+
+The key binds can be modified in the binds menu in the MTA settings
+
+You can also bind the commands to keys yourself with:
+/bind key state command (eg: "/bind lshift down grab")
+
+You cannot first grab onto a heli and then change interior or dimension, and expect your grabbed status to remain (you'd be glitching yourself and sync to other players/environment).
+This glitch (often to abuse) is fixed in this version of heligrab.
+</help>

@@ -2851,3 +2851,1362 @@
 [2021-09-12 21:43:19] INFO: = Your version: 1.1.4
 [2021-09-12 21:43:19] INFO: = Your version: 1.1.4
 [2021-09-12 21:43:19] ERROR: [needed]\NGGamemode\ng_verCheck.server.lua:14: attempt to concatenate local 'version' (a nil value)
+[2021-09-12 21:43:51] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-12 21:43:51] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 21:44:57] ADMIN: x|Willow has slapped FugoHaze (20 HP)
+[2021-09-12 21:45:06] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:06] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:06] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:06] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:06] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:07] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 21:45:10] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: x|Willow has changed FugoHaze's skin to 12
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:11] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:12] ADMIN: ASH has given FugoHaze 'Minigun'
+[2021-09-12 21:45:20] ADMIN: x|Willow has changed FugoHaze's skin to 19
+[2021-09-12 21:45:30] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 21:45:30] ADMIN: x|Willow has changed FugoHaze's skin to 41
+[2021-09-12 21:45:41] ADMIN: x|Willow has changed FugoHaze's skin to 61
+[2021-09-12 21:45:48] ADMIN: x|Willow has changed FugoHaze's skin to 82
+[2021-09-12 21:46:29] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:46:29] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:46:45] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-12 21:46:45] INFO: NGSQL: Loading Speedrun account data (Player: VirtuoXS)
+[2021-09-12 21:46:45] INFO: [Logeo] Info de logeo de VirtuoXS ha sido cargada correctamente
+[2021-09-12 21:46:45] LOGIN: (Everyone) VirtuoXS successfully logged in as 'Speedrun' (IP: 186.82.84.32  Serial: 4918ED35CA37A5EF2240EEED89C08534)
+[2021-09-12 21:46:52] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:46:52] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:46:52] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:46:53] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:46:59] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]  [DUP x3]
+[2021-09-12 21:46:59] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)  [DUP x3]
+[2021-09-12 21:46:59] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]  [DUP x3]
+[2021-09-12 21:46:59] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'  [DUP x3]
+[2021-09-12 21:46:59] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:46:59] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:46:59] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:46:59] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:48:09] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:48:09] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:48:09] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:48:09] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:48:09] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:48:09] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:48:09] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:48:10] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:48:10] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:48:10] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:48:10] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:48:10] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:48:10] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:48:10] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:48:10] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:48:10] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:48:10] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:49:05] ADMIN: ASH has given FugoHaze a 'Super GT'" 
+[2021-09-12 21:49:20] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'events' in 'field list'
+[2021-09-12 21:49:20] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'duelos' in 'field list'
+[2021-09-12 21:49:49] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:49:49] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:49:49] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:50:11] ADMIN: ASH has fixed vehicle of FugoHaze
+[2021-09-12 21:50:34] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'events' in 'field list'
+[2021-09-12 21:50:34] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'duelos' in 'field list'
+[2021-09-12 21:51:20] ADMIN: x|Willow has changed ASH's skin to 82
+[2021-09-12 21:51:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 21:51:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:51:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:51:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 21:51:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:51:33] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:51:33] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 21:51:34] ADMIN: x|Willow has slapped ASH (20 HP)
+[2021-09-12 21:51:36] ADMIN: x|Willow has slapped ASH (20 HP)
+[2021-09-12 21:51:37] ADMIN: ASH has slapped x|Willow (100 HP)
+[2021-09-12 21:51:44] ADMIN: x|Willow has slapped ASH (20 HP)
+[2021-09-12 21:51:48] ADMIN: x|Willow has slapped ASH (20 HP)
+[2021-09-12 21:51:49] ADMIN: ASH has fixed vehicle of FugoHaze
+[2021-09-12 21:51:54] ADMIN: ASH has set FugoHaze's money to 100000
+[2021-09-12 21:51:56] ADMIN: x|Willow has changed ASH's armour to 100
+[2021-09-12 21:52:14] ADMIN: x|Willow has changed ASH's Silenced Pistol skill to 999
+[2021-09-12 21:52:20] ADMIN: ASH has fixed vehicle of FugoHaze
+[2021-09-12 21:52:20] ADMIN: x|Willow has changed ASH's Fighting Style to 4
+[2021-09-12 21:52:29] ADMIN: x|Willow has changed ASH's health to 100
+[2021-09-12 21:52:45] ADMIN: x|Willow has frozen ASH
+[2021-09-12 21:52:48] ADMIN: x|Willow has unfrozen ASH
+[2021-09-12 21:52:53] ADMIN: x|Willow has frozen ASH
+[2021-09-12 21:52:56] ADMIN: x|Willow has unfrozen ASH
+[2021-09-12 21:52:59] ADMIN: ASH has given a jetpack to x|Willow
+[2021-09-12 21:53:00] ADMIN: ASH has removed x|Willow's jetpack
+[2021-09-12 21:53:00] ADMIN: ASH has given a jetpack to x|Willow
+[2021-09-12 21:53:01] ADMIN: ASH has removed x|Willow's jetpack
+[2021-09-12 21:53:01] ADMIN: ASH has given a jetpack to x|Willow
+[2021-09-12 21:53:01] ADMIN: ASH has given a jetpack to x|Willow
+[2021-09-12 21:53:01] ADMIN: ASH has removed x|Willow's jetpack
+[2021-09-12 21:53:01] ADMIN: ASH has given a jetpack to x|Willow
+[2021-09-12 21:53:02] ADMIN: ASH has removed x|Willow's jetpack
+[2021-09-12 21:53:12] ADMIN: x|Willow name changed to   by ASH.
+[2021-09-12 21:53:20] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'events' in 'field list'
+[2021-09-12 21:53:20] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'duelos' in 'field list'
+[2021-09-12 21:53:44] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:53:44] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:54:33] ADMIN: x|Willow has warped to ASH
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:54:59] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:55:05] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)  [DUP x3]
+[2021-09-12 21:55:25] ADMIN: ASH has given VirtuoXS a 'Sandking'" 
+[2021-09-12 21:55:37] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 21:55:37] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 21:55:37] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:55:58] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 21:56:04] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 21:56:07] ADMIN: x|Willow has muted x|Willow  1 min
+[2021-09-12 21:56:12] ADMIN: x|Willow has unmuted x|Willow
+[2021-09-12 21:56:17] ADMIN: x|Willow has slapped x|Willow (20 HP)
+[2021-09-12 21:56:25] ADMIN: x|Willow has slapped x|Willow (100 HP)
+[2021-09-12 21:56:38] ADMIN: Resource 'sas_custom' stopped by ASH(AshTheLynx2)
+[2021-09-12 21:56:38] Stopping sas_custom
+[2021-09-12 21:56:38] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:38] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 21:56:43] INFO: Checking for Mod Downloader updates 
+[2021-09-12 21:56:44] INFO: ====================================
+[2021-09-12 21:56:44] INFO: = ModDownloader version doesn't match community
+[2021-09-12 21:56:44] INFO: ====================================
+[2021-09-12 21:56:44] INFO: = Your version: 1.2.1
+[2021-09-12 21:56:44] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-12 21:56:49] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 21:56:49] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 21:56:49] Starting sas_custom
+[2021-09-12 21:56:50] startResource: Resource 'sas_custom' started
+[2021-09-12 21:56:50] ADMIN: Resource 'sas_custom' started by ASH(AshTheLynx2)
+[2021-09-12 21:57:12] ADMIN: x|Willow has given x|Willow a 'Banshee'" 
+[2021-09-12 21:57:23] ADMIN: x|Willow has given x|Willow a 'Alpha'" 
+[2021-09-12 21:57:40] ADMIN: x|Willow has given x|Willow 'AK-47'
+[2021-09-12 21:57:52] WARNING: [no_ng_tag]\admin\server\admin_server.lua:1005: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']
+[2021-09-12 21:57:58] WARNING: [no_ng_tag]\admin\server\admin_server.lua:1005: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']
+[2021-09-12 21:58:05] WARNING: [no_ng_tag]\admin\server\admin_server.lua:1005: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']
+[2021-09-12 21:58:11] WARNING: [no_ng_tag]\admin\server\admin_server.lua:1005: Bad argument @ 'giveWeapon' [Expected weapon-type at argument 2, got number '19']  [DUP x3]
+[2021-09-12 21:58:18] INFO: MATEMÁTICAS: Pregunta 55 - 42 + 7915 ha sido generada con una respueta de 7928
+[2021-09-12 21:58:22] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:22] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:22] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:23] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:23] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:23] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:23] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:23] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:24] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:24] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:24] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:24] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:25] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:25] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:25] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:25] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:26] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:26] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:26] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:26] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:26] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:27] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:27] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:28] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 21:58:36] ADMIN: x|Willow has set x|Willow's money to 999999999999999999999999999999999999999999999999999
+[2021-09-12 21:58:49] WARNING: [no_ng_tag]\admin\server\admin_server.lua:888: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2021-09-12 21:58:49] ADMIN: x|Willow has set x|Willow's money to 0+9999999999999999999999999999999999999999999999999
+[2021-09-12 21:58:56] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:58:56] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:58:56] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:58:58] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:59:00] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:59:01] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:59:01] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:59:01] WARNING: [no_ng_tag]\admin\server\admin_server.lua:888: Expected number, got non-convertible string. This warning may be an error in future versions.
+[2021-09-12 21:59:01] ADMIN: x|Willow has set x|Willow's money to 0+999999999999999999999999999999999999999999999999999
+[2021-09-12 21:59:07] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:59:07] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:59:07] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:59:07] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:59:07] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:59:07] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:59:07] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:59:07] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:59:09] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:138: Bad argument @ 'fromJSON' [Expected string at argument 1, got nil]
+[2021-09-12 21:59:09] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:140: bad argument #1 to 'pairs' (table expected, got nil)
+[2021-09-12 21:59:09] ERROR: [needed]\NGPhone\apps\vehicles_server.lua:9: call: failed to call 'NGVehicles:SetVehicleVisible' [string "?"]
+[2021-09-12 21:59:11] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:59:11] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-12 21:59:26] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 21:59:26] Stopping sas_custom
+[2021-09-12 21:59:27] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 21:59:28] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 21:59:28] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 21:59:28] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 21:59:28] Starting sas_custom
+[2021-09-12 21:59:28] sas_custom restarted successfully
+[2021-09-12 22:00:15] ADMIN: x|Willow has changed lights color of x|Willow's vehicle
+[2021-09-12 22:01:14] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:01:14] Stopping sas_custom
+[2021-09-12 22:01:14] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:01:15] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:01:15] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:01:15] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:01:15] Starting sas_custom
+[2021-09-12 22:01:15] sas_custom restarted successfully
+[2021-09-12 22:01:34] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:01:34] Stopping sas_custom
+[2021-09-12 22:01:36] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:01:37] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:01:37] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:01:37] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:01:37] Starting sas_custom
+[2021-09-12 22:01:37] sas_custom restarted successfully
+[2021-09-12 22:02:35] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:02:35] Stopping sas_custom
+[2021-09-12 22:02:35] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:02:36] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:02:36] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:02:36] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:02:36] Starting sas_custom
+[2021-09-12 22:02:36] sas_custom restarted successfully
+[2021-09-12 22:02:47] ACL: admin: Object 'user.FugoHaze' added to group 'Admin'
+[2021-09-12 22:02:47] ADMIN: x|Willow has given admin privilegies to FugoHaze
+[2021-09-12 22:03:00] ERROR: [needed]\NGAdministration\getstaff.lua:61: attempt to concatenate a nil value
+[2021-09-12 22:04:01] ACL: admin: Object 'user.FugoHaze' added to group 'Level 5'
+[2021-09-12 22:04:11] ADMIN: ASH has kicked FugoHaze (ADM)
+[2021-09-12 22:04:12] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:04:12] KICK: FugoHaze was kicked from the game by ASH (ADM)
+[2021-09-12 22:04:26] CONNECT: FugoHaze connected (IP: 186.84.22.104  Serial: F9D3EDE3B94FC833B69F6CC4412A2F43  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:04:26] JOIN: FugoHaze joined the game (IP: 186.84.22.104)
+[2021-09-12 22:04:32] ACL: admin: Object 'user.Speedrun' added to group 'Level 5'
+[2021-09-12 22:04:42] ADMIN: ASH has kicked VirtuoXS (ADM)
+[2021-09-12 22:04:43] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:04:43] KICK: VirtuoXS was kicked from the game by ASH (ADM)
+[2021-09-12 22:04:45] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-12 22:04:45] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:04:51] ADMIN: x|Willow has muted FugoHaze Te amo 2 mins
+[2021-09-12 22:05:05] CONNECT: VirtuoXS connected (IP: 186.82.84.32  Serial: 4918ED35CA37A5EF2240EEED89C08534  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:05:07] JOIN: VirtuoXS joined the game (IP: 186.82.84.32)
+[2021-09-12 22:05:08] DIAGNOSTIC: FugoHaze #1002 HTTP server file mismatch! (NGShops) user_shop_c.lua [CRC could not open file: Permission denied]
+[2021-09-12 22:05:12] INFO: modloader server: Player FugoHaze requested replacing
+[2021-09-12 22:05:38] ADMIN: x|Willow has slapped VirtuoXS (100 HP)
+[2021-09-12 22:05:41] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-12 22:05:41] INFO: NGSQL: Loading FugoHaze account data (Player: FugoHaze)
+[2021-09-12 22:05:41] INFO: [Logeo] Info de logeo de FugoHaze ha sido cargada correctamente
+[2021-09-12 22:05:42] LOGIN: (Everyone, Level 5, Admin) FugoHaze successfully logged in as 'FugoHaze' (IP: 186.84.22.104  Serial: F9D3EDE3B94FC833B69F6CC4412A2F43)
+[2021-09-12 22:06:01] ADMIN: x|Willow has given a jetpack to FugoHaze
+[2021-09-12 22:06:05] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:05] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:05] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:05] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:06] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:06] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:06] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:06] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:06] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:07] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:08] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:08] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:08] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:08] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:08] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:09] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:09] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:09] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:09] ADMIN: x|Willow has given FugoHaze 'Minigun'
+[2021-09-12 22:06:15] ADMIN: FugoHaze has changed FugoHaze's skin to 222
+[2021-09-12 22:06:23] ADMIN: x|Willow has given FugoHaze a 'Alpha'" 
+[2021-09-12 22:06:47] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:06:47] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:06:47] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:06:47] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:06:47] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:06:51] ADMIN: Console has unmuted FugoHaze
+[2021-09-12 22:06:53] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:06:57] ADMIN: FugoHaze has changed FugoHaze's skin to 311
+[2021-09-12 22:07:05] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:07:05] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:07:22] ADMIN: x|Willow has given VirtuoXS 'Minigun'
+[2021-09-12 22:07:22] ADMIN: x|Willow has given VirtuoXS 'Minigun'
+[2021-09-12 22:07:22] ADMIN: x|Willow has given VirtuoXS 'Minigun'
+[2021-09-12 22:07:22] ADMIN: x|Willow has given VirtuoXS 'Minigun'
+[2021-09-12 22:07:23] ADMIN: x|Willow has given VirtuoXS 'Minigun'
+[2021-09-12 22:07:28] ADMIN: x|Willow has changed VirtuoXS's armour to 100
+[2021-09-12 22:07:31] ADMIN: x|Willow has given a jetpack to VirtuoXS
+[2021-09-12 22:08:53] ADMIN: x|Willow has set VirtuoXS's money to 0999999999
+[2021-09-12 22:09:23] ADMIN: x|Willow has set x|Willow's money to 099999999999
+[2021-09-12 22:09:25] ADMIN: FugoHaze has given FugoHaze 'AK-47'
+[2021-09-12 22:09:27] INFO: modloader server: Player VirtuoXS requested replacing
+[2021-09-12 22:09:36] ADMIN: Resource 'sas_custom' stopped by ASH(AshTheLynx2)
+[2021-09-12 22:09:36] Stopping sas_custom
+[2021-09-12 22:09:37] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:37] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:37] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:37] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:37] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:37] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:09:41] ADMIN: x|Willow has changed x|Willow's health to 1
+[2021-09-12 22:09:43] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside  [DUP x2]
+[2021-09-12 22:09:47] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 22:09:58] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:09:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:09:58] Starting sas_custom
+[2021-09-12 22:09:59] startResource: Resource 'sas_custom' started
+[2021-09-12 22:09:59] ADMIN: Resource 'sas_custom' started by ASH(AshTheLynx2)
+[2021-09-12 22:10:03] ADMIN: x|Willow has set x|Willow's money to 999999990
+[2021-09-12 22:10:11] ADMIN: x|Willow has changed x|Willow's health to 100
+[2021-09-12 22:10:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:10:27] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:10:38] DIAGNOSTIC: x|Willow #1010 Applied 9.90 damage to x|Willow (from FugoHaze) due to network interruption
+[2021-09-12 22:11:51] ADMIN: x|Willow has given x|Willow a 'Bandito'" 
+[2021-09-12 22:12:02] ADMIN: x|Willow has given x|Willow a 'Bandito'" 
+[2021-09-12 22:12:04] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-12 22:12:04] INFO: NGSQL: Loading Speedrun account data (Player: VirtuoXS)
+[2021-09-12 22:12:04] INFO: [Logeo] Info de logeo de VirtuoXS ha sido cargada correctamente
+[2021-09-12 22:12:04] LOGIN: (Everyone, Level 5) VirtuoXS successfully logged in as 'Speedrun' (IP: 186.82.84.32  Serial: 4918ED35CA37A5EF2240EEED89C08534)
+[2021-09-12 22:12:07] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:12:07] Stopping sas_custom
+[2021-09-12 22:12:08] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:12:08] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:12:08] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:12:08] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:12:08] Starting sas_custom
+[2021-09-12 22:12:08] sas_custom restarted successfully
+[2021-09-12 22:12:23] ADMIN: ASH has given ASH 'Minigun'
+[2021-09-12 22:12:33] ADMIN: Resource 'sas_custom' stopped by ASH(AshTheLynx2)
+[2021-09-12 22:12:33] Stopping sas_custom
+[2021-09-12 22:12:33] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:33] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (ASH) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside  [DUP x2]
+[2021-09-12 22:12:34] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (x|Willow) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:34] ERROR: Client (FugoHaze) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:40] ERROR: Client (VirtuoXS) triggered serverside event checkSlots, but event is not added serverside
+[2021-09-12 22:12:40] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:12:40] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:12:46] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:12:58] ADMIN: ASH has given ASH 'M4'
+[2021-09-12 22:13:06] ADMIN: FugoHaze has given FugoHaze 'AK-47'
+[2021-09-12 22:13:18] INFO: MATEMÁTICAS: Pregunta 54 - 41 + 2077 ha sido generada con una respueta de 2090
+[2021-09-12 22:13:23] INFO: Checking for Mod Downloader updates 
+[2021-09-12 22:13:24] INFO: ====================================
+[2021-09-12 22:13:24] INFO: = ModDownloader version doesn't match community
+[2021-09-12 22:13:25] INFO: ====================================
+[2021-09-12 22:13:25] INFO: = Your version: 1.2.1
+[2021-09-12 22:13:25] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-12 22:13:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:13:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:14:00] ADMIN: Resource 'CVREventos' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:14:00] Stopping CVREventos
+[2021-09-12 22:14:01] Starting CVREventos
+[2021-09-12 22:14:01] CVREventos restarted successfully
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:11] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:14:12] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:14:12] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:14:17] ADMIN: ASH has given ASH a 'Sandking'" 
+[2021-09-12 22:14:35] ADMIN: VirtuoXS has changed VirtuoXS's Pistol skill to 0
+[2021-09-12 22:14:38] ADMIN: Resource 'NGEvents' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:14:38] Stopping NGEvents
+[2021-09-12 22:14:39] Starting NGEvents
+[2021-09-12 22:14:39] NGEvents restarted successfully
+[2021-09-12 22:14:41] ADMIN: VirtuoXS has changed VirtuoXS's Pistol skill to 1000
+[2021-09-12 22:14:47] ADMIN: VirtuoXS has changed VirtuoXS's Desert Eagle skill to 1000
+[2021-09-12 22:14:50] ADMIN: VirtuoXS has changed VirtuoXS's Sawn Off skill to 1000
+[2021-09-12 22:14:53] ADMIN: VirtuoXS has changed VirtuoXS's Uzi skill to 1000
+[2021-09-12 22:14:57] ADMIN: VirtuoXS has changed VirtuoXS's M4 skill to 1000
+[2021-09-12 22:15:10] ADMIN: x|Willow has given FugoHaze a 'Bandito'" 
+[2021-09-12 22:15:14] ADMIN: Resource 'NGcuetes' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:15:14] Stopping NGcuetes
+[2021-09-12 22:15:14] Resource 'NGcuetes' changed, reloading and starting
+[2021-09-12 22:15:14] Starting NGcuetes
+[2021-09-12 22:15:15] NGcuetes restarted successfully
+[2021-09-12 22:15:27] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:27] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:28] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:28] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:28] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:28] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:29] ADMIN: x|Willow has given FugoHaze a 'HPV1000'" 
+[2021-09-12 22:15:38] ADMIN: x|Willow has given FugoHaze a 'Hotring Racer 3'" 
+[2021-09-12 22:15:38] ADMIN: x|Willow has given FugoHaze a 'Hotring Racer 3'" 
+[2021-09-12 22:15:38] ADMIN: x|Willow has given FugoHaze a 'Hotring Racer 3'" 
+[2021-09-12 22:15:39] ADMIN: x|Willow has given FugoHaze a 'Hotring Racer 3'" 
+[2021-09-12 22:15:48] ADMIN: x|Willow has given FugoHaze a 'Willard'" 
+[2021-09-12 22:15:49] ADMIN: x|Willow has given FugoHaze a 'Willard'" 
+[2021-09-12 22:16:19] ADMIN: x|Willow has given x|Willow a 'Willard'" 
+[2021-09-12 22:16:29] ADMIN: x|Willow has given x|Willow a 'Willard'" 
+[2021-09-12 22:17:16] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:17:29] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 22:17:29] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 190.24.58.89 (onElementDataChange superman:flying)
+[2021-09-12 22:17:54] ADMIN: VirtuoXS has given VirtuoXS a 'Banshee'" 
+[2021-09-12 22:18:20] ADMIN: FugoHaze has set FugoHaze's money to 808000000000
+[2021-09-12 22:18:25] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:25] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:25] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: VirtuoXS has given VirtuoXS a 'Cheetah'" 
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:26] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:27] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:28] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:18:29] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:29] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:29] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:30] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:30] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:30] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:30] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:31] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:32] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:32] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:32] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:32] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:32] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:33] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:33] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:33] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:34] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:34] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:34] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:34] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:34] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:35] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:35] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:35] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:35] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:35] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:36] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:36] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:36] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:36] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:37] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:37] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:37] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:37] ERROR: Not processing resource 'housemysql' as it has duplicates on different paths:
+                  Path #1: "resources\[mapas]\housemysql"
+                  Path #2: "resources\[needed]\housemysql"
+[2021-09-12 22:18:38] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:38] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:38] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:38] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:38] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:39] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:39] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:39] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:40] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:40] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:41] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:42] ADMIN: VirtuoXS has fixed vehicle of VirtuoXS
+[2021-09-12 22:18:45] ADMIN: x|Willow has given x|Willow a 'Willard'" 
+[2021-09-12 22:18:56] ADMIN: x|Willow has given x|Willow a 'Virgo'" 
+[2021-09-12 22:19:06] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:19:19] ERROR: Not processing resource 'housemysql' as it has duplicates on different paths:
+                  Path #1: "resources\[mapas]\housemysql"
+                  Path #2: "resources\[needed]\housemysql"
+[2021-09-12 22:19:20] ADMIN: x|Willow has given x|Willow 'Minigun'
+[2021-09-12 22:19:22] ADMIN: x|Willow has given x|Willow a 'Virgo'" 
+[2021-09-12 22:19:33] ADMIN: x|Willow has given x|Willow a 'Virgo'" 
+[2021-09-12 22:20:03] New resource 'housemysql' loaded
+[2021-09-12 22:20:03] Resources: 145 loaded, 0 failed
+[2021-09-12 22:20:12] ADMIN: FugoHaze has moved FugoHaze to ASH
+[2021-09-12 22:20:42] ADMIN: FugoHaze has changed FugoHaze's health to 100
+[2021-09-12 22:20:51] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-12 22:20:51] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:20:53] ADMIN: FugoHaze has changed FugoHaze's armour to 100
+[2021-09-12 22:21:02] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-12 22:21:02] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:21:14] ADMIN: VirtuoXS has changed VirtuoXS's skin to 12
+[2021-09-12 22:21:38] ADMIN: VirtuoXS has changed VirtuoXS's skin to 17
+[2021-09-12 22:21:42] INFO: [Cambio de Nick] Info de logeo de chupapene ha sido actualizada correctamente
+[2021-09-12 22:21:42] NICK: FugoHaze is now known as chupapene
+[2021-09-12 22:21:42] ADMIN: chupapene name changed to  .
+[2021-09-12 22:21:46] ADMIN: VirtuoXS has changed VirtuoXS's skin to 210
+[2021-09-12 22:21:52] ADMIN: VirtuoXS has changed VirtuoXS's skin to 169
+[2021-09-12 22:21:54] ADMIN: x|Willow has changed chupapene's armour to 100
+[2021-09-12 22:21:56] ADMIN: VirtuoXS has changed VirtuoXS's skin to 170
+[2021-09-12 22:22:01] ADMIN: VirtuoXS has changed VirtuoXS's skin to 182
+[2021-09-12 22:22:06] ADMIN: VirtuoXS has changed VirtuoXS's skin to 189
+[2021-09-12 22:22:13] INFO: [Cambio de Nick] Info de logeo de Empotravenecos ha sido actualizada correctamente
+[2021-09-12 22:22:13] NICK: x|Willow is now known as Empotravenecos
+[2021-09-12 22:22:13] ADMIN: Empotravenecos name changed to   by ASH.
+[2021-09-12 22:22:13] ADMIN: VirtuoXS has changed VirtuoXS's skin to 187
+[2021-09-12 22:22:16] ADMIN: VirtuoXS has changed VirtuoXS's skin to 211
+[2021-09-12 22:22:20] ADMIN: VirtuoXS has changed VirtuoXS's skin to 228
+[2021-09-12 22:22:23] ADMIN: VirtuoXS has changed VirtuoXS's skin to 236
+[2021-09-12 22:22:25] ADMIN: VirtuoXS has changed VirtuoXS's skin to 247
+[2021-09-12 22:22:28] ADMIN: VirtuoXS has changed VirtuoXS's skin to 257
+[2021-09-12 22:22:30] ADMIN: VirtuoXS has changed VirtuoXS's skin to 259
+[2021-09-12 22:22:32] ADMIN: VirtuoXS has changed VirtuoXS's skin to 260
+[2021-09-12 22:22:35] ADMIN: VirtuoXS has changed VirtuoXS's skin to 264
+[2021-09-12 22:22:35] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-12 22:22:38] ADMIN: VirtuoXS has changed VirtuoXS's skin to 274
+[2021-09-12 22:22:40] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:22:40] INFO: [Cambio de Nick] Info de logeo de x|Willow ha sido actualizada correctamente
+[2021-09-12 22:22:41] ADMIN: VirtuoXS has changed VirtuoXS's skin to 275
+[2021-09-12 22:22:45] ADMIN: VirtuoXS has changed VirtuoXS's skin to 280
+[2021-09-12 22:22:47] ADMIN: VirtuoXS has changed VirtuoXS's skin to 285
+[2021-09-12 22:22:49] ADMIN: VirtuoXS has changed VirtuoXS's skin to 286
+[2021-09-12 22:22:52] ADMIN: Empotravenecos has warped to Empotravenecos
+[2021-09-12 22:22:52] ADMIN: VirtuoXS has changed VirtuoXS's skin to 293
+[2021-09-12 22:22:55] ADMIN: VirtuoXS has changed VirtuoXS's skin to 299
+[2021-09-12 22:22:56] INFO: [Cambio de Nick] Info de logeo de FugoHaze ha sido actualizada correctamente
+[2021-09-12 22:22:56] NICK: chupapene is now known as FugoHaze
+[2021-09-12 22:22:56] ADMIN: FugoHaze name changed to   by FugoHaze.
+[2021-09-12 22:22:57] ADMIN: Empotravenecos has moved Empotravenecos to Empotravenecos
+[2021-09-12 22:22:58] ADMIN: VirtuoXS has changed VirtuoXS's skin to 300
+[2021-09-12 22:23:01] ADMIN: VirtuoXS has changed VirtuoXS's skin to 301
+[2021-09-12 22:23:03] ADMIN: VirtuoXS has changed VirtuoXS's skin to 302
+[2021-09-12 22:23:06] ADMIN: Empotravenecos has moved Empotravenecos to VirtuoXS
+[2021-09-12 22:23:07] ADMIN: VirtuoXS has changed VirtuoXS's skin to 312
+[2021-09-12 22:23:13] ADMIN: VirtuoXS has changed VirtuoXS's skin to 150
+[2021-09-12 22:23:17] ADMIN: VirtuoXS has changed VirtuoXS's skin to 97
+[2021-09-12 22:23:20] ADMIN: VirtuoXS has changed VirtuoXS's skin to 105
+[2021-09-12 22:23:22] ADMIN: VirtuoXS has changed VirtuoXS's skin to 107
+[2021-09-12 22:23:24] ADMIN: VirtuoXS has changed VirtuoXS's skin to 108
+[2021-09-12 22:23:27] ADMIN: VirtuoXS has changed VirtuoXS's skin to 111
+[2021-09-12 22:23:30] ADMIN: VirtuoXS has changed VirtuoXS's skin to 117
+[2021-09-12 22:23:32] ADMIN: VirtuoXS has changed VirtuoXS's skin to 121
+[2021-09-12 22:23:38] ADMIN: VirtuoXS has changed VirtuoXS's skin to 144
+[2021-09-12 22:23:40] ADMIN: VirtuoXS has changed VirtuoXS's skin to 142
+[2021-09-12 22:23:46] ADMIN: VirtuoXS has changed VirtuoXS's skin to 150
+[2021-09-12 22:23:49] ADMIN: VirtuoXS has changed VirtuoXS's skin to 151
+[2021-09-12 22:23:52] ADMIN: VirtuoXS has changed VirtuoXS's skin to 153
+[2021-09-12 22:23:55] ADMIN: VirtuoXS has changed VirtuoXS's skin to 158
+[2021-09-12 22:23:58] ADMIN: VirtuoXS has changed VirtuoXS's skin to 161
+[2021-09-12 22:24:01] ADMIN: VirtuoXS has changed VirtuoXS's skin to 163
+[2021-09-12 22:24:04] ADMIN: VirtuoXS has changed VirtuoXS's skin to 164
+[2021-09-12 22:24:06] ADMIN: VirtuoXS has changed VirtuoXS's skin to 165
+[2021-09-12 22:24:08] ADMIN: VirtuoXS has changed VirtuoXS's skin to 166
+[2021-09-12 22:24:10] ADMIN: VirtuoXS has changed VirtuoXS's skin to 167
+[2021-09-12 22:24:12] ADMIN: VirtuoXS has changed VirtuoXS's skin to 168
+[2021-09-12 22:24:14] ADMIN: VirtuoXS has changed VirtuoXS's skin to 169
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 192.168.1.7 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.82.84.32 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ERROR: [no_ng_tag]\admin\server\admin_server.lua:1435: Admin security - Client/player mismatch from 186.84.22.104 (onElementDataChange superman:flying)
+[2021-09-12 22:24:17] ADMIN: VirtuoXS has changed VirtuoXS's skin to 170
+[2021-09-12 22:24:20] ADMIN: VirtuoXS has changed VirtuoXS's skin to 171
+[2021-09-12 22:24:29] ADMIN: FugoHaze has changed FugoHaze's skin to 311
+[2021-09-12 22:24:38] * Syntax: restart <resource-name>
+[2021-09-12 22:24:42] New resource 'editor_dump' loaded
+[2021-09-12 22:24:42] New resource 'editor_map_backups' loaded
+[2021-09-12 22:24:42] New resource 'editor_test' loaded
+[2021-09-12 22:24:42] Resources: 148 loaded, 0 failed
+[2021-09-12 22:25:01] ADMIN: VirtuoXS has changed VirtuoXS's skin to 171
+[2021-09-12 22:25:04] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'events' in 'field list'
+[2021-09-12 22:25:04] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'duelos' in 'field list'
+[2021-09-12 22:25:09] ADMIN: FugoHaze has moved FugoHaze to ASH
+[2021-09-12 22:25:50] ADMIN: VirtuoXS has given VirtuoXS 'Knife'
+[2021-09-12 22:26:12] ADMIN: Empotravenecos has warped to VirtuoXS
+[2021-09-12 22:26:36] ADMIN: VirtuoXS has given VirtuoXS 'Deagle'
+[2021-09-12 22:26:40] ADMIN: FugoHaze has given FugoHaze 'Minigun'
+[2021-09-12 22:26:40] ADMIN: VirtuoXS has given VirtuoXS 'M4'
+[2021-09-12 22:26:41] ADMIN: VirtuoXS has given VirtuoXS 'M4'
+[2021-09-12 22:26:50] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:52] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:53] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:53] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:53] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:54] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:54] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:26:54] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:27:09] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'events' in 'field list'
+[2021-09-12 22:27:09] WARNING: [needed]\NGSQL\sql.lua:21: dbPoll failed; Unknown column 'duelos' in 'field list'
+[2021-09-12 22:27:23] ADMIN: Empotravenecos has moved VirtuoXS to FugoHaze
+[2021-09-12 22:27:43] INFO: [Cambio de Nick] Info de logeo de megustaelP3N3 ha sido actualizada correctamente
+[2021-09-12 22:27:43] NICK: VirtuoXS is now known as megustaelP3N3
+[2021-09-12 22:27:43] ADMIN: megustaelP3N3 name changed to  .
+[2021-09-12 22:27:52] INFO: [Cambio de Nick] Info de logeo de VirtuoXS ha sido actualizada correctamente
+[2021-09-12 22:27:57] ADMIN: Empotravenecos has changed megustaelP3N3's armour to 100
+[2021-09-12 22:28:03] INFO: [Cambio de Nick] Info de logeo de NombresRaros ha sido actualizada correctamente
+[2021-09-12 22:28:03] NICK: ASH is now known as NombresRaros
+[2021-09-12 22:28:03] ADMIN: NombresRaros name changed to   by FugoHaze.
+[2021-09-12 22:28:09] ADMIN: Empotravenecos has changed megustaelP3N3's armour to 100
+[2021-09-12 22:28:12] ADMIN: Empotravenecos name changed to   by megustaelP3N3.
+[2021-09-12 22:28:18] INFO: MATEMÁTICAS: Pregunta 89 - 30 + 2929 ha sido generada con una respueta de 2988
+[2021-09-12 22:28:23] INFO: [Cambio de Nick] Info de logeo de SraSeLasTraga ha sido actualizada correctamente
+[2021-09-12 22:28:23] NICK: Empotravenecos is now known as SraSeLasTraga
+[2021-09-12 22:28:23] ADMIN: SraSeLasTraga name changed to   by megustaelP3N3.
+[2021-09-12 22:28:26] ADMIN: SraSeLasTraga has changed megustaelP3N3's armour to 100
+[2021-09-12 22:28:27] New resource 'edf' loaded
+[2021-09-12 22:28:27] New resource 'editor' loaded
+[2021-09-12 22:28:30] New resource 'editor_gui' loaded
+[2021-09-12 22:28:31] New resource 'editor_main' loaded
+[2021-09-12 22:28:31] New resource 'move_cursor' loaded
+[2021-09-12 22:28:31] New resource 'move_freecam' loaded
+[2021-09-12 22:28:31] New resource 'move_keyboard' loaded
+[2021-09-12 22:28:31] New resource 'msgbox' loaded
+[2021-09-12 22:28:31] New resource 'tooltip' loaded
+[2021-09-12 22:28:31] ERROR: Problem with resource: editor; Failed to link to mapmanager
+[2021-09-12 22:28:31] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\freecam"
+                  Path #2: "resources\[needed]\freecam"
+[2021-09-12 22:28:31] Resources: 156 loaded, 1 failed
+[2021-09-12 22:28:40] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:40] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:40] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:40] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:41] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:41] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:41] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:41] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:41] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:42] INFO: [Cambio de Nick] Info de logeo de VirtuoXS ha sido actualizada correctamente
+[2021-09-12 22:28:43] ADMIN: SraSeLasTraga has given megustaelP3N3 'Minigun'
+[2021-09-12 22:28:50] ERROR: Problem with resource: editor; Failed to link to mapmanager
+[2021-09-12 22:28:51] ADMIN: SraSeLasTraga has removed megustaelP3N3 from the Staff team
+[2021-09-12 22:28:52] ADMIN: SraSeLasTraga has moved megustaelP3N3 to the Criminals team
+[2021-09-12 22:29:01] startResource: Failed to start resource 'editor'
+[2021-09-12 22:29:06] startResource: Failed to start resource 'editor'
+[2021-09-12 22:29:09] INFO: [Cambio de Nick] Info de logeo de VirtuoXS ha sido actualizada correctamente
+[2021-09-12 22:29:09] NICK: megustaelP3N3 is now known as VirtuoXS
+[2021-09-12 22:29:11] startResource: Failed to start resource 'editor'
+[2021-09-12 22:29:15] start: Requested by NombresRaros(AshTheLynx2)
+[2021-09-12 22:29:18] ADMIN: SraSeLasTraga has changed SraSeLasTraga's armour to 100
+[2021-09-12 22:29:24] ADMIN: SraSeLasTraga has warped to SraSeLasTraga
+[2021-09-12 22:29:29] ADMIN: VirtuoXS has changed NombresRaros's skin to 171
+[2021-09-12 22:29:36] ADMIN: SraSeLasTraga has warped to VirtuoXS
+[2021-09-12 22:29:38] ADMIN: VirtuoXS has changed NombresRaros's skin to 169
+[2021-09-12 22:29:54] ADMIN: VirtuoXS has changed VirtuoXS's skin to 171
+[2021-09-12 22:30:03] INFO: Checking for Mod Downloader updates 
+[2021-09-12 22:30:05] INFO: ====================================
+[2021-09-12 22:30:05] INFO: = ModDownloader version doesn't match community
+[2021-09-12 22:30:05] INFO: ====================================
+[2021-09-12 22:30:05] INFO: = Your version: 1.2.1
+[2021-09-12 22:30:05] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-12 22:30:21] New resource 'as-area51' loaded
+[2021-09-12 22:30:21] New resource 'as-cliff' loaded
+[2021-09-12 22:30:21] New resource 'as-dam' loaded
+[2021-09-12 22:30:21] New resource 'as-docks' loaded
+[2021-09-12 22:30:21] New resource 'as-heist' loaded
+[2021-09-12 22:30:21] New resource 'as-sharks' loaded
+[2021-09-12 22:30:21] New resource 'as-ship' loaded
+[2021-09-12 22:30:21] New resource 'as-supermarket' loaded
+[2021-09-12 22:30:21] New resource 'assault' loaded
+[2021-09-12 22:30:21] New resource 'br-sf' loaded
+[2021-09-12 22:30:21] New resource 'br-sf-autoteams' loaded
+[2021-09-12 22:30:21] New resource 'br-sf-teams' loaded
+[2021-09-12 22:30:21] New resource 'briefcase' loaded
+[2021-09-12 22:30:22] New resource 'briefcaserace' loaded
+[2021-09-12 22:30:22] New resource 'ctf' loaded
+[2021-09-12 22:30:22] New resource 'ctf-bombsite' loaded
+[2021-09-12 22:30:22] New resource 'ctf-canals' loaded
+[2021-09-12 22:30:22] New resource 'ctf-csitaly' loaded
+[2021-09-12 22:30:22] New resource 'ctf-goldcove' loaded
+[2021-09-12 22:30:22] New resource 'ctf-hideout_z' loaded
+[2021-09-12 22:30:22] New resource 'ctf-hydrastrike' loaded
+[2021-09-12 22:30:22] New resource 'ctf-sewer' loaded
+[2021-09-12 22:30:22] New resource 'ctf-tbd' loaded
+[2021-09-12 22:30:22] New resource 'ctv' loaded
+[2021-09-12 22:30:22] New resource 'ctv-ls' loaded
+[2021-09-12 22:30:22] New resource 'ctv-smalltownrumble' loaded
+[2021-09-12 22:30:22] New resource 'deathmatch' loaded
+[2021-09-12 22:30:22] New resource 'deathmessages' loaded
+[2021-09-12 22:30:22] New resource 'deathpickups' loaded
+[2021-09-12 22:30:22] New resource 'defaultstats' loaded
+[2021-09-12 22:30:22] New resource 'dm-arena1' loaded
+[2021-09-12 22:30:22] New resource 'dm-canals' loaded
+[2021-09-12 22:30:22] New resource 'dm-port69' loaded
+[2021-09-12 22:30:22] New resource 'dm-smallville' loaded
+[2021-09-12 22:30:22] New resource 'easytext' loaded
+[2021-09-12 22:30:22] New resource 'fallout' loaded
+[2021-09-12 22:30:22] New resource 'fastrope' loaded
+[2021-09-12 22:30:23] New resource 'freeroam' loaded
+[2021-09-12 22:30:23] New resource 'gps' loaded
+[2021-09-12 22:30:23] New resource 'hay' loaded
+[2021-09-12 22:30:23] New resource 'headshot' loaded
+[2021-09-12 22:30:23] New resource 'helpmanager' loaded
+[2021-09-12 22:30:23] New resource 'interiors' loaded
+[2021-09-12 22:30:23] New resource 'joinquit' loaded
+[2021-09-12 22:30:23] New resource 'mapcycler' loaded
+[2021-09-12 22:30:23] New resource 'maplimits' loaded
+[2021-09-12 22:30:23] New resource 'mapmanager' loaded
+[2021-09-12 22:30:23] New resource 'mapratings' loaded
+[2021-09-12 22:30:23] New resource 'missiontimer' loaded
+[2021-09-12 22:30:23] New resource 'pickuphandler' loaded
+[2021-09-12 22:30:23] New resource 'play' loaded
+[2021-09-12 22:30:23] New resource 'playerblips' loaded
+[2021-09-12 22:30:23] New resource 'playercolors' loaded
+[2021-09-12 22:30:23] New resource 'race' loaded
+[2021-09-12 22:30:23] New resource 'race-10laphotring' loaded
+[2021-09-12 22:30:23] New resource 'race-3lapdirtring' loaded
+[2021-09-12 22:30:23] New resource 'race-5lap8track' loaded
+[2021-09-12 22:30:24] New resource 'race-airportdogfight' loaded
+[2021-09-12 22:30:24] New resource 'race-airportspeedway' loaded
+[2021-09-12 22:30:24] New resource 'race-apacheassault' loaded
+[2021-09-12 22:30:24] New resource 'race-awalkinthepark' loaded
+[2021-09-12 22:30:24] New resource 'race-badlandsblastaround' loaded
+[2021-09-12 22:30:24] New resource 'race-bandito' loaded
+[2021-09-12 22:30:24] New resource 'race-bayareacircuit' loaded
+[2021-09-12 22:30:24] New resource 'race-bloodring' loaded
+[2021-09-12 22:30:24] New resource 'race-blowthedam' loaded
+[2021-09-12 22:30:24] New resource 'race-boatingblastaround' loaded
+[2021-09-12 22:30:24] New resource 'race-bobcatblastaround' loaded
+[2021-09-12 22:30:24] New resource 'race-break' loaded
+[2021-09-12 22:30:24] New resource 'race-chiliadclimb' loaded
+[2021-09-12 22:30:24] New resource 'race-chrmleasy' loaded
+[2021-09-12 22:30:24] New resource 'race-chrmlhard' loaded
+[2021-09-12 22:30:24] New resource 'race-degenerationofx' loaded
+[2021-09-12 22:30:24] New resource 'race-desertdogfight' loaded
+[2021-09-12 22:30:24] New resource 'race-destructionderby' loaded
+[2021-09-12 22:30:24] New resource 'race-dockbikes' loaded
+[2021-09-12 22:30:24] New resource 'race-docksideblastaround' loaded
+[2021-09-12 22:30:24] New resource 'race-drift' loaded
+[2021-09-12 22:30:24] New resource 'race-driftcity' loaded
+[2021-09-12 22:30:24] New resource 'race-dunebuggy' loaded
+[2021-09-12 22:30:24] New resource 'race-errand' loaded
+[2021-09-12 22:30:24] New resource 'race-farewellmylove' loaded
+[2021-09-12 22:30:24] New resource 'race-farm2city' loaded
+[2021-09-12 22:30:24] New resource 'race-findthecock' loaded
+[2021-09-12 22:30:24] New resource 'race-freeroam' loaded
+[2021-09-12 22:30:24] New resource 'race-highnoon' loaded
+[2021-09-12 22:30:24] New resource 'race-homeinthehills' loaded
+[2021-09-12 22:30:24] New resource 'race-hotroute' loaded
+[2021-09-12 22:30:24] New resource 'race-hydrarace' loaded
+[2021-09-12 22:30:24] New resource 'race-island' loaded
+[2021-09-12 22:30:24] New resource 'race-justanotherbikerace' loaded
+[2021-09-12 22:30:24] New resource 'race-longwayround' loaded
+[2021-09-12 22:30:24] New resource 'race-lsairport' loaded
+[2021-09-12 22:30:24] New resource 'race-lstrenches' loaded
+[2021-09-12 22:30:25] New resource 'race-lvsprint' loaded
+[2021-09-12 22:30:25] New resource 'race-midairmayhem' loaded
+[2021-09-12 22:30:25] New resource 'race-miniputt' loaded
+[2021-09-12 22:30:25] New resource 'race-monsterblastaround' loaded
+[2021-09-12 22:30:25] New resource 'race-mx_sky' loaded
+[2021-09-12 22:30:25] New resource 'race-offroadblastaround' loaded
+[2021-09-12 22:30:25] New resource 'race-predatorzone' loaded
+[2021-09-12 22:30:25] New resource 'race-quarryrun' loaded
+[2021-09-12 22:30:25] New resource 'race-rcairwar' loaded
+[2021-09-12 22:30:25] New resource 'race-rcwarz' loaded
+[2021-09-12 22:30:25] New resource 'race-runway69' loaded
+[2021-09-12 22:30:25] New resource 'race-rustlerrampage' loaded
+[2021-09-12 22:30:25] New resource 'race-sandking' loaded
+[2021-09-12 22:30:25] New resource 'race-santosdrive' loaded
+[2021-09-12 22:30:25] New resource 'race-seadragon' loaded
+[2021-09-12 22:30:25] New resource 'race-seahunter' loaded
+[2021-09-12 22:30:25] New resource 'race-searustler' loaded
+[2021-09-12 22:30:25] New resource 'race-sewers' loaded
+[2021-09-12 22:30:25] New resource 'race-sfbynight' loaded
+[2021-09-12 22:30:25] New resource 'race-smugglersrun' loaded
+[2021-09-12 22:30:25] New resource 'race-sparrowstorm' loaded
+[2021-09-12 22:30:25] New resource 'race-specialdelivery' loaded
+[2021-09-12 22:30:25] New resource 'race-speedforweed' loaded
+[2021-09-12 22:30:25] New resource 'race-squalorace' loaded
+[2021-09-12 22:30:25] New resource 'race-stunt' loaded
+[2021-09-12 22:30:25] New resource 'race-suburbanspeedway' loaded
+[2021-09-12 22:30:25] New resource 'race-superhydrarace' loaded
+[2021-09-12 22:30:25] New resource 'race-technicalitch' loaded
+[2021-09-12 22:30:25] New resource 'race-thepanopticon' loaded
+[2021-09-12 22:30:25] New resource 'race-vinewoodblastaround' loaded
+[2021-09-12 22:30:25] New resource 'race-wuzimu' loaded
+[2021-09-12 22:30:25] New resource 'race_carfade' loaded
+[2021-09-12 22:30:25] New resource 'race_delay_indicator' loaded
+[2021-09-12 22:30:26] New resource 'race_ghost' loaded
+[2021-09-12 22:30:26] New resource 'race_nos' loaded
+[2021-09-12 22:30:26] New resource 'race_racewar' loaded
+[2021-09-12 22:30:26] New resource 'race_toptimes' loaded
+[2021-09-12 22:30:26] New resource 'race_traffic_sensor' loaded
+[2021-09-12 22:30:26] New resource 'race_voicepack' loaded
+[2021-09-12 22:30:26] New resource 'scores' loaded
+[2021-09-12 22:30:26] New resource 'sfxbrowser' loaded
+[2021-09-12 22:30:26] New resource 'sirenEdit' loaded
+[2021-09-12 22:30:26] New resource 'spawnmanager' loaded
+[2021-09-12 22:30:26] New resource 'speedometer' loaded
+[2021-09-12 22:30:26] New resource 'stealth' loaded
+[2021-09-12 22:30:26] New resource 'sth-carrier' loaded
+[2021-09-12 22:30:26] New resource 'sth-chinatown' loaded
+[2021-09-12 22:30:26] New resource 'sth-church' loaded
+[2021-09-12 22:30:26] New resource 'sth-coookiepirates' loaded
+[2021-09-12 22:30:26] New resource 'sth-dra-park' loaded
+[2021-09-12 22:30:27] New resource 'sth-factory' loaded
+[2021-09-12 22:30:27] New resource 'sth-junkyard' loaded
+[2021-09-12 22:30:27] New resource 'sth-ritzy' loaded
+[2021-09-12 22:30:27] New resource 'sth-sewers' loaded
+[2021-09-12 22:30:27] New resource 'sth-shopping' loaded
+[2021-09-12 22:30:27] New resource 'sth-terminal' loaded
+[2021-09-12 22:30:27] New resource 'sth-thebunker' loaded
+[2021-09-12 22:30:27] New resource 'tdm' loaded
+[2021-09-12 22:30:27] New resource 'tdma' loaded
+[2021-09-12 22:30:27] New resource 'tdma-damwars' loaded
+[2021-09-12 22:30:27] New resource 'tdma-gridlock' loaded
+[2021-09-12 22:30:27] New resource 'tdma-medieval' loaded
+[2021-09-12 22:30:27] New resource 'tdma-nomansland' loaded
+[2021-09-12 22:30:27] New resource 'tdma-tbd' loaded
+[2021-09-12 22:30:27] New resource 'tdma-vinewood' loaded
+[2021-09-12 22:30:27] New resource 'teammanager' loaded
+[2021-09-12 22:30:27] New resource 'trainhorn' loaded
+[2021-09-12 22:30:27] New resource 'visualiser' loaded
+[2021-09-12 22:30:27] New resource 'voice' loaded
+[2021-09-12 22:30:27] New resource 'votemanager' loaded
+[2021-09-12 22:30:27] New resource 'webbrowser' loaded
+[2021-09-12 22:30:27] ERROR: Not processing resource 'acpanel' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\acpanel"
+                  Path #2: "resources\[editor]\[admin]\acpanel"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'admin' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\admin"
+                  Path #2: "resources\[no_ng_tag]\admin"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'admin2' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\admin2"
+                  Path #2: "resources\[editor]\[admin]\admin2"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'ajax' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\ajax"
+                  Path #2: "resources\[editor]\[web]\ajax"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'edf' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\edf"
+                  Path #2: "resources\[editor]\[editor]\edf"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'editor' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor"
+                  Path #2: "resources\[editor]\[editor]\editor"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'editor_gui' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor_gui"
+                  Path #2: "resources\[editor]\[editor]\editor_gui"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'editor_main' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor_main"
+                  Path #2: "resources\[editor]\[editor]\editor_main"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'elementbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\elementbrowser"
+                  Path #2: "resources\[editor]\[web]\elementbrowser"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\freecam"
+                  Path #2: "resources\[needed]\freecam"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'hedit' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\hedit"
+                  Path #2: "resources\[needed]\hedit"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[no_ng_tag]\ipb"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'killmessages' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\killmessages"
+                  Path #2: "resources\[no_ng_tag]\killmessages"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'move_cursor' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_cursor"
+                  Path #2: "resources\[editor]\[editor]\move_cursor"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'move_freecam' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_freecam"
+                  Path #2: "resources\[editor]\[editor]\move_freecam"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'move_keyboard' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_keyboard"
+                  Path #2: "resources\[editor]\[editor]\move_keyboard"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'msgbox' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\msgbox"
+                  Path #2: "resources\[editor]\[editor]\msgbox"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\parachute"
+                  Path #2: "resources\[no_ng_tag]\parachute"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'performancebrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\performancebrowser"
+                  Path #2: "resources\[editor]\[web]\performancebrowser"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'realdriveby' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\realdriveby"
+                  Path #2: "resources\[no_ng_tag]\realdriveby"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'reload' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\reload"
+                  Path #2: "resources\[no_ng_tag]\reload"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'resourcebrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\resourcebrowser"
+                  Path #2: "resources\[editor]\[web]\resourcebrowser"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'resourcemanager' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\resourcemanager"
+                  Path #2: "resources\[editor]\[web]\resourcemanager"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[no_ng_tag]\runcode"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\scoreboard"
+                  Path #2: "resources\[no_ng_tag]\scoreboard"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'tooltip' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\tooltip"
+                  Path #2: "resources\[editor]\[editor]\tooltip"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'webadmin' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webadmin"
+                  Path #2: "resources\[editor]\[web]\webadmin"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'webmap' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webmap"
+                  Path #2: "resources\[editor]\[web]\webmap"
+[2021-09-12 22:30:27] ERROR: Not processing resource 'webstats' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webstats"
+                  Path #2: "resources\[editor]\[web]\webstats"
+[2021-09-12 22:30:27] Resources: 322 loaded, 0 failed
+[2021-09-12 22:30:36] Starting editor
+[2021-09-12 22:30:36] Starting mapmanager
+[2021-09-12 22:30:36] mapmanager: Running map "5TougeGokart" found
+[2021-09-12 22:30:36] mapmanager: Stopping running map "11TougeProjectTouge"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "12Ebisu_West"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "17UltraNitroTrack"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "Base-EVG"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "BaseGangCDG"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "CVR-main"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "LobbyMoraHpta"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "MAPEOBULLETGOLD2"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "base-ELN"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "baseaucc"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "drag-race-track-iii"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "map-Transfagarasan"
+[2021-09-12 22:30:36] mapmanager: Stopping running map "xd"
+[2021-09-12 22:30:36] mapmanager: Running map has no compatible gamemodes
+[2021-09-12 22:30:36] Starting edf
+[2021-09-12 22:30:36] Starting editor_main
+[2021-09-12 22:30:37] Starting move_freecam
+[2021-09-12 22:30:37] Starting move_cursor
+[2021-09-12 22:30:37] Starting move_keyboard
+[2021-09-12 22:30:42] WARNING: Long execution (editor_main)
+[2021-09-12 22:30:47] WARNING: Long execution (editor_main)
+[2021-09-12 22:30:51] WARNING: Long execution (editor_main)
+[2021-09-12 22:30:53] Starting editor_gui
+[2021-09-12 22:30:53] Starting msgbox
+[2021-09-12 22:30:53] Starting tooltip
+[2021-09-12 22:30:53] startResource: Resource 'editor' started
+[2021-09-12 22:30:53] ADMIN: Resource 'editor' started by NombresRaros(AshTheLynx2)
+[2021-09-12 22:30:53] Stopping 11TougeProjectTouge
+[2021-09-12 22:30:53] Stopping 12Ebisu_West
+[2021-09-12 22:30:53] Stopping 17UltraNitroTrack
+[2021-09-12 22:30:54] Stopping Base-EVG
+[2021-09-12 22:30:54] Stopping BaseGangCDG
+[2021-09-12 22:30:54] Stopping CVR-main
+[2021-09-12 22:30:54] Stopping LobbyMoraHpta
+[2021-09-12 22:30:54] Stopping MAPEOBULLETGOLD2
+[2021-09-12 22:30:54] Stopping base-ELN
+[2021-09-12 22:30:54] Stopping baseaucc
+[2021-09-12 22:30:54] Stopping drag-race-track-iii
+[2021-09-12 22:30:54] Stopping map-Transfagarasan
+[2021-09-12 22:30:54] Stopping xd
+[2021-09-12 22:30:54] Stopping 5TougeGokart
+[2021-09-12 22:30:54] ERROR: Not processing resource 'acpanel' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\acpanel"
+                  Path #2: "resources\[editor]\[admin]\acpanel"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'admin' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\admin"
+                  Path #2: "resources\[no_ng_tag]\admin"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'admin2' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\admin2"
+                  Path #2: "resources\[editor]\[admin]\admin2"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'ajax' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\ajax"
+                  Path #2: "resources\[editor]\[web]\ajax"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'edf' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\edf"
+                  Path #2: "resources\[editor]\[editor]\edf"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'editor' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor"
+                  Path #2: "resources\[editor]\[editor]\editor"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'editor_gui' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor_gui"
+                  Path #2: "resources\[editor]\[editor]\editor_gui"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'editor_main' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\editor_main"
+                  Path #2: "resources\[editor]\[editor]\editor_main"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'elementbrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\elementbrowser"
+                  Path #2: "resources\[editor]\[web]\elementbrowser"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'freecam' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\freecam"
+                  Path #2: "resources\[needed]\freecam"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'hedit' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\hedit"
+                  Path #2: "resources\[needed]\hedit"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'ipb' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\ipb"
+                  Path #2: "resources\[no_ng_tag]\ipb"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'killmessages' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\killmessages"
+                  Path #2: "resources\[no_ng_tag]\killmessages"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'move_cursor' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_cursor"
+                  Path #2: "resources\[editor]\[editor]\move_cursor"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'move_freecam' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_freecam"
+                  Path #2: "resources\[editor]\[editor]\move_freecam"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'move_keyboard' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\move_keyboard"
+                  Path #2: "resources\[editor]\[editor]\move_keyboard"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'msgbox' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\msgbox"
+                  Path #2: "resources\[editor]\[editor]\msgbox"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'parachute' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\parachute"
+                  Path #2: "resources\[no_ng_tag]\parachute"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'performancebrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\performancebrowser"
+                  Path #2: "resources\[editor]\[web]\performancebrowser"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'realdriveby' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\realdriveby"
+                  Path #2: "resources\[no_ng_tag]\realdriveby"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'reload' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\reload"
+                  Path #2: "resources\[no_ng_tag]\reload"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'resourcebrowser' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\resourcebrowser"
+                  Path #2: "resources\[editor]\[web]\resourcebrowser"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'resourcemanager' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\resourcemanager"
+                  Path #2: "resources\[editor]\[web]\resourcemanager"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'runcode' as it has duplicates on different paths:
+                  Path #1: "resources\[admin]\runcode"
+                  Path #2: "resources\[no_ng_tag]\runcode"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'scoreboard' as it has duplicates on different paths:
+                  Path #1: "resources\[gameplay]\scoreboard"
+                  Path #2: "resources\[no_ng_tag]\scoreboard"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'tooltip' as it has duplicates on different paths:
+                  Path #1: "resources\[editor]\tooltip"
+                  Path #2: "resources\[editor]\[editor]\tooltip"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'webadmin' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webadmin"
+                  Path #2: "resources\[editor]\[web]\webadmin"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'webmap' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webmap"
+                  Path #2: "resources\[editor]\[web]\webmap"
+[2021-09-12 22:30:54] ERROR: Not processing resource 'webstats' as it has duplicates on different paths:
+                  Path #1: "resources\[web]\webstats"
+                  Path #2: "resources\[editor]\[web]\webstats"
+[2021-09-12 22:30:55] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:30:55] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:30:55] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:30:55] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:30:55] ADMIN: VirtuoXS has given VirtuoXS 'Uzi'
+[2021-09-12 22:30:55] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:31:04] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:31:18] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:31:34] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:31:40] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:31:41] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:31:41] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:31:41] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:31:41] Starting sas_custom
+[2021-09-12 22:31:41] startResource: Resource 'sas_custom' started
+[2021-09-12 22:31:41] ADMIN: Resource 'sas_custom' started by NombresRaros(AshTheLynx2)
+[2021-09-12 22:31:43] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:32:04] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:32:10] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:32:18] ADMIN: SraSeLasTraga has given VirtuoXS a 'Virgo'" 
+[2021-09-12 22:32:22] ADMIN: SraSeLasTraga has moved VirtuoXS to FugoHaze
+[2021-09-12 22:32:26] ADMIN: SraSeLasTraga has warped to VirtuoXS
+[2021-09-12 22:32:27] INFO: [Cambio de Nick] Info de logeo de AtrangataPenes ha sido actualizada correctamente
+[2021-09-12 22:32:27] NICK: NombresRaros is now known as AtrangataPenes
+[2021-09-12 22:32:27] ADMIN: AtrangataPenes name changed to   by FugoHaze.
+[2021-09-12 22:32:28] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:32:29] WARNING: [needed]\NGJobs\core_server.lua:694: Bad argument @ 'getPlayersInTeam' [Expected team at argument 1, got boolean]
+[2021-09-12 22:32:29] ERROR: [needed]\NGJobs\core_server.lua:694: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:32:33] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:32:34] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:32:59] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:33:04] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:33:06] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:07] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:08] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:09] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:09] ADMIN: SraSeLasTraga has given SraSeLasTraga a 'Virgo'" 
+[2021-09-12 22:33:13] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:33:24] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:33:35] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:33:49] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00003094
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00003095
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00003097
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00003098
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:687: Using getElementPosition as bad element data for userdata: 00003099
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\dumpxml.lua:172: Operation failed @ 'fileCopy' [Source file doesn't exist (server/mapEditorScriptingExtension_s.lua)]
+[2021-09-12 22:33:56] WARNING: [editor]\editor_main\server\dumpxml.lua:188: Operation failed @ 'fileCopy' [Source file doesn't exist (client/mapEditorScriptingExtension_c.lua)]
+[2021-09-12 22:33:57] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:34:05] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:34:11] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:34:14] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:34:22] QUIT: SraSeLasTraga left the game [Quit]
+[2021-09-12 22:34:22] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:34:22] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:34:22] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:34:35] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:34:39] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:34:53] ADMIN: Resource 'sas_custom' restarted by AtrangataPenes(AshTheLynx2)
+[2021-09-12 22:34:53] Stopping sas_custom
+[2021-09-12 22:34:56] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:34:57] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:34:57] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:34:57] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:34:57] Starting sas_custom
+[2021-09-12 22:34:58] sas_custom restarted successfully
+[2021-09-12 22:34:58] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:35:04] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:35:05] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:35:14] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:35:30] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:35:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:35:46] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:35:53] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:35:55] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:35:56] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:35:58] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:36:05] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:36:20] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:36:26] ADMIN: Resource 'sas_custom' restarted by AtrangataPenes(AshTheLynx2)
+[2021-09-12 22:36:26] Stopping sas_custom
+[2021-09-12 22:36:28] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:36:28] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:36:28] Starting sas_custom
+[2021-09-12 22:36:29] sas_custom restarted successfully
+[2021-09-12 22:36:35] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:36:39] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:36:45] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:36:58] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:37:01] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:37:01] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:37:05] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:37:10] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:37:35] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:37:35] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:37:43] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:37:58] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:38:04] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:38:05] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:38:19] WARNING: [needed]\NGJobs\core_server.lua:694: Bad argument @ 'getPlayersInTeam' [Expected team at argument 1, got boolean]
+[2021-09-12 22:38:19] ERROR: [needed]\NGJobs\core_server.lua:694: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:38:20] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:38:26] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:38:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:38:51] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:38:59] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:39:06] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:39:16] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:39:30] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:39:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:39:41] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:39:52] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:39:58] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:39:59] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:40:06] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:40:06] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:40:26] QUIT: AtrangataPenes left the game [Quit]
+[2021-09-12 22:40:26] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:40:26] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:40:26] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:40:31] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:40:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:40:49] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:40:50] ADMIN: FugoHaze has set FugoHaze's money to 875421345
+[2021-09-12 22:40:56] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:40:59] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:41:03] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:41:06] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:41:21] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:41:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:41:46] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:41:56] CONNECT: ASH connected (IP: 192.168.1.7  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:41:57] JOIN: ASH joined the game (IP: 192.168.1.7)
+[2021-09-12 22:41:59] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:42:06] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:42:12] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:42:33] INFO: modloader server: Player ASH requested replacing
+[2021-09-12 22:42:36] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:42:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:42:51] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-12 22:42:51] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-12 22:42:51] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-12 22:42:52] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.7  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-12 22:42:59] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:43:01] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:43:06] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:43:18] INFO: MATEMÁTICAS: Pregunta 79 - 40 + 1248 ha sido generada con una respueta de 1287
+[2021-09-12 22:43:26] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:43:28] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:43:36] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:43:41] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:43:41] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:43:51] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:43:57] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:44:00] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:44:07] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:44:09] WARNING: [needed]\NGJobs\core_server.lua:694: Bad argument @ 'getPlayersInTeam' [Expected team at argument 1, got boolean]
+[2021-09-12 22:44:09] ERROR: [needed]\NGJobs\core_server.lua:694: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-12 22:44:16] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:44:17] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:44:17] Stopping sas_custom
+[2021-09-12 22:44:19] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:44:20] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:44:20] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:44:20] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:44:20] Starting sas_custom
+[2021-09-12 22:44:21] sas_custom restarted successfully
+[2021-09-12 22:44:37] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:44:40] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:44:40] Stopping sas_custom
+[2021-09-12 22:44:41] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:44:41] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:44:41] Starting sas_custom
+[2021-09-12 22:44:42] sas_custom restarted successfully
+[2021-09-12 22:44:42] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:45:00] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:45:01] CONNECT: Felipe's connected (IP: 186.118.225.57  Serial: D29E70E51B6256952876CD235059E3E3  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:45:07] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:45:08] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:45:08] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:45:14] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:45:18] ADMIN: Resource 'sas_custom' restarted by ASH(AshTheLynx2)
+[2021-09-12 22:45:18] Stopping sas_custom
+[2021-09-12 22:45:20] Resource 'sas_custom' changed, reloading and starting
+[2021-09-12 22:45:21] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:45:21] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-12 22:45:21] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-12 22:45:21] Starting sas_custom
+[2021-09-12 22:45:22] sas_custom restarted successfully
+[2021-09-12 22:45:33] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:45:37] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:45:58] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:46:00] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:46:07] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:46:23] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:46:25] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-12 22:46:31] INFO: Felipe's (186.118.225.57) timed out during connect
+[2021-09-12 22:46:38] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:46:43] INFO: Checking for Mod Downloader updates 
+[2021-09-12 22:46:45] INFO: ====================================
+[2021-09-12 22:46:45] INFO: = ModDownloader version doesn't match community
+[2021-09-12 22:46:45] INFO: ====================================
+[2021-09-12 22:46:45] INFO: = Your version: 1.2.1
+[2021-09-12 22:46:45] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-12 22:46:48] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:46:52] QUIT: ASH left the game [Quit]
+[2021-09-12 22:46:52] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:46:52] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:46:52] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:46:58] QUIT: VirtuoXS left the game [Quit]
+[2021-09-12 22:46:58] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:46:58] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:46:58] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:47:00] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:47:03] CONNECT: ASH connected (IP: 192.168.1.7  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:47:03] JOIN: ASH joined the game (IP: 192.168.1.7)
+[2021-09-12 22:47:08] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:47:13] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:47:16] CONNECT: VirtuoXS connected (IP: 186.82.84.32  Serial: 4918ED35CA37A5EF2240EEED89C08534  Version: 1.5.8-9.20927.0)
+[2021-09-12 22:47:16] JOIN: VirtuoXS joined the game (IP: 186.82.84.32)
+[2021-09-12 22:47:28] INFO: modloader server: Player ASH requested replacing
+[2021-09-12 22:47:38] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:47:38] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:47:44] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-12 22:47:44] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-12 22:47:44] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-12 22:47:45] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.7  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-12 22:47:52] QUIT: FugoHaze left the game [Timed out]
+[2021-09-12 22:47:52] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:47:52] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:47:52] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:48:00] WARNING: [editor]\editor_main\server\saveloadtest_server.lua:526: Bad argument @ 'triggerClientEvent' [Expected string at argument 1, got nil]
+[2021-09-12 22:48:03] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:48:08] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:48:28] ERROR: [needed]\NGVehicles\fuel\timer.lua:42: attempt to compare number with string
+[2021-09-12 22:48:38] WARNING: [needed]\NGInventory\inven-server.lua:237: Bad argument @ 'isPedDead' [Expected ped at argument 1]
+[2021-09-12 22:48:50] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:48:50] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:48:50] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:48:50] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]
+[2021-09-12 22:48:50] WARNING: [needed]\NGJobs\community\bus\s_bus_job.lua:21: Bad argument @ 'setBlipColor' [Expected element at argument 1]  [DUP x100]
+[2021-09-12 22:48:50] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-12 22:48:50] Server stopped!
+[2021-09-12 22:48:50] Stopping resources...............................................................
+[2021-09-12 22:48:55] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-12 22:48:56] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]  [DUP x19]
+[2021-09-12 22:48:56] Closing SQLite3 database

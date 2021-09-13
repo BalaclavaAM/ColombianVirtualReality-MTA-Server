@@ -1433,8 +1433,6 @@ local modTable = {
 	{"mods/cross4", menuPoints[1]["products"][36][3],"mods/cross"},
 	--gorras
 	
-	{"mods/armor", 8368},
-	{"mods/armor5", 8369, "mods/armor"},
 
 	--maletas4
 	{"mods/BackPack1", menuPoints[4]["products"][1][3]},
@@ -1445,14 +1443,7 @@ local modTable = {
 	{"mods/BackPack6", menuPoints[4]["products"][6][3]},
 	--maletas4
 
-	{"mods/greencamobikerhelmet"},
 
-	{"mods/CapTrucker"},
-	
-	
-
-	{"mods/duffelbag"},
-	{"mods/duffelbag2"},
 	--gafas2
 	{"mods/MatGlasses", menuPoints[2]["products"][1][3], "mods/GlassesType1"},
 	{"mods/MatGlasses", menuPoints[2]["products"][2][3], "mods/GlassesType2"},
@@ -1480,14 +1471,7 @@ local modTable = {
 
 	
 
-	
-	{"mods/HikerBackpack1"},
-	--{"mods/hut", 7518,"mods/hut"},
-	--{"mods/hut2", 7519,"mods/hut"},
-	--{"mods/hut3", 7520,"mods/hut"},
-	{"mods/JESSE_Szakall"},
-	{"mods/JESSE_Triko"},
-	{"mods/JESSE_Triko2"},
+
 	--mascaras5
 	{"mods/MatClothes",  menuPoints[5]["products"][1][3],"mods/Mask1"},
 	{"mods/MatClothes", menuPoints[5]["products"][2][3],"mods/Mask2"},
@@ -1514,17 +1498,7 @@ local modTable = {
 	{"mods/NeckLace9", menuPoints[6]["products"][9][3],"mods/NeckLace"},
 	--Collares6
 	
-	{"mods/Nyaklanc_3"},
-	{"mods/oldaltaska"},
-	{"mods/polgi"},
-	{"mods/Sapka_7"},
-	{"mods/SchoolPack"},
-	{"mods/SchoolPack1"},
-	{"mods/SchoolPack2"},
-	{"mods/SchoolPack3"},
-	
-	{"mods/SWATHelmet1"},
-	{"mods/TheParrot1"},
+
 	--otros7
 	{"mods/trafficvest",  menuPoints[7]["products"][1][3], "mods/trafficvest"},
 	{"mods/trafficvest2", menuPoints[7]["products"][2][3], "mods/trafficvest"},
@@ -1564,10 +1538,7 @@ local modTable = {
 	{"mods/MatWatches", menuPoints[3]["products"][14][3],"mods/WatchType14"},
 	{"mods/MatWatches", menuPoints[3]["products"][15][3],"mods/WatchType15"},
 	--Reloj3
-	
-	
-	{"mods/whitecamobikerhelmet"},
-	{"mods/WitchesHat1"},
+
 }
 
 function load()
@@ -1655,7 +1626,7 @@ function startLoading(s)
 				end
 			end
 		end
-		ChangeObjectModel("mods/MatGlasses","mods/GlassesType1", 8388)
+		
 	end
 end
 

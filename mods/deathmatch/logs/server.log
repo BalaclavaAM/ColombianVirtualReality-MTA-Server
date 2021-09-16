@@ -1714,3 +1714,5 @@
 [2021-09-16 01:25:34] Server stopped!
 [2021-09-16 01:25:34] Stopping resources........................................................................
 [2021-09-16 01:25:35] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-16 01:26:27] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]  [DUP x19]
+[2021-09-16 01:26:27] WARNING: dbPoll is waiting a long time (60 seconds so far). [Query: ]

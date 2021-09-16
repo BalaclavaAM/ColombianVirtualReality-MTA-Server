@@ -1,3 +1,7 @@
 <settings>
+<<<<<<< HEAD
     <setting name="admin.ip2cUpdateTime" value="[1631767485]"></setting>
+=======
+    <setting name="admin.ip2cUpdateTime" value="[1631463845]"></setting>
+>>>>>>> main
 </settings>

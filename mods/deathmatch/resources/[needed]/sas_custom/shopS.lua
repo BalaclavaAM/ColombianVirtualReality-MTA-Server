@@ -7,7 +7,7 @@ local username = "root"
 local password = ""
 local database = "cvrtest"
 local connection = dbConnect( "mysql", "dbname="..database..";host="..host, username, password, "charset=utf8" )
-local clothesErstellt = {}
+
 
 
 function buyClothesServer (playerSource, type,objID, name, money)
@@ -41,7 +41,7 @@ addEventHandler("requestDatas", getRootElement(),
 )
 
 function deleteKleidungServer(playerSource, dbid)
-	destroyElement(clothesErstellt[playerSource][dbid])
+	triggerClientEvent ( "deleteKleidungClient", getRootElement() ,playerSource,dbid )
 end
 addEvent("deleteKleidungServer", true)
 addEventHandler("deleteKleidungServer", root, deleteKleidungServer)
@@ -57,16 +57,7 @@ addEventHandler ( "onPlayerQuit", root, eliminarensalida )
 
 
 function makeItToServer(playerSource, objID, x,y,z, rx,ry,rz, bone, dbid, sX, sY, sZ)
-	if not clothesErstellt[playerSource] then
-		clothesErstellt[playerSource] = {}
-	end
-	clothesErstellt[playerSource][dbid] = createObject(objID, 0,0,0)
-	--outputChatBox("eXServer: "..x)
---	outputChatBox("boneidS: "..bone)
-	exports.bone_attach:attachElementToBone(clothesErstellt[playerSource][dbid],playerSource,bone, 0,0,0,0,0,0)
-	exports.bone_attach:setElementBonePositionOffset(clothesErstellt[playerSource][dbid], x,y,z)
-	exports.bone_attach:setElementBoneRotationOffset(clothesErstellt[playerSource][dbid],rx,ry,rz)
-	setObjectScale(clothesErstellt[playerSource][dbid],sX, sY, sZ)
+	triggerClientEvent ("makeItToClient", getRootElement() ,playerSource, objID, x,y,z, rx,ry,rz, bone, dbid, sX, sY, sZ )
 end
 addEvent("makeItToServer", true)
 addEventHandler("makeItToServer", root, makeItToServer)

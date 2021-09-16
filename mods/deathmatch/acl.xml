@@ -65,8 +65,12 @@
         <object name="user.Admin"></object>
         <object name="user.Balaclava"></object>
         <object name="user.BalaclavaAM"></object>
+        <object name="user.AshTheLynx2"></object>
         <object name="user.falcao"></object>
         <object name="user.ReizerB"></object>
+        <object name="user.Willow"></object>
+        <object name="user.FugoHaze"></object>
+        <object name="user.Speedrun"></object>
     </group>
     <group name="Productores">
         <object name="user.David_Demacrado"></object>
@@ -126,6 +130,7 @@
         <object name="user.ReizerB"></object>
         <object name="user.MataTombos23"></object>
         <object name="user.BalaclavaAM"></object>
+        <object name="user.FugoHaze"></object>
     </group>
     <group name="VIPD">
         <object name="user.CHUKI118"></object>

@@ -1,5 +1,6 @@
 
 *.db
+<<<<<<< HEAD
 mods/deathmatch/resources/[needed]/NGLogs/logs/action/2021-09-15.txt
 *.txt
 mods/deathmatch/databases/system/stats.db
@@ -8,3 +9,8 @@ mods/deathmatch/databases/system/stats.db
 mods/deathmatch/databases/system/stats.db
 *.log
 mods/deathmatch/databases/system/stats.db
+=======
+mods/deathmatch/logs/server.log
+mods/deathmatch/resources/[needed]/NGLogs/logs/action/2021-09-16.txt
+mods/deathmatch/resources/[needed]/NGLogs/logs/server/2021-09-16.txt
+>>>>>>> main

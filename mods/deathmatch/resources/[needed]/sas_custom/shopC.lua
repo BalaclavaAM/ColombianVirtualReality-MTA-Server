@@ -1,8 +1,8 @@
 -- [[   Written by Steve Scott  ]]--
 -- [[ SeeMTA v3	Clothes-System	]]--
 -- [[    All rights reserved    ]]--
-
-
+numeroslocalizados={}
+local clothesErstellt = {}
 local screenX, screenY = guiGetScreenSize()
 local editorFont = dxCreateFont("files/Roboto.ttf", 10)
 local logoFont = dxCreateFont("files/Roboto.ttf", 15)
@@ -225,6 +225,64 @@ local menuPoints = {
 		},
 	},
 }
+
+
+
+addEventHandler( "onClientResourceStop", getRootElement( ),
+    function ( stoppedRes )
+		if (stoppedRes==getThisResource()) then
+			for k in pairs(numeroslocalizados) do
+				engineFreeModel(k)
+			end
+		end
+    end
+)
+
+function deleteKleidungClient ( playerSource,dbid )
+    destroyElement(clothesErstellt[playerSource][dbid])
+end
+addEvent( "deleteKleidungClient", true )
+addEventHandler( "deleteKleidungClient", localPlayer, deleteKleidungClient )
+
+for x=1,7,1 do 
+	for k,v in pairs(menuPoints[x]["products"]) do
+		if v[3] ~= nil then
+		v[3] = engineRequestModel ( "object")
+		table.insert(numeroslocalizados,v[3])
+		end
+	end
+end
+
+function makeItToClient ( playerSourcex, objID, x,y,z, rx,ry,rz, bone, dbid, sX, sY, sZ )
+	if clothesErstellt[playerSourcex] == nil then
+		clothesErstellt[playerSourcex] = {}
+	end
+
+	for x=1,7,1 do 
+		
+		for k,v in pairs(menuPoints[x]["products"]) do
+			if v[3] ~= nil then
+			 if v[1] == objID then
+				objID=v[3]
+				break
+			 end
+			end
+		end
+		if type(objID)=="number" then
+			break
+		end
+		
+	end
+	clothesErstellt[playerSourcex][dbid] = createObject(objID, 0,0,0)
+	--outputChatBox("eXServer: "..x)
+    --outputChatBox("boneidS: "..bone)
+	exports.bone_attach:attachElementToBone(clothesErstellt[playerSourcex][dbid],playerSourcex,bone, 0,0,0,0,0,0)
+	exports.bone_attach:setElementBonePositionOffset(clothesErstellt[playerSourcex][dbid], x,y,z)
+	exports.bone_attach:setElementBoneRotationOffset(clothesErstellt[playerSourcex][dbid],rx,ry,rz)
+	setObjectScale(clothesErstellt[playerSourcex][dbid],sX, sY, sZ)
+end
+addEvent( "makeItToClient", true )
+addEventHandler( "makeItToClient", localPlayer, makeItToClient )
 
 local panelW, panelH = 505, 450
 local reihenW, reihenH = 490, 27
@@ -902,7 +960,7 @@ addEventHandler("onClientClick", getRootElement(),
 													deleteState = true
 													playSound("sounds/prompt.mp3")
 													kleidungSelect = false
-													deleteElementID = playerClothes[actualNum]["ID"]
+													deleteElementID = playerClothes[actualNum]["ObjectID"]
 													deleteElementName = v["products"][inK][1]
 												end
 												if isInSlot(screenX/2-panelW/2+reihenW-(65*2), screenY/2-panelH/2+35 + (elem-1)*(reihenH)+3, 65,20) then
@@ -933,7 +991,7 @@ addEventHandler("onClientClick", getRootElement(),
 													selectedElementName = v["products"][inK][1]
 													selectedElementBone = v["products"][inK][4]
 													selectedElementModell = v["products"][inK][3]
-													selectedKleidungID = playerClothes[actualNum]["ID"]
+													selectedKleidungID = playerClothes[actualNum]["ObjectID"]
 													selectedKleidungType = k
 												--	outputChatBox("dbid: "..selectedKleidungID)
 												--	outputChatBox("selectedKleidungType: "..k)
@@ -950,6 +1008,7 @@ addEventHandler("onClientClick", getRootElement(),
 																--	outputChatBox(sK2)
 																	savedSlotTable[sK2] = {0,0,"",0,0,0,0,0,0,false,0,0}
 																	actualTypeBesetzt = 0
+																	--setClipboard(inspect(sV2))
 																	triggerServerEvent("deleteKleidungServer", localPlayer, localPlayer, sV2[12])
 																	saveSlots()
 																end
@@ -1001,6 +1060,7 @@ addEventHandler("onClientClick", getRootElement(),
 							if isInSlot(screenX/2-slotPanelW/2+445-65, screenY/2-slotPanelH/2+reihenH+15+(k-1)*40+5, 70,20) then
 								triggerServerEvent("deleteKleidungServer", localPlayer, localPlayer, v[12])
 								--outputChatBox("mentett: "..v[12])
+								
 								savedSlotTable[k] = {0,0,"",0,0,0,0,0,0,false,0,0}
 								actualTypeBesetzt = 0
 								saveSlots()
@@ -1081,7 +1141,10 @@ addEventHandler("onClientClick", getRootElement(),
 
 								for createK, createV in pairs(savedSlotTable) do
 									if createV[12] > 0 then
-										triggerServerEvent("makeItToServer", localPlayer, localPlayer, createV[1], createV[4], createV[5], createV[6], createV[7], createV[8], createV[9], createV[2], createV[12], createV[13], createV[14], createV[15])
+
+										triggerServerEvent("makeItToServer", localPlayer, localPlayer, createV[3], createV[4], createV[5], createV[6], createV[7], createV[8], createV[9], createV[2], createV[12], createV[13], createV[14], createV[15])
+										
+
 									end
 								end
 								saveOutfits()
@@ -1212,9 +1275,10 @@ function makeSlotChanges(x, y, z, rx, ry, rz)
 	savedSlotTable[selectedSlot] = {selectedElementModell, selectedElementBone, selectedElementName, x, y, z, rx, ry, rz, true, selectedKleidungType, selectedKleidungID, sX, sY, sZ}
 --	outputChatBox("dbid2: "..selectedKleidungID)
 
-	triggerServerEvent("makeItToServer", localPlayer, localPlayer, selectedElementModell, x, y, z, rx, ry, rz, selectedElementBone, selectedKleidungID, sX, sY, sZ)
+	triggerServerEvent("makeItToServer", localPlayer, localPlayer, selectedElementName, x, y, z, rx, ry, rz, selectedElementBone, selectedKleidungID, sX, sY, sZ)
 --	outputChatBox("boneidC: "..selectedElementBone)
 	destroyElement(editingObj)
+
 --	outputChatBox("saved")
 end
 
@@ -1335,145 +1399,145 @@ function getInFrontOf(x, y, angle, distance)
 end
 
 local modTable = {
-	{"mods/analgorra", 7522, "mods/analgorra"},
-	{"mods/armor", 8368},
-	{"mods/armor5", 8369, "mods/armor"},
-	{"mods/BackPack1", 8373},
-	{"mods/BackPack2", 8375},
-	{"mods/BackPack3", 8377},
-	{"mods/BackPack4", 8378},
-	{"mods/BackPack5", 8380},
-	{"mods/BackPack6", 8382},
-	--{"mods/blackbikerhelmet", 8382},
-	{"mods/CapTrucker"},
-	{"mods/cross", 7498,"mods/cross"},
-	{"mods/cross2", 7499,"mods/cross"},
-	{"mods/cross3", 7500,"mods/cross"},
-	{"mods/cross4", 7501,"mods/cross"},
-	{"mods/csokor", 7518,"mods/csokor"},
-	{"mods/csokor1", 7519,"mods/csokor"},
-	{"mods/gucci", 7520,"mods/gucci"},
-	{"mods/duffelbag"},
-	{"mods/duffelbag2"},
-	{"mods/MatGlasses", 8388, "mods/GlassesType1"},
-	{"mods/MatGlasses", 7415, "mods/GlassesType2"},
-	{"mods/MatGlasses", 7419,"mods/GlassesType5"},
-	{"mods/MatGlasses", 7420,"mods/GlassesType6"},
-	{"mods/MatGlasses", 7421,"mods/GlassesType7"},
-	{"mods/MatGlasses", 7422,"mods/GlassesType8"},
-	{"mods/MatGlasses", 7423,"mods/GlassesType9"},
-	{"mods/MatGlasses", 7424,"mods/GlassesType10"},
-	{"mods/MatGlasses", 7425,"mods/GlassesType11"},
-	{"mods/MatGlasses", 7426,"mods/GlassesType12"},
-	{"mods/MatGlasses", 7427,"mods/GlassesType13"},
-	{"mods/MatGlasses", 7428,"mods/GlassesType14"},
-	{"mods/MatGlasses", 7429,"mods/GlassesType15"},
-	{"mods/MatGlasses", 7430,"mods/GlassesType16"},
-	{"mods/MatGlasses", 7431,"mods/GlassesType17"},
-	{"mods/MatGlasses", 7432,"mods/GlassesType18"},
-	{"mods/MatGlasses", 7433,"mods/GlassesType19"},
-	{"mods/MatGlasses", 7434,"mods/GlassesType20"},
-	{"mods/MatGlasses", 7435,"mods/GlassesType21"},
-	{"mods/MatGlasses", 7436,"mods/GlassesType22"},
-	{"mods/MatGlasses", 7437,"mods/GlassesType23"},
-	{"mods/greencamobikerhelmet"},
-	{"mods/MatClothes", 7438,"mods/Hat1"},
-	{"mods/MatClothes", 7439,"mods/Hat2"},
-	{"mods/MatClothes", 7440,"mods/Hat3"},
-	{"mods/MatClothes", 7441,"mods/Hat4"},
-	{"mods/MatClothes", 7442,"mods/Hat5"},
-	{"mods/MatClothes", 7443,"mods/Hat6"},
-	{"mods/MatClothes", 7444,"mods/Hat7"},
-	{"mods/MatClothes", 7445,"mods/Hat8"},
-	{"mods/MatClothes", 7446,"mods/Hat9"},
-	{"mods/MatClothes", 7447,"mods/Hat10"},
+	--gorras 1
+	{"mods/analgorra", menuPoints[1]["products"][2][3], "mods/analgorra"},
+	{"mods/MatClothes", menuPoints[1]["products"][4][3],"mods/Hat1"},
+	{"mods/MatClothes", menuPoints[1]["products"][5][3],"mods/Hat2"},
+	{"mods/MatClothes", menuPoints[1]["products"][6][3],"mods/Hat3"},
+	{"mods/MatClothes", menuPoints[1]["products"][7][3],"mods/Hat4"},
+	{"mods/MatClothes", menuPoints[1]["products"][8][3],"mods/Hat5"},
+	{"mods/MatClothes", menuPoints[1]["products"][9][3],"mods/Hat6"},
+	{"mods/MatClothes", menuPoints[1]["products"][10][3],"mods/Hat7"},
+	{"mods/MatClothes", menuPoints[1]["products"][11][3],"mods/Hat8"},
+	{"mods/MatClothes", menuPoints[1]["products"][12][3],"mods/Hat9"},
+	{"mods/MatClothes", menuPoints[1]["products"][13][3],"mods/Hat10"},
+	{"mods/MatClothes", menuPoints[1]["products"][15][3], "mods/HatBowler1"},
+	{"mods/MatClothes", menuPoints[1]["products"][16][3], "mods/HatBowler2"},
+	{"mods/MatClothes", menuPoints[1]["products"][17][3], "mods/HatBowler3"},
+	{"mods/MatClothes", menuPoints[1]["products"][18][3], "mods/HatBowler4"},
+	{"mods/vueltiao", menuPoints[1]["products"][19][3], "mods/vueltiao"},
+	{"mods/MatClothes", menuPoints[1]["products"][21][3],"mods/HatCool1"},
+	{"mods/MatClothes", menuPoints[1]["products"][22][3],"mods/HatCool2"},
+	{"mods/MatClothes", menuPoints[1]["products"][23][3],"mods/HatCool3"},
+	{"mods/MatClothes", menuPoints[1]["products"][25][3],"mods/SkullyCap1"},
+	{"mods/MatClothes", menuPoints[1]["products"][26][3],"mods/SkullyCap2"},
+	{"mods/MatClothes", menuPoints[1]["products"][27][3],"mods/SkullyCap3"},
+	{"mods/MatClothes", menuPoints[1]["products"][29][3],"mods/MotorcycleHelmet1"},
+	{"mods/MatClothes", menuPoints[1]["products"][30][3],"mods/MotorcycleHelmet2"},
+	{"mods/MatClothes", menuPoints[1]["products"][31][3],"mods/MotorcycleHelmet3"},
+	{"mods/MatClothes", menuPoints[1]["products"][32][3],"mods/MotorcycleHelmet4"},
+	{"mods/cross", menuPoints[1]["products"][33][3],"mods/cross"},
+	{"mods/cross2", menuPoints[1]["products"][34][3],"mods/cross"},
+	{"mods/cross3", menuPoints[1]["products"][35][3],"mods/cross"},
+	{"mods/cross4", menuPoints[1]["products"][36][3],"mods/cross"},
+	--gorras
+	
 
-	{"mods/MatClothes", 7448, "mods/HatBowler1"},
-	{"mods/MatClothes", 7449, "mods/HatBowler2"},
-	{"mods/MatClothes", 7450, "mods/HatBowler3"},
-	{"mods/MatClothes", 7451, "mods/HatBowler4"},
-	{"mods/vueltiao", 7452, "mods/vueltiao"},
+	--maletas4
+	{"mods/BackPack1", menuPoints[4]["products"][1][3]},
+	{"mods/BackPack2", menuPoints[4]["products"][2][3]},
+	{"mods/BackPack3", menuPoints[4]["products"][3][3]},
+	{"mods/BackPack4", menuPoints[4]["products"][4][3]},
+	{"mods/BackPack5", menuPoints[4]["products"][5][3]},
+	{"mods/BackPack6", menuPoints[4]["products"][6][3]},
+	--maletas4
 
-	{"mods/MatClothes", 7453,"mods/HatCool1"},
-	{"mods/MatClothes", 7454,"mods/HatCool2"},
-	{"mods/MatClothes", 7455,"mods/HatCool3"},
-	{"mods/HikerBackpack1"},
-	--{"mods/hut", 7518,"mods/hut"},
-	--{"mods/hut2", 7519,"mods/hut"},
-	--{"mods/hut3", 7520,"mods/hut"},
-	{"mods/JESSE_Szakall"},
-	{"mods/JESSE_Triko"},
-	{"mods/JESSE_Triko2"},
-	{"mods/MatClothes", 7471,"mods/Mask1"},
-	{"mods/MatClothes", 7472,"mods/Mask2"},
-	{"mods/MatClothes", 7473,"mods/Mask3"},
-	{"mods/tapabocasbala", 7474,"mods/tapabocasbala"},
-	{"mods/MatClothes", 7475,"mods/Mask5"},
-	{"mods/MatClothes", 7476,"mods/Mask6"},
-	{"mods/MatClothes", 7477,"mods/Mask7"},
-	{"mods/MatClothes", 7478,"mods/Mask8"},
-	{"mods/MatClothes", 7479,"mods/Mask9"},
-	{"mods/MatClothes", 7480,"mods/Mask10"},
-	{"mods/MatClothes", 7494,"mods/MotorcycleHelmet1"},
-	{"mods/MatClothes", 7495,"mods/MotorcycleHelmet2"},
-	{"mods/MatClothes", 7496,"mods/MotorcycleHelmet3"},
-	{"mods/MatClothes", 7497,"mods/MotorcycleHelmet4"},
-	{"mods/NeckLace1", 7481,"mods/NeckLace"},
-	{"mods/NeckLace2", 7482,"mods/NeckLace"},
-	{"mods/Arepa", 7483,"mods/Arepa"},
-	{"mods/NeckLace4", 7484,"mods/NeckLace"},
-	{"mods/NeckLace5", 7485,"mods/NeckLace"},
-	{"mods/NeckLace6", 7486,"mods/NeckLace"},
-	{"mods/NeckLace7", 7488,"mods/NeckLace"},
-	{"mods/NeckLace8", 7489,"mods/NeckLace"},
-	{"mods/NeckLace9", 7490,"mods/NeckLace"},
-	{"mods/nyakkendo", 7515,"mods/nyakkendo"},
-	{"mods/nyakkendo1", 7516,"mods/nyakkendo"},
-	{"mods/nyakkendo2", 7517,"mods/nyakkendo"},
-	{"mods/Nyaklanc_3"},
-	{"mods/oldaltaska"},
-	{"mods/polgi"},
-	{"mods/Sapka_7"},
-	{"mods/SchoolPack"},
-	{"mods/SchoolPack1"},
-	{"mods/SchoolPack2"},
-	{"mods/SchoolPack3"},
-	{"mods/MatClothes", 7491,"mods/SkullyCap1"},
-	{"mods/MatClothes", 7492,"mods/SkullyCap2"},
-	{"mods/MatClothes", 7493,"mods/SkullyCap3"},
-	{"mods/SWATHelmet1"},
-	{"mods/TheParrot1"},
-	{"mods/trafficvest", 7502, "mods/trafficvest"},
-	{"mods/trafficvest2", 7503, "mods/trafficvest"},
-	{"mods/trafficvest3", 7504, "mods/trafficvest"},
-	{"mods/trafficvest4", 7505, "mods/trafficvest"},
-	{"mods/trafficvest5", 7506, "mods/trafficvest"},
-	{"mods/trafficvest6", 7507, "mods/trafficvest"},
-	{"mods/trafficvest7", 7508, "mods/trafficvest"},
-	{"mods/trafficvest8", 7509, "mods/trafficvest"},
-	{"mods/trafficvest9", 7510, "mods/trafficvest"},
-	{"mods/trafficvest10", 7511, "mods/trafficvest"},
-	{"mods/trafficvest11", 7512, "mods/trafficvest"},
-	{"mods/trafficvest12", 7513, "mods/trafficvest"},
-	{"mods/trafficvest13", 7514, "mods/trafficvest"},
-	{"mods/MatWatches", 7456, "mods/WatchType1"},
-	{"mods/MatWatches", 7457, "mods/WatchType2"},
-	{"mods/MatWatches", 7458,"mods/WatchType3"},
-	{"mods/MatWatches", 7459,"mods/WatchType4"},
-	{"mods/MatWatches", 7460,"mods/WatchType5"},
-	{"mods/MatWatches", 7461,"mods/WatchType6"},
-	{"mods/MatWatches", 7462,"mods/WatchType7"},
-	{"mods/MatWatches", 7463,"mods/WatchType8"},
-	{"mods/MatWatches", 7464,"mods/WatchType9"},
-	{"mods/MatWatches", 7465,"mods/WatchType10"},
-	{"mods/MatWatches", 7466,"mods/WatchType11"},
-	{"mods/MatWatches", 7467,"mods/WatchType12"},
-	{"mods/MatWatches", 7468,"mods/WatchType13"},
-	{"mods/MatWatches", 7469,"mods/WatchType14"},
-	{"mods/MatWatches", 7470,"mods/WatchType15"},
-	{"mods/hasitasi", 7521, "mods/hasitasi"},
-	{"mods/whitecamobikerhelmet"},
-	{"mods/WitchesHat1"},
+
+	--gafas2
+	{"mods/MatGlasses", menuPoints[2]["products"][1][3], "mods/GlassesType1"},
+	{"mods/MatGlasses", menuPoints[2]["products"][2][3], "mods/GlassesType2"},
+	{"mods/MatGlasses", menuPoints[2]["products"][3][3],"mods/GlassesType5"},
+	{"mods/MatGlasses", menuPoints[2]["products"][4][3],"mods/GlassesType6"},
+	{"mods/MatGlasses", menuPoints[2]["products"][5][3],"mods/GlassesType7"},
+	{"mods/MatGlasses", menuPoints[2]["products"][6][3],"mods/GlassesType8"},
+	{"mods/MatGlasses", menuPoints[2]["products"][7][3],"mods/GlassesType9"},
+	{"mods/MatGlasses", menuPoints[2]["products"][8][3],"mods/GlassesType10"},
+	{"mods/MatGlasses", menuPoints[2]["products"][9][3],"mods/GlassesType11"},
+	{"mods/MatGlasses", menuPoints[2]["products"][10][3],"mods/GlassesType12"},
+	{"mods/MatGlasses", menuPoints[2]["products"][11][3],"mods/GlassesType13"},
+	{"mods/MatGlasses", menuPoints[2]["products"][12][3],"mods/GlassesType14"},
+	{"mods/MatGlasses", menuPoints[2]["products"][13][3],"mods/GlassesType15"},
+	{"mods/MatGlasses", menuPoints[2]["products"][14][3],"mods/GlassesType16"},
+	{"mods/MatGlasses", menuPoints[2]["products"][15][3],"mods/GlassesType17"},
+	{"mods/MatGlasses", menuPoints[2]["products"][16][3],"mods/GlassesType18"},
+	{"mods/MatGlasses", menuPoints[2]["products"][17][3],"mods/GlassesType19"},
+	{"mods/MatGlasses", menuPoints[2]["products"][18][3],"mods/GlassesType20"},
+	{"mods/MatGlasses", menuPoints[2]["products"][19][3],"mods/GlassesType21"},
+	{"mods/MatGlasses", menuPoints[2]["products"][20][3],"mods/GlassesType22"},
+	{"mods/MatGlasses", menuPoints[2]["products"][21][3],"mods/GlassesType23"},
+	--gafas2
+
+
+	
+
+
+	--mascaras5
+	{"mods/MatClothes",  menuPoints[5]["products"][1][3],"mods/Mask1"},
+	{"mods/MatClothes", menuPoints[5]["products"][2][3],"mods/Mask2"},
+	{"mods/MatClothes", menuPoints[5]["products"][3][3],"mods/Mask3"},
+	{"mods/tapabocasbala", menuPoints[5]["products"][4][3],"mods/tapabocasbala"},
+	{"mods/MatClothes", menuPoints[5]["products"][5][3],"mods/Mask5"},
+	{"mods/MatClothes", menuPoints[5]["products"][6][3],"mods/Mask6"},
+	{"mods/MatClothes", menuPoints[5]["products"][7][3],"mods/Mask7"},
+	{"mods/MatClothes", menuPoints[5]["products"][8][3],"mods/Mask8"},
+	{"mods/MatClothes", menuPoints[5]["products"][9][3],"mods/Mask9"},
+	{"mods/MatClothes", menuPoints[5]["products"][10][3],"mods/Mask10"},
+	--mascaras5
+
+	
+	--Collares6
+	{"mods/NeckLace1",  menuPoints[6]["products"][1][3],"mods/NeckLace"},
+	{"mods/NeckLace2", menuPoints[6]["products"][2][3],"mods/NeckLace"},
+	{"mods/Arepa", menuPoints[6]["products"][3][3],"mods/Arepa"},
+	{"mods/NeckLace4", menuPoints[6]["products"][4][3],"mods/NeckLace"},
+	{"mods/NeckLace5", menuPoints[6]["products"][5][3],"mods/NeckLace"},
+	{"mods/NeckLace6", menuPoints[6]["products"][6][3],"mods/NeckLace"},
+	{"mods/NeckLace7", menuPoints[6]["products"][7][3],"mods/NeckLace"},
+	{"mods/NeckLace8", menuPoints[6]["products"][8][3],"mods/NeckLace"},
+	{"mods/NeckLace9", menuPoints[6]["products"][9][3],"mods/NeckLace"},
+	--Collares6
+	
+
+	--otros7
+	{"mods/trafficvest",  menuPoints[7]["products"][1][3], "mods/trafficvest"},
+	{"mods/trafficvest2", menuPoints[7]["products"][2][3], "mods/trafficvest"},
+	{"mods/trafficvest3", menuPoints[7]["products"][3][3], "mods/trafficvest"},
+	{"mods/trafficvest4", menuPoints[7]["products"][4][3], "mods/trafficvest"},
+	{"mods/trafficvest5", menuPoints[7]["products"][5][3], "mods/trafficvest"},
+	{"mods/trafficvest6", menuPoints[7]["products"][6][3], "mods/trafficvest"},
+	{"mods/trafficvest7", menuPoints[7]["products"][7][3], "mods/trafficvest"},
+	{"mods/trafficvest8", menuPoints[7]["products"][8][3], "mods/trafficvest"},
+	{"mods/trafficvest9", menuPoints[7]["products"][9][3], "mods/trafficvest"},
+	{"mods/trafficvest10", menuPoints[7]["products"][10][3], "mods/trafficvest"},
+	{"mods/trafficvest11", menuPoints[7]["products"][11][3], "mods/trafficvest"},
+	{"mods/trafficvest12", menuPoints[7]["products"][12][3], "mods/trafficvest"},
+	{"mods/trafficvest13", menuPoints[7]["products"][13][3], "mods/trafficvest"},
+	{"mods/nyakkendo", menuPoints[7]["products"][14][3],"mods/nyakkendo"},
+	{"mods/nyakkendo1", menuPoints[7]["products"][15][3],"mods/nyakkendo"},
+	{"mods/nyakkendo2", menuPoints[7]["products"][16][3],"mods/nyakkendo"},
+	{"mods/csokor", menuPoints[7]["products"][17][3],"mods/csokor"},
+	{"mods/csokor1", menuPoints[7]["products"][18][3],"mods/csokor"},
+	{"mods/hasitasi", menuPoints[7]["products"][19][3], "mods/hasitasi"},
+	{"mods/gucci", menuPoints[7]["products"][20][3],"mods/gucci"},
+	--otros7
+	--Reloj3
+	{"mods/MatWatches", menuPoints[3]["products"][1][3], "mods/WatchType1"},
+	{"mods/MatWatches", menuPoints[3]["products"][2][3], "mods/WatchType2"},
+	{"mods/MatWatches", menuPoints[3]["products"][3][3],"mods/WatchType3"},
+	{"mods/MatWatches", menuPoints[3]["products"][4][3],"mods/WatchType4"},
+	{"mods/MatWatches", menuPoints[3]["products"][5][3],"mods/WatchType5"},
+	{"mods/MatWatches", menuPoints[3]["products"][6][3],"mods/WatchType6"},
+	{"mods/MatWatches", menuPoints[3]["products"][7][3],"mods/WatchType7"},
+	{"mods/MatWatches", menuPoints[3]["products"][8][3],"mods/WatchType8"},
+	{"mods/MatWatches", menuPoints[3]["products"][9][3],"mods/WatchType9"},
+	{"mods/MatWatches", menuPoints[3]["products"][10][3],"mods/WatchType10"},
+	{"mods/MatWatches", menuPoints[3]["products"][11][3],"mods/WatchType11"},
+	{"mods/MatWatches", menuPoints[3]["products"][12][3],"mods/WatchType12"},
+	{"mods/MatWatches", menuPoints[3]["products"][13][3],"mods/WatchType13"},
+	{"mods/MatWatches", menuPoints[3]["products"][14][3],"mods/WatchType14"},
+	{"mods/MatWatches", menuPoints[3]["products"][15][3],"mods/WatchType15"},
+	--Reloj3
+
 }
 
 function load()
@@ -1518,7 +1582,9 @@ function checkJSON_File()
 		--	slotTable[k][1] = tonumber(v[1])
 		--	outputChatBox(slotTable[1][1])
 			if v[12] > 0 then
-				triggerServerEvent("makeItToServer", localPlayer, localPlayer, tonumber(v[1]), tonumber(v[4]), tonumber(v[5]), tonumber(v[6]), tonumber(v[7]), tonumber(v[8]),tonumber(v[9]), tonumber(v[2]), tonumber(v[12]), tonumber(v[13]), tonumber(v[14]), tonumber(v[15]))
+				triggerServerEvent("makeItToServer", localPlayer, localPlayer, tostring(v[3]), tonumber(v[4]), tonumber(v[5]), tonumber(v[6]), tonumber(v[7]), tonumber(v[8]),tonumber(v[9]), tonumber(v[2]), tonumber(v[12]), tonumber(v[13]), tonumber(v[14]), tonumber(v[15]))
+				
+
 			end
 		end
 
@@ -1559,7 +1625,7 @@ function startLoading(s)
 				end
 			end
 		end
-		ChangeObjectModel("mods/MatGlasses","mods/GlassesType1", 8388)
+		
 	end
 end
 

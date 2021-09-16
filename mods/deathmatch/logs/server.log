@@ -1701,3 +1701,12 @@
 [2021-09-16 01:11:08] ERROR: [needed]\housemysql\server.lua:618: Houses Table not Found\empty!
 [2021-09-16 01:11:08] start: Resource 'housemysql' started
 [2021-09-16 01:11:32] QUIT: Balaclava left the game [Quit]
+[2021-09-16 01:13:15] CONNECT: Balaclava connected (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803  Version: 1.5.8-9.20927.0)
+[2021-09-16 01:13:15] JOIN: Balaclava joined the game (IP: 192.168.1.42)
+[2021-09-16 01:13:35] INFO: modloader server: Player Balaclava requested replacing
+[2021-09-16 01:17:13] INFO: Checking for Mod Downloader updates 
+[2021-09-16 01:17:14] INFO: ====================================
+[2021-09-16 01:17:14] INFO: = ModDownloader version doesn't match community
+[2021-09-16 01:17:14] INFO: ====================================
+[2021-09-16 01:17:14] INFO: = Your version: 1.2.1
+[2021-09-16 01:17:14] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)

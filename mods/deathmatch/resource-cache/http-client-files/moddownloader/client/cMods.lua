@@ -106,14 +106,14 @@ function Mods:PhraseList ( )
 			-- if outdated, then delete
 			if ( doDelete ) then 
 				File.delete ( txd );
-				outputDebugString ( txd.." was deleted - hash doesn't match with server" );
+				--outputDebugString ( txd.." was deleted - hash doesn't match with server" );
 				bothExist = false;
 			else
-				outputDebugString ( txd.." has been successfully listed" );
+				--outputDebugString ( txd.." has been successfully listed" );
 				bothExist = true;
 			end 
 		else 
-			outputDebugString ( tostring ( txd ).. " not present - beginning download" );
+			--outputDebugString ( tostring ( txd ).. " not present - beginning download" );
 			Downloader:AddDownload ( tostring ( txd ) );
 		end 
 		
@@ -129,21 +129,21 @@ function Mods:PhraseList ( )
 			-- if outdated, then delete
 			if ( doDelete ) then 
 				File.delete ( dff );
-				outputDebugString ( dff.." was deleted - hash doesn't match with server" );
+				--outputDebugString ( dff.." was deleted - hash doesn't match with server" );
 				bothExist = false;
 			else 
-				outputDebugString ( dff.." has been successfully listed" );
+				--outputDebugString ( dff.." has been successfully listed" );
 				if ( bothExist ) then 
 					bothExist = true;
 				end 
 			end 
 		else 
-			outputDebugString ( tostring ( dff ).. " not present - beginning download" );
+			--outputDebugString ( tostring ( dff ).. " not present - beginning download" );
 			Downloader:AddDownload ( tostring ( dff ) );
 		end 
 		
 		if ( bothExist  ) then 
-			--outputDebugString ( name.." - both files loaded. Enabled: "..tostring ( Mods.FromXML [ name ] ) );
+			----outputDebugString ( name.." - both files loaded. Enabled: "..tostring ( Mods.FromXML [ name ] ) );
 			if ( Mods.FromXML [ name ] ) then 
 				Mods.SetModEnabled ( name, true );
 			end 
@@ -155,7 +155,7 @@ end
 
 function Mods.SetModEnabled ( mod, enabled )
 	if ( not Downloader.Mods [ mod ] ) then 
-		return outputDebugString ( string.format ( "Attempted to enable mod '%s' - doesn't exist in Downloader.Mods", mod ), 255, 0,  0 );
+		return --outputDebugString ( string.format ( "Attempted to enable mod '%s' - doesn't exist in Downloader.Mods", mod ), 255, 0,  0 );
 	end 
 	
 	if ( 
@@ -193,6 +193,6 @@ addEvent ( "ModLoader:OnServerReadyAccepts", true );
 addEventHandler ( "ModLoader:OnServerReadyAccepts", root, Mods.Mods );
 
 checkServerTimer = setTimer ( function ( )
-	outputDebugString ( "Sending server request" );
+	--outputDebugString ( "Sending server request" );
 	triggerServerEvent ( "ModDownloader:TestServerReadyForClient", localPlayer );
 end, 2000, 0 )

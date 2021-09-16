@@ -17,8 +17,10 @@ Inter.btn.enable = guiCreateButton(13, 397, 136, 39, "Activar", false, Inter.win
 Inter.btn.enableAll = guiCreateButton(13, 446, 136, 39, "Activar Todos", false, Inter.window)
 Inter.btn.disable = guiCreateButton(159, 397, 136, 39, "Desactivar", false, Inter.window)
 Inter.btn.disableAll = guiCreateButton(159, 446, 136, 39, "Desactivar Todo", false, Inter.window)
-Inter.btn.enableJustSkins = guiCreateButton(305, 446, 136, 39, "Activar Skins", false, Inter.window)
-Inter.btn.enableJustCars = guiCreateButton(305, 397, 136, 39, "Activar Carros", false, Inter.window)
+Inter.btn.enableJustSkins = guiCreateButton(305, 446, 80, 39, "Activar Skins", false, Inter.window)
+Inter.btn.enableJustCars = guiCreateButton(305, 397, 80, 39, "Activar Carros", false, Inter.window)
+Inter.btn.disableJustSkins = guiCreateButton(395, 446, 80, 39, "Desactivar Skins", false, Inter.window)
+Inter.btn.disableJustCars = guiCreateButton(395, 397, 80, 39, "Desactivar Carros", false, Inter.window)
 Inter.btn.refresh = guiCreateButton(516, 397, 136, 39, "Refrescar", false, Inter.window)
 Inter.btn.close = guiCreateButton(516, 446, 136, 39, "Salir", false, Inter.window)
 
@@ -71,23 +73,23 @@ function Inter.onEvent ( )
 			if ( row == - 1 ) then return end 
 			Mods.SetModEnabled ( guiGridListGetItemText ( Inter.grid.list, row, 2 ), source == Inter.btn.enable  );
 			Inter.refresh ( );
-		elseif ( source == Inter.btn.enableJustSkins or source == Inter.btn.enableJustCars) then
+		elseif ( source == Inter.btn.enableJustSkins or source == Inter.btn.enableJustCars or source == Inter.btn.disableJustCars or source==Inter.btn.disableJustSkins) then
 			if (getPedOccupiedVehicle(localPlayer)) then
 				return outputChatBox("Parcero bájate del carro antes de hacer esto.",255,255,0)
 			end
-			if ( source == Inter.btn.enableJustSkins ) then
+			if ( source == Inter.btn.enableJustSkins or source == Inter.btn.disableJustSkins ) then
 				for i, v in pairs ( Downloader.Mods ) do 
 					local t = tostring ( v.type ):lower ( );
 					if ( t ==  "skins" ) then
-						Mods.SetModEnabled ( i, Inter.btn.enableJustSkins );
+						Mods.SetModEnabled ( i, source== Inter.btn.enableJustSkins );
 					end
 				end 
 				Inter.refresh ( );
-			elseif ( source== Inter.btn.enableJustCars ) then
+			elseif ( source== Inter.btn.enableJustCars or source==Inter.btn.disableJustCars ) then
 				for i, v in pairs ( Downloader.Mods ) do 
 					local t = tostring ( v.type ):lower ( );
 					if ( t ==  "vehicles" ) then
-						Mods.SetModEnabled ( i, source== Inter.btn.enableJustCars );
+						Mods.SetModEnabled ( i, source == Inter.btn.enableJustCars );
 					end
 				end 
 				Inter.refresh ( );
@@ -119,7 +121,7 @@ function Inter.refresh ( )
 		end
 	end 
 	
-	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Vehicle Mods", true, true )
+	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Mods de Vehiculos", true, true )
 	
 	for i, v in pairs ( vehs ) do
 		local r, g, b = 0, 255, 0 -- Assume its downloaded and ready
@@ -153,7 +155,7 @@ function Inter.refresh ( )
 	end 
 	
 	
-	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Weapon Mods", true, true )
+	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Mods de Armas", true, true )
 		
 	for i, v in pairs ( weaps ) do
 		local r, g, b = 0, 255, 0 -- Assume its downloaded and ready
@@ -188,7 +190,7 @@ function Inter.refresh ( )
 	end 
 	
 	
-	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Skin Mods", true, true )
+	guiGridListSetItemText ( Inter.grid.list, guiGridListAddRow ( Inter.grid.list ), 1, "Mods de Skins", true, true )
 		
 	for i, v in pairs ( skins ) do
 		local r, g, b = 0, 255, 0 -- Assume its downloaded and ready

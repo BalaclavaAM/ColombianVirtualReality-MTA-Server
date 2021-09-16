@@ -1,4 +1,3 @@
-
 *.db
 mods/deathmatch/resources/[needed]/NGLogs/logs/*
 /mods/deathmatch/resource-cache/*

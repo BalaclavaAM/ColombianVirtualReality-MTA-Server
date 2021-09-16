@@ -225,12 +225,13 @@ end
 
 local advertencias = 0
 function kickPing()
-	if (getElementData(localPlayer,"Job")=="Police Officer" or getElementData(localPlayer,"Job")=="Criminal") and getPlayerPing(localPlayer)>=300 then
+	local x,y,z = getElementPosition(localPlayer)
+	if ((getElementData(localPlayer,"Job")=="Police Officer" or getElementData(localPlayer,"Job")=="Criminal") and getPlayerPing(localPlayer)>=300) or (getElementData(localPlayer,"Job")=="UnEmployed" and getZoneName(x,y,z,true)=="San Fierro") then
 		if advertencias<3 then
 			advertencias=advertencias+1
 			outputChatBox("|CVR|".."Amigo, tu ping es muy inestable. No puedes ser "..getElementData(localPlayer,"Job").." con este ping advertencia "..advertencias.."/3.",255,0,0)
 		else
-			kickPlayer(localPlayer,"Has sido kickeado por ping alto siendo policía o criminal")
+			kickPlayer(localPlayer,"Has sido kickeado por ping alto siendo policía o criminal. O turfeando.")
 		end
 	end
 end

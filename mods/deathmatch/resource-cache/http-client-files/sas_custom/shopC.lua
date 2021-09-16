@@ -254,7 +254,6 @@ for x=1,7,1 do
 end
 
 function makeItToClient ( playerSourcex, objID, x,y,z, rx,ry,rz, bone, dbid, sX, sY, sZ )
-	outputChatBox(inspect(playerSourcex))
 	if clothesErstellt[playerSourcex] == nil then
 		clothesErstellt[playerSourcex] = {}
 	end

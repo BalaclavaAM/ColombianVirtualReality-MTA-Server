@@ -24,4 +24,4 @@ function Updater.Check  ( )
 end
 
 Updater.Check ( );
-setTimer ( Updater.Check, 1000000, 0 );
+--setTimer ( Updater.Check, 1000000, 0 );

@@ -103,6 +103,14 @@ function isCarFunctioning(car)
 	return retorno
 end
 
+function isTruck(car)
+	if (getElementModel(car)==524 or getElementModel(car)==578 or getElementModel(car)==515 or getElementModel(car)==514 or getElementModel(car)==403) then
+		return true
+	else
+		return false
+	end
+end
+
 
 function showVehicle ( id, stat, player, msg )
 	if stat then
@@ -266,6 +274,9 @@ function showVehicle ( id, stat, player, msg )
 			local health, fuel = tostring ( getElementHealth ( vehicles[id] ) ), tonumber ( getElementData ( vehicles[id], "fuel" ) )
 			local model = getElementModel ( vehicles[id] )
 			local hdnl = toJSON ( getVehicleHandling ( vehicles [ id ] ) )
+			if isTruck(vehicles[id]) then
+				hdnl = getOriginalHandling(model)
+			end
 			local paintjob = getVehiclePaintjob(vehicles[id])
 			local flagsell = getElementData(vehicles[id],"FLAGSELL")
 			local neon = getElementData(vehicles[id],"tuning.neon") or "None"

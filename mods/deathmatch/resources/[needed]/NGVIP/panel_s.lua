@@ -102,6 +102,14 @@ end
 addEvent( "giveStats", true ) 
 addEventHandler("giveStats", root ,setPStats)
 
+function isTruck(car)
+	if (getElementModel(car)==524 or getElementModel(car)==578 or getElementModel(car)==515 or getElementModel(car)==514 or getElementModel(car)==403) then
+		return true
+	else
+		return false
+	end
+end
+
 
 function checkearPropio(veh,player)
 	local cuenta = getElementData ( veh, "NGVehicles:VehicleAccountOwner") or false
@@ -128,6 +136,7 @@ end
 
 function makeVehicleHigh(veh)
 	if checkearPropio(veh,source) then
+		if isTruck(veh) then return outputChatBox("Los camiones no se pueden tunear así, parcero.",source,255,0,0) end
         if checkifAlreadyHigh(veh) then
             local hand = getVehicleHandling(veh)
             local sentrodemasa=hand['centerOfMass']
@@ -157,6 +166,7 @@ addEventHandler("modReset", root ,resetvehicleHandling)
 
 function makeHighSpeedHandling(veh)
 	if checkearPropio(veh,source) then
+		if isTruck(veh) then return outputChatBox("Los camiones no se pueden tunear así, parcero.",source,255,0,0) end
 		setElementData ( veh, "FLAGSELL", 1)
 		local handling = getOriginalHandling(getElementModel(veh))
 		setVehicleHandling(veh,'engineAcceleration',handling['engineAcceleration']+30)
@@ -169,6 +179,7 @@ addEventHandler("modSpeed", root ,makeHighSpeedHandling)
 
 function handleMiniHedit(veh,traction,lowsusp,highsusp,accel,tractionloss)
 	if checkearPropio(veh,source) then
+		if isTruck(veh) then return outputChatBox("Los camiones no se pueden tunear así, parcero.",source,255,0,0) end
 		setElementData ( veh, "FLAGSELL", 1)
 		setVehicleHandling(veh,'tractionMultiplier',traction)
 		setVehicleHandling(veh,'suspensionLowerLimit',lowsusp)

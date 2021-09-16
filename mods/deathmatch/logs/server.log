@@ -1710,6 +1710,8 @@
 [2021-09-16 01:17:14] INFO: ====================================
 [2021-09-16 01:17:14] INFO: = Your version: 1.2.1
 [2021-09-16 01:17:14] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+<<<<<<< HEAD
+=======
 [2021-09-16 01:23:47] INFO: MATEMÁTICAS: Pregunta 75 - 35 + 4613 ha sido generada con una respueta de 4653
 [2021-09-16 01:25:34] Server stopped!
 [2021-09-16 01:25:34] Stopping resources........................................................................
@@ -2077,3 +2079,4 @@
 [2021-09-16 01:29:33] Server stopped!
 [2021-09-16 01:29:33] Stopping resources........................................................................
 [2021-09-16 01:29:34] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
+>>>>>>> main

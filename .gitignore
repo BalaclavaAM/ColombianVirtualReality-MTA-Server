@@ -14,3 +14,5 @@ mods/deathmatch/logs/server.log
 mods/deathmatch/resources/[needed]/NGLogs/logs/action/2021-09-16.txt
 mods/deathmatch/resources/[needed]/NGLogs/logs/server/2021-09-16.txt
 >>>>>>> main
+*.db
+*.csv

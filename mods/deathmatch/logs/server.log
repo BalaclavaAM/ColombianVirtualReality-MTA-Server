@@ -431,3 +431,860 @@
 [2021-09-09 11:58:41] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
 [2021-09-09 11:58:41] Starting NGcargamods
 [2021-09-09 11:58:42] NGcargamods restarted successfully
+[2021-09-09 12:03:09] Server minclientversion is now 1.5.8-9.20845.0
+[2021-09-09 12:03:09] CONNECT: Balaclava connected (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803  Version: 1.5.8-9.20927.0)
+[2021-09-09 12:03:11] JOIN: Balaclava joined the game (IP: 192.168.1.42)
+[2021-09-09 12:03:54] INFO: modloader server: Player Balaclava requested replacing
+[2021-09-09 12:04:18] INFO: [Logeo] Info de logeo de Balaclava ha sido cargada correctamente
+[2021-09-09 12:04:18] ERROR: [needed]\NGLogin\mail_server.lua:49: attempt to get length of global 'q' (a boolean value)
+[2021-09-09 12:04:18] LOGIN: (Everyone, Level 5, Admin, DJ, DevGroup) Balaclava successfully logged in as 'BalaclavaAM' (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803)
+[2021-09-09 12:04:27] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-09 12:04:31] SCRIPT: Balaclava(BalaclavaAM) set their script debug mode to 3
+[2021-09-09 12:04:33] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-09 12:04:36] ADMIN: Balaclava has moved Balaclava to the Staff team
+[2021-09-09 12:04:55] KICK: Balaclava was kicked from the game by Console (Te estamos entregando el vip ;). Reconecta!.)
+[2021-09-09 12:04:55] WARNING: [needed]\NGAdministration\aManager\aServer.lua:106: Bad argument @ 'getPlayerAccount' [Expected element at argument 1]
+[2021-09-09 12:04:55] WARNING: [needed]\NGAdministration\aManager\aServer.lua:106: Bad argument @ 'getAccountName' [Expected account at argument 1, got boolean]
+[2021-09-09 12:04:55] ERROR: [needed]\NGAdministration\aManager\aServer.lua:106: attempt to concatenate a boolean value
+[2021-09-09 12:05:08] CONNECT: Balaclava connected (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803  Version: 1.5.8-9.20927.0)
+[2021-09-09 12:05:20] QUIT: Balaclava left the game [Timed out]
+[2021-09-09 12:06:34] CONNECT: Balaclava connected (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803  Version: 1.5.8-9.20927.0)
+[2021-09-09 12:06:36] JOIN: Balaclava joined the game (IP: 192.168.1.42)
+[2021-09-09 12:07:09] INFO: modloader server: Player Balaclava requested replacing
+[2021-09-09 12:07:17] INFO: [Logeo] Info de logeo de Balaclava ha sido cargada correctamente
+[2021-09-09 12:07:17] ERROR: [needed]\NGLogin\mail_server.lua:49: attempt to get length of global 'q' (a boolean value)
+[2021-09-09 12:07:17] LOGIN: (Everyone, Level 5, Admin, DJ, DevGroup) Balaclava successfully logged in as 'BalaclavaAM' (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803)
+[2021-09-09 12:07:25] WARNING: [needed]\NGChat\server.lua:487: Bad argument @ 'getTeamName' [Expected team at argument 1, got boolean]
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:38] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:39] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:40] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:40] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:40] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:40] ADMIN: Balaclava has warped to Balaclava
+[2021-09-09 12:07:43] ADMIN: Balaclava has moved Balaclava to the Staff team
+[2021-09-09 12:07:47] ADMIN: Balaclava has frozen Balaclava
+[2021-09-09 12:07:47] ADMIN: Balaclava has unfrozen Balaclava
+[2021-09-09 12:12:56] Server stopped!
+[2021-09-09 12:12:56] Stopping resources........................................................................
+[2021-09-09 12:12:59] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-09 12:13:00] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]  [DUP x19]
+[2021-09-09 12:13:00] Closing SQLite3 database
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-09 12:28:01] WARNING: Ignoring duplicate client file in resource 'NGmisc': 'archivos/shopliquor_las.txd'
+[2021-09-09 12:28:02] WARNING: Ignoring duplicate client file in resource 'moddownloader': 'mods/skins/csher.txd'
+[2021-09-09 12:28:06] ERROR: Problem with resource: briefcase_bag; Failed to link to bone_attach
+[2021-09-09 12:28:06] ERROR: Not processing resource 'housemysql' as it has duplicates on different paths:
+                  Path #1: "resources\[mapas]\housemysql"
+                  Path #2: "resources\[needed]\housemysql"
+[2021-09-09 12:28:06] Resources: 142 loaded, 1 failed
+[2021-09-09 12:28:07] Starting resources...
+[2021-09-09 12:28:07] Server minclientversion is now 1.5.8-9.20845.0
+[2021-09-09 12:28:07] INFO: Database has been connected
+[2021-09-09 12:28:08] INFO: Checking for NG Gamemode updates 
+[2021-09-09 12:28:08] INFO: Checking for NG Gamemode updates 
+[2021-09-09 12:28:08] INFO: NGGroups: Successfully loaded 0 groups from the sql database (156MS - About infMS/group)
+[2021-09-09 12:28:09] WARNING: NGJobs/criminal/drifter/drift_c.lua(Line 328) [Client] setControlState is deprecated and may not work in future versions. Please replace with setPedControlState.
+[2021-09-09 12:28:09] Some files in 'NGJobs' use deprecated functions.
+[2021-09-09 12:28:09] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:09] ERROR: Couldn't find resource NGLottery. Check it exists.
+[2021-09-09 12:28:09] INFO: Default jail warp location: 1779.45, -1566.41, -3.69
+[2021-09-09 12:28:09] INFO: Admin jail warp location: 1757.65, -1565.21, 1.98
+[2021-09-09 12:28:09] INFO: Release jail warp location: 1543.32, -1675.6, 13.56
+[2021-09-09 12:28:09] INFO: NGTurf: 0 Turfs found -- Generating 20
+[2021-09-09 12:28:10] WARNING: NGVehicles/config.lua(Line 1) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-09 12:28:10] Some files in 'NGVehicles' use deprecated functions.
+[2021-09-09 12:28:10] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:10] ERROR: Couldn't find resource NGVIP. Check it exists.
+[2021-09-09 12:28:10] INFO: ===============================================================================
+[2021-09-09 12:28:10] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2021-09-09 12:28:10] INFO: ===============================================================================
+[2021-09-09 12:28:10] WARNING: [needed]\CVRCapturaelCamion\s_CVRCapturaelCamion.lua:69: Bad argument @ 'startResource' [Expected resource-data at argument 1, got boolean]
+[2021-09-09 12:28:10] ERROR: Couldn't find resource bone_attach. Check it exists.
+[2021-09-09 12:28:10] ERROR: Couldn't find resource guied. Check it exists.
+[2021-09-09 12:28:10] ERROR: Couldn't find resource guirun. Check it exists.
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:1: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:6: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:11: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:13: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:18: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:23: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:42: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:49: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:56: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:63: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] ERROR: [web]\webstats\internal_stats.lua:77: call: failed to call 'webstats:registerStat'
+[2021-09-09 12:28:11] WARNING: File 'skins/hmogar.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/bfypro.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/wmyclot.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/vwmybjd.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/wfyri.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/vwfywa2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/zero.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/dnb2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:11] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
+[2021-09-09 12:28:12] ERROR: adminshout client.lua is invalid. Please re-compile at http://luac.mtasa.com/
+[2021-09-09 12:28:12] ERROR: Couldn't find resource clothessaver. Check it exists.
+[2021-09-09 12:28:12] ERROR: Couldn't find resource housemysql. Check it exists.
+[2021-09-09 12:28:12] ERROR: Couldn't find resource CVRShaders. Check it exists.
+[2021-09-09 12:28:13] WARNING: freecam/freecam.lua(Line 56) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-09-09 12:28:13] Some files in 'freecam' use deprecated functions.
+[2021-09-09 12:28:13] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:13] WARNING: NGslotmachine/slotmachine_s.lua(Line 43) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-09 12:28:13] WARNING: NGslotmachine/slotmachine_c.lua(Line 388) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-09 12:28:13] Some files in 'NGslotmachine' use deprecated functions.
+[2021-09-09 12:28:13] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:13] WARNING: tele_manager/client_Script.lua(Line 88) [Client] setVehicleFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen.
+[2021-09-09 12:28:13] Some files in 'tele_manager' use deprecated functions.
+[2021-09-09 12:28:13] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:13] WARNING: NGmisc/zorra_s.lua(Line 192) [Server] getPlayerOccupiedVehicle is deprecated and may not work in future versions. Please replace with getPedOccupiedVehicle.
+[2021-09-09 12:28:13] WARNING: NGmisc/minigameDM.lua(Line 154) [Server] getPlayerArmor is deprecated and may not work in future versions. Please replace with getPedArmor.
+[2021-09-09 12:28:13] WARNING: NGmisc/minigameDM.lua(Line 159) [Server] setPlayerArmor is deprecated and may not work in future versions. Please replace with setPedArmor.
+[2021-09-09 12:28:13] Some files in 'NGmisc' use deprecated functions.
+[2021-09-09 12:28:13] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:13] WARNING: [needed]\NGmisc\zorra_s.lua:71: Bad argument @ 'attachElements' [Expected element at argument 2, got nil]
+[2021-09-09 12:28:13] ERROR: Unable to start resource briefcase_bag; Failed to link to bone_attach
+[2021-09-09 12:28:14] ERROR: Couldn't find resource NGgreenzones. Check it exists.
+[2021-09-09 12:28:14] WARNING: File 'mods/vehicles/oceanic.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/vehicles/hotring2.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/vehicles/infernus.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/vehicles/wayfarer.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/skins/bfybu.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/skins/sbmost.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/skins/wmoprea.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:14] WARNING: File 'mods/skins/dwmylc1.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:15] WARNING: File 'mods/skins/male01.dff' in resource 'moddownloader' contains errors.
+[2021-09-09 12:28:15] INFO: Checking for Mod Downloader updates 
+[2021-09-09 12:28:19] INFO: [DGS]Config File Loaded!
+[2021-09-09 12:28:19] INFO: [DGS]G2D is enabled!
+[2021-09-09 12:28:20] WARNING: CVRPescadorMinigame <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-09 12:28:20] WARNING: CVRPescadorMinigame requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-09 12:28:20] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-09 12:28:20] Querying MTA master server... success! (Auto detected IP:191.111.17.117)
+[2021-09-09 12:28:20] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-09-09 12:28:20] WARNING: <owner_email_address> not set
+[2021-09-09 12:28:20] Server started and is ready to accept connections!
+[2021-09-09 12:28:20] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-09-09 12:28:20] Type 'help' for a list of commands.
+[2021-09-09 12:28:20] INFO: 
+
+====================================
+[2021-09-09 12:28:20] INFO: 
+
+====================================
+[2021-09-09 12:28:20] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-09 12:28:20] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-09 12:28:20] INFO: ====================================
+[2021-09-09 12:28:20] INFO: ====================================
+[2021-09-09 12:28:20] INFO: = Your version: 1.1.4
+[2021-09-09 12:28:20] INFO: = Your version: 1.1.4
+[2021-09-09 12:28:20] ERROR: [needed]\NGGamemode\ng_verCheck.server.lua:14: attempt to concatenate local 'version' (a nil value)
+[2021-09-09 12:28:20] INFO: ====================================
+[2021-09-09 12:28:20] INFO: = ModDownloader version doesn't match community
+[2021-09-09 12:28:20] INFO: ====================================
+[2021-09-09 12:28:20] INFO: = Your version: 1.2.1
+[2021-09-09 12:28:20] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:1 - Peugeout 205T16 Rally!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:2 - Suzuki Swift!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:3 - Alimentador!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:4 - Carro Perro!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:5 - Ferrari F430!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:6 - Camión de Acarreos!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:7 - Yamaha Ninja!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:8 - Toyota AE85 LEVIN!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:9 - Dodge Charger RT 1970!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:10 - Ford GT 2005!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:11 - Shelby Mustang 1970!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:12 - Bravado GTA V!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:13 - Nissan Skyline R32 GTR!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:14 - Nissan Farlady 300zx!
+[2021-09-09 12:28:20] INFO: Successfully loaded mod #1:15 - Ford Focus ST!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:16 - Lamborghini Countach!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:17 - Trineo de Nieve!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:18 - Mitshubishi Lancer Evo III!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:19 - Yamaha Ninja 2!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:20 - Mazda FC Savanna RX7!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:21 - Toyota Fortuner!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:22 - Camioneta FULL SONIDO KEVIN OCAMPO EDITION!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:23 - Pontiac Trans AM 1970!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:24 - Ferrari F40!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:25 - Mazda FD RX7!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:26 - Chévrolet Impala!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:27 - Maserati Gran Turismo!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:28 - Toyota AE86 Sprinter Trueno GT APEX!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:29 - Lancer Evo X!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:30 - Delorean DMC-12 Time Machine!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:31 - Honda Civic Type R!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:32 - Nissan Skyline R35 LibertyWalk!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:33 - Nissan Skyline R32 Drift!
+[2021-09-09 12:28:21] INFO: Successfully loaded mod #1:34 - Dodge Durango!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:35 - Mini Cooper!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:36 - Rolls Royce Phantom Hamann!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:37 - Mercedes Benz GWagon!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:38 - Suzuki Ax100!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:39 - Chevrolet Camaro Dragster!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:40 - Trailer2!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:41 - Barracks!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:42 - Honda S2000 CVR Edition!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:43 - Mercedes Benz Clase E!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:44 - BMW E30 1986!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:45 - Ambulancia!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:46 - Andromeda!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:47 - Vehiculo Exclusivo Clan GT!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:48 - Chevrolet Old!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:49 - Camioneta PONAL!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:50 - Honda Civic Initial D!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:51 - Hijuebus!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:52 - Camión Postobón!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:53 - Yamaha DT!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:54 - Fiat 80ntero!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:55 - Camión Ejército!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:56 - Honda C90!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:57 - Mitshubishi Montero!
+[2021-09-09 12:28:22] INFO: Successfully loaded mod #1:58 - Yamaha 115!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:59 - Tanqueta ESMAD!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:60 - Harley Davidson!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:61 - Sofá!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:62 - Renault Sandero!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:63 - Cadillac Eldorado Biarritz Convertible 1959!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:64 - Formula1!
+[2021-09-09 12:28:23] INFO: Successfully loaded mod #1:65 - Ferrari LaFerrari!
+[2021-09-09 12:28:24] INFO: Successfully loaded mod #1:66 - Moto Policías!
+[2021-09-09 12:28:24] INFO: Successfully loaded mod #1:67 - Rare Halloween!
+[2021-09-09 12:28:25] INFO: Successfully loaded mod #1:68 - Infernus!
+[2021-09-09 12:28:25] INFO: Successfully loaded mod #1:69 - Renault Logan!
+[2021-09-09 12:28:25] INFO: Successfully loaded mod #1:70 - Toyota Land Cruiser 1990!
+[2021-09-09 12:28:26] INFO: Successfully loaded mod #1:71 - Mazda Miata NB!
+[2021-09-09 12:28:26] INFO: Successfully loaded mod #1:72 - Toyota Land Cruiser (FJ)!
+[2021-09-09 12:28:26] INFO: Successfully loaded mod #1:73 - Jeep!
+[2021-09-09 12:28:26] INFO: Successfully loaded mod #1:74 - Daewoo Van!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:75 - MTB!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:76 - Mazda 626 Millenium!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:77 - Chiva Rumbera!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:78 - Renault 4!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:79 - Chevrolet Elcamino!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:80 - Pizzaboy Rappi!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:81 - Duster Policía!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:82 - Nissan NP300 Policía!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:83 - Nissan Camión Policía!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:84 - Chevrolet Spark!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:85 - Chevrolet Corsa!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:86 - Chevrolet Spark GT!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:87 - Buseta Colombia Shitposting .exe!
+[2021-09-09 12:28:27] INFO: Successfully loaded mod #1:88 - Camión alquería!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:89 - Buseta Bogotana!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:90 - Chevrolet Aveo tunning!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:91 - Zorra!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:92 - Renault 18!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:93 - Chevrolet Spark Taxi!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:94 - Camión Basura Bogotá!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:95 - Yate!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:96 - Nissan Skyline R34 Nur II!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:97 - NMax!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:98 - Nissan Tsuru!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:99 - Toyota Hilux!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:100 - Suzuki Samurai!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:101 - Mazda 3 2005!
+[2021-09-09 12:28:28] INFO: Successfully loaded mod #1:102 - Toyota Prado!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #1:103 - Toyota Supra!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #1:104 - Peugeot 206 Tunning!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #1:105 - BMW M5 E39!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:1 - Militar colombiano!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:2 - Spiderman!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:3 - Takeshi Nakazato!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:4 - Santa Fe barrista 1!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:5 - Miracle girls Fiesta - Kyouko Toshinou!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:6 - Rick grames - TWD!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:7 - Kagamine Len!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:8 - Miyuki takara - Lucky Star!
+[2021-09-09 12:28:29] INFO: Failed to load #2:9 (Motociclista) - txd file not found on server
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:10 - Condorito!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:11 - Eva series 1!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:12 - Burro - Shrek!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:13 - Slenderman!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:14 - GTA Online Random !
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:15 - Colegiala anime!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:16 - vegetta!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:17 - SCP-173!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:18 - Santa marta skin!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:19 - jotaron - jojo's!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:20 - CJ chiquito!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:21 - Limonagrio - Hora de aventura!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:22 - Dio - Jojo's!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:23 - Policia Campesino!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:24 - RE Dead Or Alive 5LR - Honoka C5!
+[2021-09-09 12:28:29] INFO: Failed to load #2:25 (Pablo Escobar) - txd file not found on server
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:26 - Konata - Lucky Star!
+[2021-09-09 12:28:29] INFO: Failed to load #2:27 (Thanos Skin) - txd file not found on server
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:28 - Espia!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:29 - Tomoe Mami - Mahou Shoujo Madoka Magica!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:30 - Skin Caleña - Colombia!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:31 - rey anayami - evangelion!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:32 - Sengoku Otome!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:33 - Shinji - Evangelion!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:34 - Guarda de transito!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:35 - Skin Buhodermia!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:36 - Rin - Love Live!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:37 - Samus Aran Zero Suit - Metroid!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:38 - Ricardo milos!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:39 - Ben10!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:40 - Goofy!
+[2021-09-09 12:28:29] INFO: Successfully loaded mod #2:41 - PoloPolo!
+[2021-09-09 12:28:29] INFO: Failed to load #2:42 (RockyBalboa) - txd file not found on server
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:43 - Franklin GTAV!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:44 - Nico!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:45 - Pony!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:46 - Furro!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:47 - SCP-096!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:48 - Medico!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:49 - Giorno Jojo´s!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:50 - Michael GTAV!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:51 - Mamizou!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:52 - Rem!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:53 - Airi!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:54 - WinniePooh!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:55 - Kurumi!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:56 - Rick!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:57 - Joker!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:58 - Trevor GTAV!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:59 - Truth!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:60 - Asuka!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:61 - LadyBug!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:62 - DonkyKong!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:63 - Tarzan!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:64 - Yandere!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:65 - GataKawaii!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:66 - Yandere 2!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:67 - Kana!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:68 - Ryoko!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:69 - Lala!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:70 - Montana!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:71 - Yandere 3!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:72 - Schwi dola!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:73 - Jhon Week!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:74 - Maestro Halo!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:75 - Nick Wilde Zootopia!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:76 - Roblox!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:77 - Lucario!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:78 - Maduro!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:79 - Naputo !
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:80 - Paul Walker!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:81 - Arthur Morgan!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:82 - Megu!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:83 - Akatsuki1!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:84 - Akatsuki2!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:85 - Akatsuki3!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:86 - Shoto Todoroki!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:87 - Nea Brasileña!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:88 - Akatsuki4!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:89 - Akatsuki5!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:90 - Akatsuki6!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:91 - Akatsuki7!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:92 - Guts!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:93 - Aqua - Konosuba!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:94 - Fata Bloom!
+[2021-09-09 12:28:30] INFO: Successfully loaded mod #2:95 - Skin kpucho!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:96 - Deadpool!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:97 - Deku!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:98 - Goku!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:99 - Shaggy!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:100 - Tommy Vercetti!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:101 - Skin Messi!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:102 - Skin Esmeralda2!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:103 - Skin Esmeralda3!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:104 - Skin Esmeralda5!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:105 - Skin Esmeralda6!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:106 - Skin Esmeralda7!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:107 - Skin Esmeralda8!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:108 - Skin Esmeralda9!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:109 - Skin Esmeralda10!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:110 - Skin Esmeralda11!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:111 - Trunks del Futuro!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:112 - Piccolo!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:113 - Fiona Ogro!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:114 - Takumi!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:115 - Shinohara Miyu Sword Art: Militar!
+[2021-09-09 12:28:31] INFO: Successfully loaded mod #2:116 - Crash Bandicoot!
+[2021-09-09 12:28:37] CONNECT: Balaclava connected (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803  Version: 1.5.8-9.20927.0)
+[2021-09-09 12:28:37] JOIN: Balaclava joined the game (IP: 192.168.1.42)
+[2021-09-09 12:29:06] INFO: modloader server: Player Balaclava requested replacing
+[2021-09-09 12:29:24] ERROR: [needed]\NGSQL\sql.lua:275: exports: Call to non-running server resource (NGVIP) [string "?"]
+[2021-09-09 12:29:24] INFO: NGSQL: Loading BalaclavaAM account data (Player: Balaclava)
+[2021-09-09 12:29:24] INFO: [Logeo] Info de logeo de Balaclava ha sido cargada correctamente
+[2021-09-09 12:29:24] LOGIN: (Everyone, Level 5, Admin, DJ, DevGroup) Balaclava successfully logged in as 'BalaclavaAM' (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803)
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-15 23:42:01] Compacting accounts database 'internal.db' ...
+[2021-09-15 23:42:15] WARNING: Ignoring duplicate client file in resource 'NGmisc': 'archivos/shopliquor_las.txd'
+[2021-09-15 23:42:28] WARNING: Ignoring duplicate client file in resource 'moddownloader': 'mods/skins/csher.txd'
+[2021-09-15 23:42:54] ERROR: Problem with resource: briefcase_bag; Failed to link to bone_attach
+[2021-09-15 23:42:54] ERROR: Not processing resource 'housemysql' as it has duplicates on different paths:
+                  Path #1: "resources\[mapas]\housemysql"
+                  Path #2: "resources\[needed]\housemysql"
+[2021-09-15 23:42:54] Resources: 142 loaded, 1 failed
+[2021-09-15 23:42:54] Compacting database 'registry.db' ...
+[2021-09-15 23:42:55] Starting resources...
+[2021-09-15 23:42:56] Server minclientversion is now 1.5.8-9.20845.0
+[2021-09-15 23:42:59] WARNING: [needed]\NGSQL\sql.lua:5: Bad usage @ 'dbConnect' [Can't connect to MySQL server on '127.0.0.1' (10061)]
+[2021-09-15 23:42:59] INFO: The database has failed to connect
+[2021-09-15 23:42:59] ERROR: [needed]\NGLogs\output.lua:1: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\updates\server_reports.lua:1: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\updates\server_reports.lua:94: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\updates\server_reports.lua:96: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\updates\server_reports.lua:102: attempt to get length of local 'temp' (a boolean value)
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\aManager\aServer.lua:187: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGAdministration\aManager\aServer.lua:818: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGBank\bank_server.lua:134: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGBank\bank_server.lua:135: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGBank\bank_server.lua:137: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGBank\bank_server.lua:138: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-15 23:42:59] ERROR: [needed]\NGBans\bans_server.lua:19: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:42:59] ERROR: [needed]\NGBans\bans_server.lua:21: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:00] INFO: Checking for NG Gamemode updates 
+[2021-09-15 23:43:00] INFO: Checking for NG Gamemode updates 
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:15: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:16: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:17: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:18: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:117: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:00] ERROR: [needed]\NGGroups\group_s.lua:118: bad argument #1 to 'pairs' (table expected, got boolean)
+[2021-09-15 23:43:01] WARNING: NGJobs/criminal/drifter/drift_c.lua(Line 328) [Client] setControlState is deprecated and may not work in future versions. Please replace with setPedControlState.
+[2021-09-15 23:43:01] Some files in 'NGJobs' use deprecated functions.
+[2021-09-15 23:43:01] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:43:01] ERROR: [needed]\NGJobs\core_server.lua:663: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:02] ERROR: Couldn't find resource NGLottery. Check it exists.
+[2021-09-15 23:43:02] INFO: Default jail warp location: 1779.45, -1566.41, -3.69
+[2021-09-15 23:43:02] INFO: Admin jail warp location: 1757.65, -1565.21, 1.98
+[2021-09-15 23:43:02] INFO: Release jail warp location: 1543.32, -1675.6, 13.56
+[2021-09-15 23:43:02] ERROR: [needed]\NGShops\user_shop\user_shop_s.lua:8: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:02] ERROR: [needed]\NGShops\user_shop\user_shop_s.lua:9: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:02] ERROR: [needed]\NGTurf\server.lua:240: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:02] ERROR: [needed]\NGTurf\server.lua:241: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:02] ERROR: [needed]\NGTurf\server.lua:242: attempt to get length of local 'query' (a boolean value)
+[2021-09-15 23:43:02] ERROR: [needed]\NGUsedVehicles\s_used_vehicles.lua:44: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:03] ERROR: [needed]\NGUsedVehicles\s_used_vehicles.lua:46: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:03] WARNING: NGVehicles/config.lua(Line 1) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-15 23:43:03] Some files in 'NGVehicles' use deprecated functions.
+[2021-09-15 23:43:03] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:43:03] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:2: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:03] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:3: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-15 23:43:03] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:753: call: failed to call 'NGSQL:db_query' [string "?"]
+[2021-09-15 23:43:03] ERROR: Couldn't find resource NGVIP. Check it exists.
+[2021-09-15 23:43:03] INFO: ===============================================================================
+[2021-09-15 23:43:03] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2021-09-15 23:43:12] INFO: ===============================================================================
+[2021-09-15 23:43:12] WARNING: [needed]\CVRCapturaelCamion\s_CVRCapturaelCamion.lua:69: Bad argument @ 'startResource' [Expected resource-data at argument 1, got boolean]
+[2021-09-15 23:43:13] ERROR: Couldn't find resource bone_attach. Check it exists.
+[2021-09-15 23:43:13] ERROR: Couldn't find resource guied. Check it exists.
+[2021-09-15 23:43:13] ERROR: Couldn't find resource guirun. Check it exists.
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:1: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:6: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:11: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:13: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:18: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:23: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:42: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:17] ERROR: [web]\webstats\internal_stats.lua:49: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:18] ERROR: [web]\webstats\internal_stats.lua:56: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:18] ERROR: [web]\webstats\internal_stats.lua:63: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:18] ERROR: [web]\webstats\internal_stats.lua:77: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:43:18] WARNING: File 'skins/hmogar.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/bfypro.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/wmyclot.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/vwmybjd.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/wfyri.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/vwfywa2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:19] WARNING: File 'skins/zero.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:20] WARNING: File 'skins/dnb2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:20] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:43:23] ERROR: adminshout client.lua is invalid. Please re-compile at http://luac.mtasa.com/
+[2021-09-15 23:43:24] ERROR: Couldn't find resource clothessaver. Check it exists.
+[2021-09-15 23:43:24] ERROR: Couldn't find resource housemysql. Check it exists.
+[2021-09-15 23:43:25] ERROR: Couldn't find resource CVRShaders. Check it exists.
+[2021-09-15 23:43:30] WARNING: freecam/freecam.lua(Line 56) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-09-15 23:43:30] Some files in 'freecam' use deprecated functions.
+[2021-09-15 23:43:30] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:43:30] WARNING: NGslotmachine/slotmachine_s.lua(Line 43) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-15 23:43:30] WARNING: NGslotmachine/slotmachine_c.lua(Line 388) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-15 23:43:30] Some files in 'NGslotmachine' use deprecated functions.
+[2021-09-15 23:43:30] Use the 'upgrade' command to perform a basic upgrade of resources.
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-15 23:43:46] WARNING: Ignoring duplicate client file in resource 'NGmisc': 'archivos/shopliquor_las.txd'
+[2021-09-15 23:43:49] WARNING: Ignoring duplicate client file in resource 'moddownloader': 'mods/skins/csher.txd'
+[2021-09-15 23:44:01] ERROR: Problem with resource: briefcase_bag; Failed to link to bone_attach
+[2021-09-15 23:44:01] ERROR: Not processing resource 'housemysql' as it has duplicates on different paths:
+                  Path #1: "resources\[mapas]\housemysql"
+                  Path #2: "resources\[needed]\housemysql"
+[2021-09-15 23:44:01] Resources: 142 loaded, 1 failed
+[2021-09-15 23:44:03] Starting resources...
+[2021-09-15 23:44:03] Server minclientversion is now 1.5.8-9.20845.0
+[2021-09-15 23:44:03] INFO: Database has been connected
+[2021-09-15 23:44:04] INFO: Checking for NG Gamemode updates 
+[2021-09-15 23:44:05] INFO: Checking for NG Gamemode updates 
+[2021-09-15 23:44:05] INFO: NGGroups: Successfully loaded 0 groups from the sql database (126MS - About infMS/group)
+[2021-09-15 23:44:05] WARNING: NGJobs/criminal/drifter/drift_c.lua(Line 328) [Client] setControlState is deprecated and may not work in future versions. Please replace with setPedControlState.
+[2021-09-15 23:44:05] Some files in 'NGJobs' use deprecated functions.
+[2021-09-15 23:44:05] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:06] ERROR: Couldn't find resource NGLottery. Check it exists.
+[2021-09-15 23:44:08] INFO: Default jail warp location: 1779.45, -1566.41, -3.69
+[2021-09-15 23:44:08] INFO: Admin jail warp location: 1757.65, -1565.21, 1.98
+[2021-09-15 23:44:08] INFO: Release jail warp location: 1543.32, -1675.6, 13.56
+[2021-09-15 23:44:09] WARNING: NGVehicles/config.lua(Line 1) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-15 23:44:09] Some files in 'NGVehicles' use deprecated functions.
+[2021-09-15 23:44:09] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:09] ERROR: Couldn't find resource NGVIP. Check it exists.
+[2021-09-15 23:44:10] INFO: ===============================================================================
+[2021-09-15 23:44:10] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2021-09-15 23:44:12] INFO: ===============================================================================
+[2021-09-15 23:44:12] WARNING: [needed]\CVRCapturaelCamion\s_CVRCapturaelCamion.lua:69: Bad argument @ 'startResource' [Expected resource-data at argument 1, got boolean]
+[2021-09-15 23:44:12] ERROR: Couldn't find resource bone_attach. Check it exists.
+[2021-09-15 23:44:13] ERROR: Couldn't find resource guied. Check it exists.
+[2021-09-15 23:44:13] ERROR: Couldn't find resource guirun. Check it exists.
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:1: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:6: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:11: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:13: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:18: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:23: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:42: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:49: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:56: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:63: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:14] ERROR: [web]\webstats\internal_stats.lua:77: call: failed to call 'webstats:registerStat'
+[2021-09-15 23:44:15] WARNING: File 'skins/hmogar.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:15] WARNING: File 'skins/bfypro.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:15] WARNING: File 'skins/wmyclot.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:15] WARNING: File 'skins/vwmybjd.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:15] WARNING: File 'skins/wfyri.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:15] WARNING: File 'skins/vwfywa2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:16] WARNING: File 'skins/zero.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:16] WARNING: File 'skins/dnb2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:16] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
+[2021-09-15 23:44:21] ERROR: adminshout client.lua is invalid. Please re-compile at http://luac.mtasa.com/
+[2021-09-15 23:44:21] ERROR: Couldn't find resource clothessaver. Check it exists.
+[2021-09-15 23:44:21] ERROR: Couldn't find resource housemysql. Check it exists.
+[2021-09-15 23:44:22] ERROR: Couldn't find resource CVRShaders. Check it exists.
+[2021-09-15 23:44:26] WARNING: freecam/freecam.lua(Line 56) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState before Tuesday.
+[2021-09-15 23:44:26] Some files in 'freecam' use deprecated functions.
+[2021-09-15 23:44:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:26] WARNING: NGslotmachine/slotmachine_s.lua(Line 43) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2021-09-15 23:44:26] WARNING: NGslotmachine/slotmachine_c.lua(Line 388) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible before Tuesday.
+[2021-09-15 23:44:26] Some files in 'NGslotmachine' use deprecated functions.
+[2021-09-15 23:44:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:26] WARNING: tele_manager/client_Script.lua(Line 88) [Client] setVehicleFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen before Tuesday.
+[2021-09-15 23:44:26] Some files in 'tele_manager' use deprecated functions.
+[2021-09-15 23:44:26] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:27] WARNING: NGmisc/zorra_s.lua(Line 192) [Server] getPlayerOccupiedVehicle is deprecated and may not work in future versions. Please replace with getPedOccupiedVehicle before Tuesday.
+[2021-09-15 23:44:27] WARNING: NGmisc/minigameDM.lua(Line 154) [Server] getPlayerArmor is deprecated and may not work in future versions. Please replace with getPedArmor before Tuesday.
+[2021-09-15 23:44:27] WARNING: NGmisc/minigameDM.lua(Line 159) [Server] setPlayerArmor is deprecated and may not work in future versions. Please replace with setPedArmor before Tuesday.
+[2021-09-15 23:44:27] Some files in 'NGmisc' use deprecated functions.
+[2021-09-15 23:44:27] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:28] WARNING: [needed]\NGmisc\zorra_s.lua:71: Bad argument @ 'attachElements' [Expected element at argument 2, got nil]
+[2021-09-15 23:44:28] ERROR: Unable to start resource briefcase_bag; Failed to link to bone_attach
+[2021-09-15 23:44:29] ERROR: Couldn't find resource NGgreenzones. Check it exists.
+[2021-09-15 23:44:30] WARNING: File 'mods/vehicles/oceanic.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:30] WARNING: File 'mods/vehicles/hotring2.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:30] WARNING: File 'mods/vehicles/infernus.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/vehicles/wayfarer.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/skins/bfybu.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/skins/sbmost.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/skins/wmoprea.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/skins/dwmylc1.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] WARNING: File 'mods/skins/male01.dff' in resource 'moddownloader' contains errors.
+[2021-09-15 23:44:31] INFO: Checking for Mod Downloader updates 
+[2021-09-15 23:44:44] INFO: [DGS]Config File Loaded!
+[2021-09-15 23:44:44] INFO: [DGS]G2D is enabled!
+[2021-09-15 23:44:45] WARNING: CVRPescadorMinigame <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-15 23:44:45] WARNING: CVRPescadorMinigame requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-15 23:44:45] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-15 23:44:45] Querying MTA master server... success! (Auto detected IP:191.111.28.20)
+[2021-09-15 23:44:45] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-09-15 23:44:45] WARNING: <owner_email_address> not set
+[2021-09-15 23:44:45] Server started and is ready to accept connections!
+[2021-09-15 23:44:45] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-09-15 23:44:45] Type 'help' for a list of commands.
+[2021-09-15 23:44:45] INFO: 
+
+====================================
+[2021-09-15 23:44:45] INFO: 
+
+====================================
+[2021-09-15 23:44:45] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-15 23:44:45] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-15 23:44:45] INFO: ====================================
+[2021-09-15 23:44:45] INFO: ====================================
+[2021-09-15 23:44:45] INFO: = Your version: 1.1.4
+[2021-09-15 23:44:45] INFO: = Your version: 1.1.4
+[2021-09-15 23:44:45] ERROR: [needed]\NGGamemode\ng_verCheck.server.lua:14: attempt to concatenate local 'version' (a nil value)
+[2021-09-15 23:44:45] INFO: ====================================
+[2021-09-15 23:44:45] INFO: = ModDownloader version doesn't match community
+[2021-09-15 23:44:45] INFO: ====================================
+[2021-09-15 23:44:45] INFO: = Your version: 1.2.1
+[2021-09-15 23:44:45] ERROR: [needed]\moddownloader\server\sUpdater.lua:15: attempt to concatenate local 'version' (a nil value)
+[2021-09-15 23:44:47] INFO: Successfully loaded mod #1:1 - Peugeout 205T16 Rally!
+[2021-09-15 23:44:47] INFO: Successfully loaded mod #1:2 - Suzuki Swift!
+[2021-09-15 23:44:47] INFO: Successfully loaded mod #1:3 - Alimentador!
+[2021-09-15 23:44:47] INFO: Successfully loaded mod #1:4 - Carro Perro!
+[2021-09-15 23:44:47] INFO: Successfully loaded mod #1:5 - Ferrari F430!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:6 - Camión de Acarreos!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:7 - Yamaha Ninja!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:8 - Toyota AE85 LEVIN!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:9 - Dodge Charger RT 1970!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:10 - Ford GT 2005!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:11 - Shelby Mustang 1970!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:12 - Bravado GTA V!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:13 - Nissan Skyline R32 GTR!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:14 - Nissan Farlady 300zx!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:15 - Ford Focus ST!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:16 - Lamborghini Countach!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:17 - Trineo de Nieve!
+[2021-09-15 23:44:48] INFO: Successfully loaded mod #1:18 - Mitshubishi Lancer Evo III!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:19 - Yamaha Ninja 2!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:20 - Mazda FC Savanna RX7!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:21 - Toyota Fortuner!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:22 - Camioneta FULL SONIDO KEVIN OCAMPO EDITION!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:23 - Pontiac Trans AM 1970!
+[2021-09-15 23:44:49] INFO: Successfully loaded mod #1:24 - Ferrari F40!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:25 - Mazda FD RX7!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:26 - Chévrolet Impala!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:27 - Maserati Gran Turismo!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:28 - Toyota AE86 Sprinter Trueno GT APEX!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:29 - Lancer Evo X!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:30 - Delorean DMC-12 Time Machine!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:31 - Honda Civic Type R!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:32 - Nissan Skyline R35 LibertyWalk!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:33 - Nissan Skyline R32 Drift!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:34 - Dodge Durango!
+[2021-09-15 23:44:50] INFO: Successfully loaded mod #1:35 - Mini Cooper!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:36 - Rolls Royce Phantom Hamann!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:37 - Mercedes Benz GWagon!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:38 - Suzuki Ax100!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:39 - Chevrolet Camaro Dragster!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:40 - Trailer2!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:41 - Barracks!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:42 - Honda S2000 CVR Edition!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:43 - Mercedes Benz Clase E!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:44 - BMW E30 1986!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:45 - Ambulancia!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:46 - Andromeda!
+[2021-09-15 23:44:51] INFO: Successfully loaded mod #1:47 - Vehiculo Exclusivo Clan GT!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:48 - Chevrolet Old!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:49 - Camioneta PONAL!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:50 - Honda Civic Initial D!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:51 - Hijuebus!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:52 - Camión Postobón!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:53 - Yamaha DT!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:54 - Fiat 80ntero!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:55 - Camión Ejército!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:56 - Honda C90!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:57 - Mitshubishi Montero!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:58 - Yamaha 115!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:59 - Tanqueta ESMAD!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:60 - Harley Davidson!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:61 - Sofá!
+[2021-09-15 23:44:52] INFO: Successfully loaded mod #1:62 - Renault Sandero!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:63 - Cadillac Eldorado Biarritz Convertible 1959!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:64 - Formula1!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:65 - Ferrari LaFerrari!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:66 - Moto Policías!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:67 - Rare Halloween!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:68 - Infernus!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:69 - Renault Logan!
+[2021-09-15 23:44:53] INFO: Successfully loaded mod #1:70 - Toyota Land Cruiser 1990!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:71 - Mazda Miata NB!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:72 - Toyota Land Cruiser (FJ)!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:73 - Jeep!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:74 - Daewoo Van!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:75 - MTB!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:76 - Mazda 626 Millenium!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:77 - Chiva Rumbera!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:78 - Renault 4!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:79 - Chevrolet Elcamino!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:80 - Pizzaboy Rappi!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:81 - Duster Policía!
+[2021-09-15 23:44:54] INFO: Successfully loaded mod #1:82 - Nissan NP300 Policía!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:83 - Nissan Camión Policía!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:84 - Chevrolet Spark!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:85 - Chevrolet Corsa!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:86 - Chevrolet Spark GT!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:87 - Buseta Colombia Shitposting .exe!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:88 - Camión alquería!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:89 - Buseta Bogotana!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:90 - Chevrolet Aveo tunning!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:91 - Zorra!
+[2021-09-15 23:44:55] INFO: Successfully loaded mod #1:92 - Renault 18!
+[2021-09-15 23:44:56] INFO: Successfully loaded mod #1:93 - Chevrolet Spark Taxi!
+[2021-09-15 23:44:56] INFO: Successfully loaded mod #1:94 - Camión Basura Bogotá!
+[2021-09-15 23:44:56] INFO: Successfully loaded mod #1:95 - Yate!
+[2021-09-15 23:44:57] INFO: Successfully loaded mod #1:96 - Nissan Skyline R34 Nur II!
+[2021-09-15 23:44:58] INFO: Successfully loaded mod #1:97 - NMax!
+[2021-09-15 23:44:58] INFO: Successfully loaded mod #1:98 - Nissan Tsuru!
+[2021-09-15 23:44:58] INFO: Successfully loaded mod #1:99 - Toyota Hilux!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:100 - Suzuki Samurai!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:101 - Mazda 3 2005!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:102 - Toyota Prado!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:103 - Toyota Supra!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:104 - Peugeot 206 Tunning!
+[2021-09-15 23:44:59] INFO: Successfully loaded mod #1:105 - BMW M5 E39!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:1 - Militar colombiano!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:2 - Spiderman!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:3 - Takeshi Nakazato!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:4 - Santa Fe barrista 1!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:5 - Miracle girls Fiesta - Kyouko Toshinou!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:6 - Rick grames - TWD!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:7 - Kagamine Len!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:8 - Miyuki takara - Lucky Star!
+[2021-09-15 23:45:00] INFO: Failed to load #2:9 (Motociclista) - txd file not found on server
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:10 - Condorito!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:11 - Eva series 1!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:12 - Burro - Shrek!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:13 - Slenderman!
+[2021-09-15 23:45:00] INFO: Successfully loaded mod #2:14 - GTA Online Random !
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:15 - Colegiala anime!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:16 - vegetta!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:17 - SCP-173!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:18 - Santa marta skin!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:19 - jotaron - jojo's!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:20 - CJ chiquito!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:21 - Limonagrio - Hora de aventura!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:22 - Dio - Jojo's!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:23 - Policia Campesino!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:24 - RE Dead Or Alive 5LR - Honoka C5!
+[2021-09-15 23:45:01] INFO: Failed to load #2:25 (Pablo Escobar) - txd file not found on server
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:26 - Konata - Lucky Star!
+[2021-09-15 23:45:01] INFO: Failed to load #2:27 (Thanos Skin) - txd file not found on server
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:28 - Espia!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:29 - Tomoe Mami - Mahou Shoujo Madoka Magica!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:30 - Skin Caleña - Colombia!
+[2021-09-15 23:45:01] INFO: Successfully loaded mod #2:31 - rey anayami - evangelion!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:32 - Sengoku Otome!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:33 - Shinji - Evangelion!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:34 - Guarda de transito!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:35 - Skin Buhodermia!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:36 - Rin - Love Live!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:37 - Samus Aran Zero Suit - Metroid!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:38 - Ricardo milos!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:39 - Ben10!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:40 - Goofy!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:41 - PoloPolo!
+[2021-09-15 23:45:02] INFO: Failed to load #2:42 (RockyBalboa) - txd file not found on server
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:43 - Franklin GTAV!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:44 - Nico!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:45 - Pony!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:46 - Furro!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:47 - SCP-096!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:48 - Medico!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:49 - Giorno Jojo´s!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:50 - Michael GTAV!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:51 - Mamizou!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:52 - Rem!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:53 - Airi!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:54 - WinniePooh!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:55 - Kurumi!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:56 - Rick!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:57 - Joker!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:58 - Trevor GTAV!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:59 - Truth!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:60 - Asuka!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:61 - LadyBug!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:62 - DonkyKong!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:63 - Tarzan!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:64 - Yandere!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:65 - GataKawaii!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:66 - Yandere 2!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:67 - Kana!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:68 - Ryoko!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:69 - Lala!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:70 - Montana!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:71 - Yandere 3!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:72 - Schwi dola!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:73 - Jhon Week!
+[2021-09-15 23:45:02] INFO: Successfully loaded mod #2:74 - Maestro Halo!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:75 - Nick Wilde Zootopia!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:76 - Roblox!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:77 - Lucario!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:78 - Maduro!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:79 - Naputo !
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:80 - Paul Walker!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:81 - Arthur Morgan!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:82 - Megu!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:83 - Akatsuki1!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:84 - Akatsuki2!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:85 - Akatsuki3!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:86 - Shoto Todoroki!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:87 - Nea Brasileña!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:88 - Akatsuki4!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:89 - Akatsuki5!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:90 - Akatsuki6!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:91 - Akatsuki7!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:92 - Guts!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:93 - Aqua - Konosuba!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:94 - Fata Bloom!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:95 - Skin kpucho!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:96 - Deadpool!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:97 - Deku!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:98 - Goku!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:99 - Shaggy!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:100 - Tommy Vercetti!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:101 - Skin Messi!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:102 - Skin Esmeralda2!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:103 - Skin Esmeralda3!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:104 - Skin Esmeralda5!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:105 - Skin Esmeralda6!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:106 - Skin Esmeralda7!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:107 - Skin Esmeralda8!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:108 - Skin Esmeralda9!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:109 - Skin Esmeralda10!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:110 - Skin Esmeralda11!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:111 - Trunks del Futuro!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:112 - Piccolo!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:113 - Fiona Ogro!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:114 - Takumi!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:115 - Shinohara Miyu Sword Art: Militar!
+[2021-09-15 23:45:03] INFO: Successfully loaded mod #2:116 - Crash Bandicoot!

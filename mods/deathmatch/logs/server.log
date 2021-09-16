@@ -4459,3 +4459,9 @@
 [2021-09-16 02:16:00] INFO: Successfully loaded mod #2:115 - Shinohara Miyu Sword Art: Militar!
 [2021-09-16 02:16:00] INFO: Successfully loaded mod #2:116 - Crash Bandicoot!
 [2021-09-16 02:17:00] SCRIPT: Balaclava(BalaclavaAM) set their script debug mode to 3
+[2021-09-16 02:18:35] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-16 02:18:35] Server stopped!
+[2021-09-16 02:18:35] Stopping resources........................................................................
+[2021-09-16 02:18:36] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
+[2021-09-16 02:19:27] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]  [DUP x19]
+[2021-09-16 02:19:27] WARNING: dbPoll is waiting a long time (60 seconds so far). [Query: ]

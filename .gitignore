@@ -5,3 +5,4 @@ mods/deathmatch/resources/[needed]/NGLogs/logs/*
 mods/deathmatch/databases/system/stats.db
 mods/deathmatch/logs/server.log
 *.csv
+*.log

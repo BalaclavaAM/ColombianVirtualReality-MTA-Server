@@ -2431,3 +2431,8 @@
 [2021-09-16 01:35:42] INFO: NGSQL: Loading BalaclavaAM account data (Player: Balaclava)
 [2021-09-16 01:35:42] INFO: [Logeo] Info de logeo de Balaclava ha sido cargada correctamente
 [2021-09-16 01:35:42] LOGIN: (Everyone, Level 5, Admin, DJ, DevGroup) Balaclava successfully logged in as 'BalaclavaAM' (IP: 192.168.1.42  Serial: ED7B7DD42BFCF08F76BBA473D1943803)
+[2021-09-16 01:38:43] New resource 'NGVIP' loaded
+[2021-09-16 01:38:43] Resources: 146 loaded, 0 failed
+[2021-09-16 01:38:44] start: Requested by Console
+[2021-09-16 01:38:44] Starting NGVIP
+[2021-09-16 01:38:44] start: Resource 'ngvip' started

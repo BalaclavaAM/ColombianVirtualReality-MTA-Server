@@ -2,3 +2,4 @@
 *.db
 mods/deathmatch/resources/[needed]/NGLogs/logs/action/2021-09-15.txt
 *.txt
+mods/deathmatch/databases/system/stats.db

@@ -941,3 +941,38 @@ function removeCC(oldNick,newNickname)
 end 
 addEventHandler("onPlayerJoin",getRootElement(),removeCC) 
 addEventHandler("onPlayerChangeNick",getRootElement(),removeCC) 
+
+
+--[[
+	Eliminación de cuentas
+]]
+
+function deleteAccountFromPlayer(p,_,accountName)
+	if ( getPlayerStaffLevel ( p, 'int' ) >= 4 ) then
+		if (accountName) then
+			if (getAccount(accountName)) then
+				exports['NGSQL']:db_exec("DELETE FROM accountdata WHERE Username=?",accountName)
+				outputChatBox("Cuenta borrada",p,255,255)
+				exports['NGSQL']:db_exec("DELETE FROM vehicles WHERE Owner=?",accountName)
+				outputChatBox("Vehículos borrados",p,255,255)
+				exports['NGSQL']:db_exec("DELETE FROM used_vehicles WHERE seller=?",accountName)
+				outputChatBox("Vehículos usados borrados",p,255,255)
+				exports['NGSQL']:db_exec("DELETE FROM jobdata WHERE Username=?",accountName)
+				outputChatBox("Información de trabajos borrada",p,255,255)
+				exports['NGSQL']:db_exec("UPDATE houses SET OWNER='no-one' WHERE OWNER=?",accountName)
+				outputChatBox("Casas de la cuenta desasignadas",p,255,255)
+				exports['NGSQL']:db_exec("DELETE FROM bank_accounts WHERE Account=?",accountName)
+				outputChatBox("Cuenta bancaria borrada",p,255,255)
+				removeAccount_(getAccount(accountName)) 
+				outputChatBox("Cuenta en general borrada",p,255,255,0)
+			else
+				outputChatBox("La cuenta "..accountName.." no existe...",p,255,0,0)
+			end
+		else
+			outputChatBox("Sintaxis: /borrarcuenta cuenta",p,255,0,0)
+		end
+	else
+		outputChatBox("Tienes que ser nivel 4 o más para ejecutar este comando",p,255,0,0)
+	end
+end
+addCommandHandler("borrarcuenta",deleteAccountFromPlayer)

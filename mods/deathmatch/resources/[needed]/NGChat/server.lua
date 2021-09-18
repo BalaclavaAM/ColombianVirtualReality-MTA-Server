@@ -513,7 +513,7 @@ function getPlayerTags (p )
 			tags= tags.."#00FFFF"
 		end
 		if team == "Unemployed" then
-			tags= tags.."#FF5C00"
+			tags= tags.."#A10576"
 		end
 		if team == "Fuerzas Armadas" then
 			tags= tags.."#00FF00"
@@ -536,7 +536,7 @@ function getPlayerTags (p )
 			tags= tags.."#00FFFF"
 		end
 		if team == "Unemployed" then
-			tags= tags.."#FF5C00"
+			tags= tags.."#A10576"
 		end
 		if team == "Fuerzas Armadas" then
 			tags= tags.."#00FF00"
@@ -565,7 +565,7 @@ function getPlayerTags (p )
 			tags= tags.."#00FFFF"
 		end
 		if team == "Unemployed" then
-			tags= tags.."#FF5C00"
+			tags= tags.."#A10576"
 		end
 		if team == "Fuerzas Armadas" then
 			tags= tags.."#00FF00"
@@ -588,7 +588,7 @@ function getPlayerTags (p )
 			tags= tags.."#00FFFF"
 		end
 		if team == "Unemployed" then
-			tags= tags.."#FF5C00"
+			tags= tags.."#A10576"
 		end
 		if team == "Fuerzas Armadas" then
 			tags= tags.."#00FF00"
@@ -611,7 +611,7 @@ function getPlayerTags (p )
 				tags= tags.."#00FFFF"
 			end
 			if team == "Unemployed" then
-				tags= tags.."#FF5C00"
+				tags= tags.."#A10576"
 			end
 			if team == "Fuerzas Armadas" then
 				tags= tags.."#00FF00"

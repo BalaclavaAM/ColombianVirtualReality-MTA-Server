@@ -4,7 +4,7 @@ local teams = {
 	{ "Law Enforcement", 0, 100, 255 },
 	{ "Services", 255, 255, 0 },
 	{ "Emergency", 0, 255, 255 },
-	{ "Unemployed", 255, 92, 0 },
+	{ "Unemployed", 160, 5, 118 },
 	{ "Fuerzas Armadas", 0, 255, 0 }
 }
 

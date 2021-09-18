@@ -177,8 +177,8 @@ setTimer ( function ( )
 	-- Prevent fake staff
 	---------------------------------
 	addEventHandler ( "onPlayerChangeNick", root, function ( o, n )
-		if ( string.sub ( n, 0, 4 ):upper ( ) == "[NG]" and not exports.NGAdministration:isPlayerStaff ( source ) ) then
-			exports.NGMessages:sendClientMessage ( "You cannot have the [NG] tag, as for you're not a staff member", source, 255, 0, 0 )
+		if ( string.sub ( n, 0, 4 ):upper ( ) == "|CVR|" and not exports.NGAdministration:isPlayerStaff ( source ) ) then
+			exports.NGMessages:sendClientMessage ( "No se ponga el tag |CVR|, usted no es un miembro de la administración", source, 255, 0, 0 )
 			cancelEvent ( )
 			return
 		end

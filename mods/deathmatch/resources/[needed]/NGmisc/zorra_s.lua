@@ -249,3 +249,10 @@ function createJobPickup ( x, y, z, id, jobs )
     end )
 end
 createJobPickup ( 1571.09, -1635.52, 13.55, 3, { "Police Officer", "Detective" } )
+
+
+function kickPingHigh(reason)
+	kickPlayer(source,"Consola",reason)
+end
+addEvent("NGmisc:kickServer",true)
+addEventHandler("NGmisc:kickServer",root,kickPingHigh)

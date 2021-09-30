@@ -5470,3 +5470,162 @@
 [2021-09-30 17:28:33] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
 [2021-09-30 17:28:33] INFO: NGSQL: Creating account AshTheLynx2 for player ASH (Serial: B64EBB703CC406EC0132A1139407A6A1 || IP: 192.168.1.6)
 [2021-09-30 17:28:33] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1062) Duplicate entry 'AshTheLynx2' for key 'PRIMARY'
+[2021-09-30 17:30:44] WARNING: [no_ng_tag]\admin\server\admin_servermaps.lua:18: Bad argument @ 'call' [Expected resource-data at argument 1, got boolean]
+[2021-09-30 17:30:44] ERROR: [no_ng_tag]\admin\server\admin_servermaps.lua:19: bad argument #1 to 'ipairs' (table expected, got boolean)
+[2021-09-30 17:33:16] ADMIN: ASH has set ASH's money to 999999999
+[2021-09-30 17:33:20] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:109: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:20] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:29: Bad argument @ 'setElementPosition' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:20] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:30: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:20] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:31: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-09-30 17:33:20] ERROR: [needed]\NGVehicles\vehicles\shops_s.lua:32: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:20] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-30 17:33:26] SCRIPT: ASH(AshTheLynx2) set their script debug mode to 3
+[2021-09-30 17:33:35] WARNING: [needed]\NGVehicles\vehicles\vehicles_s.lua:109: Bad argument @ 'getElementData' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:35] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:29: Bad argument @ 'setElementPosition' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:35] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:30: Bad argument @ 'setElementRotation' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:35] WARNING: [needed]\NGVehicles\vehicles\shops_s.lua:31: Bad argument @ 'warpPedIntoVehicle' [Expected vehicle at argument 2, got nil]
+[2021-09-30 17:33:35] ERROR: [needed]\NGVehicles\vehicles\shops_s.lua:32: Bad argument @ 'setElementData' [Expected element at argument 1, got nil]
+[2021-09-30 17:33:35] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1054) Unknown column 'tunningInfo' in 'field list'
+[2021-09-30 17:35:03] INFO: MATEMÁTICAS: Pregunta 51 - 33 + 6304 ha sido generada con una respueta de 6322
+[2021-09-30 17:40:19] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-09-30 17:41:20] QUIT: ASH left the game [Quit]
+[2021-09-30 17:41:23] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-30 17:41:58] CONNECT: ASH connected (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20957.0)
+[2021-09-30 17:41:59] JOIN: ASH joined the game (IP: 192.168.1.6)
+[2021-09-30 17:42:28] INFO: modloader server: Player ASH requested replacing
+[2021-09-30 17:43:22] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-30 17:43:22] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-30 17:43:22] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-30 17:43:55] QUIT: ASH left the game [Quit]
+[2021-09-30 17:43:55] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-30 17:44:28] CONNECT: ASH connected (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20957.0)
+[2021-09-30 17:44:30] JOIN: ASH joined the game (IP: 192.168.1.6)
+[2021-09-30 17:45:11] INFO: modloader server: Player ASH requested replacing
+[2021-09-30 17:45:50] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-30 17:45:50] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-30 17:45:51] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-30 17:50:03] INFO: MATEMÁTICAS: Pregunta 73 - 21 + 5251 ha sido generada con una respueta de 5303
+[2021-09-30 17:52:11] ADMIN: Resource 'NGModshop' restarted by ASH(AshTheLynx2)
+[2021-09-30 17:52:11] Stopping NGModshop
+[2021-09-30 17:52:16] Resource 'NGModshop' changed, reloading and starting
+[2021-09-30 17:52:17] Starting NGModshop
+[2021-09-30 17:52:17] NGModshop restarted successfully
+[2021-09-30 17:52:28] ADMIN: Resource 'NGModshop' restarted by ASH(AshTheLynx2)
+[2021-09-30 17:52:28] Stopping NGModshop
+[2021-09-30 17:52:29] Resource 'NGModshop' changed, reloading and starting
+[2021-09-30 17:52:30] Starting NGModshop
+[2021-09-30 17:52:31] NGModshop restarted successfully
+[2021-09-30 17:52:35] SCRIPT: ASH(AshTheLynx2) set their script debug mode to 3
+[2021-09-30 17:53:04] ADMIN: Resource 'NGModshop' restarted by ASH(AshTheLynx2)
+[2021-09-30 17:53:04] Stopping NGModshop
+[2021-09-30 17:53:05] Resource 'NGModshop' changed, reloading and starting
+[2021-09-30 17:53:05] Starting NGModshop
+[2021-09-30 17:53:06] NGModshop restarted successfully
+[2021-09-30 17:53:48] ADMIN: Resource 'NGModshop' restarted by ASH(AshTheLynx2)
+[2021-09-30 17:53:48] Stopping NGModshop
+[2021-09-30 17:53:51] Resource 'NGModshop' changed, reloading and starting
+[2021-09-30 17:53:51] Starting NGModshop
+[2021-09-30 17:53:52] NGModshop restarted successfully
+[2021-09-30 18:02:14] ADMIN: Resource 'NGModshop' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:02:15] Stopping NGModshop
+[2021-09-30 18:02:17] Resource 'NGModshop' changed, reloading and starting
+[2021-09-30 18:02:18] Starting NGModshop
+[2021-09-30 18:02:22] NGModshop restarted successfully
+[2021-09-30 18:02:39] ADMIN: Resource 'NGModshop' stopped by ASH(AshTheLynx2)
+[2021-09-30 18:02:39] Stopping NGModshop
+[2021-09-30 18:02:52] Starting NGModshop
+[2021-09-30 18:02:52] startResource: Resource 'NGModshop' started
+[2021-09-30 18:02:52] ADMIN: Resource 'NGModshop' started by ASH(AshTheLynx2)
+[2021-09-30 18:03:00] ADMIN: Resource 'NGModshop' stopped by ASH(AshTheLynx2)
+[2021-09-30 18:03:00] Stopping NGModshop
+[2021-09-30 18:03:17] QUIT: ASH left the game [Quit]
+[2021-09-30 18:03:17] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-30 18:03:31] CONNECT: ASH connected (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20957.0)
+[2021-09-30 18:03:32] JOIN: ASH joined the game (IP: 192.168.1.6)
+[2021-09-30 18:04:16] INFO: modloader server: Player ASH requested replacing
+[2021-09-30 18:04:48] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-30 18:04:48] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-30 18:04:48] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-30 18:04:56] SCRIPT: ASH(AshTheLynx2) set their script debug mode to 3
+[2021-09-30 18:05:03] INFO: MATEMÁTICAS: Pregunta 60 - 23 + 1012 ha sido generada con una respueta de 1049
+[2021-09-30 18:05:53] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:05:53] Stopping NGPhone
+[2021-09-30 18:05:54] Starting NGPhone
+[2021-09-30 18:05:54] NGPhone restarted successfully
+[2021-09-30 18:13:19] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:13:19] Stopping NGPhone
+[2021-09-30 18:13:20] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:13:20] Starting NGPhone
+[2021-09-30 18:13:20] NGPhone restarted successfully
+[2021-09-30 18:13:40] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:13:40] Stopping NGPhone
+[2021-09-30 18:13:40] Starting NGPhone
+[2021-09-30 18:13:41] NGPhone restarted successfully
+[2021-09-30 18:15:22] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:15:22] Stopping NGPhone
+[2021-09-30 18:15:23] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:15:23] Starting NGPhone
+[2021-09-30 18:15:23] NGPhone restarted successfully
+[2021-09-30 18:15:36] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:15:36] Stopping NGPhone
+[2021-09-30 18:15:38] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:15:39] Starting NGPhone
+[2021-09-30 18:15:39] NGPhone restarted successfully
+[2021-09-30 18:19:38] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:19:38] Stopping NGPhone
+[2021-09-30 18:19:41] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:19:44] Starting NGPhone
+[2021-09-30 18:19:44] NGPhone restarted successfully
+[2021-09-30 18:20:03] INFO: MATEMÁTICAS: Pregunta 67 - 26 + 5623 ha sido generada con una respueta de 5664
+[2021-09-30 18:20:03] INFO: Enviando dinero VIP....
+[2021-09-30 18:20:03] INFO: Enviando dinero VIP
+[2021-09-30 18:20:19] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:20:19] Stopping NGPhone
+[2021-09-30 18:20:21] Starting NGPhone
+[2021-09-30 18:20:21] NGPhone restarted successfully
+[2021-09-30 18:21:37] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:21:37] Stopping NGPhone
+[2021-09-30 18:21:38] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:21:39] Starting NGPhone
+[2021-09-30 18:21:39] NGPhone restarted successfully
+[2021-09-30 18:22:26] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:22:26] Stopping NGPhone
+[2021-09-30 18:22:27] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:22:27] Starting NGPhone
+[2021-09-30 18:22:27] NGPhone restarted successfully
+[2021-09-30 18:24:01] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:24:01] Stopping NGPhone
+[2021-09-30 18:24:02] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:24:02] Starting NGPhone
+[2021-09-30 18:24:03] NGPhone restarted successfully
+[2021-09-30 18:24:16] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:24:16] Stopping NGPhone
+[2021-09-30 18:24:16] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:24:17] Starting NGPhone
+[2021-09-30 18:24:17] NGPhone restarted successfully
+[2021-09-30 18:24:36] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:24:36] Stopping NGPhone
+[2021-09-30 18:24:39] Starting NGPhone
+[2021-09-30 18:24:39] NGPhone restarted successfully
+[2021-09-30 18:25:42] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:25:42] Stopping NGPhone
+[2021-09-30 18:25:43] Resource 'NGPhone' changed, reloading and starting
+[2021-09-30 18:25:43] Starting NGPhone
+[2021-09-30 18:25:44] NGPhone restarted successfully
+[2021-09-30 18:26:05] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:26:05] Stopping NGPhone
+[2021-09-30 18:26:07] Starting NGPhone
+[2021-09-30 18:26:07] NGPhone restarted successfully
+[2021-09-30 18:26:39] ADMIN: Resource 'NGPhone' stopped by ASH(AshTheLynx2)
+[2021-09-30 18:26:39] Stopping NGPhone
+[2021-09-30 18:27:01] Starting NGPhone
+[2021-09-30 18:27:01] startResource: Resource 'NGPhone' started
+[2021-09-30 18:27:01] ADMIN: Resource 'NGPhone' started by ASH(AshTheLynx2)
+[2021-09-30 18:27:41] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:27:41] Stopping NGPhone
+[2021-09-30 18:27:46] Starting NGPhone
+[2021-09-30 18:27:46] NGPhone restarted successfully
+[2021-09-30 18:28:02] ADMIN: Resource 'NGPhone' restarted by ASH(AshTheLynx2)
+[2021-09-30 18:28:02] Stopping NGPhone
+[2021-09-30 18:28:04] Starting NGPhone
+[2021-09-30 18:28:04] NGPhone restarted successfully

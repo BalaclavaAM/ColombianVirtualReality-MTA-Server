@@ -194,7 +194,7 @@ end
 function calcularCoordsCercanas(zona,x,y,z)
 	local nx,ny = x,y
 	local iteraciones=0
-	while (getDistanceBetweenPoints2D(nx,ny,x,y)<6.0 or isInsideColShape(zona,nx,ny,z)) do
+	while (getDistanceBetweenPoints2D(nx,ny,x,y)<6.0 or isInsideColShape(zona,nx,ny,z) or isLineOfSightClear(x,y,z,nx,ny,z,true,false)==false) do
 		local xd=math.random(0,1)
 		if xd==0 then
 			nx=x+math.random(-5,5)

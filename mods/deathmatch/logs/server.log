@@ -4465,3 +4465,17 @@
 [2021-09-16 02:18:36] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]
 [2021-09-16 02:19:27] ERROR: [needed]\NGTurf\server.lua:234: call: failed to call 'NGSQL:db_exec' [string "?"]  [DUP x19]
 [2021-09-16 02:19:27] WARNING: dbPoll is waiting a long time (60 seconds so far). [Query: ]
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-30 17:18:22] Compacting accounts database 'internal.db' ...

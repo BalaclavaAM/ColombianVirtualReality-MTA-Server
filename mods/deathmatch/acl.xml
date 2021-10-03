@@ -204,6 +204,7 @@
     <group name="DevGroup">
         <acl name="DevACL"></acl>
         <object name="user.BalaclavaAM"></object>
+        <object name="user.AshTheLynx2"></object>
         <object name="resource.CVRInteractionMenu"></object>
     </group>
     <acl name="Default">

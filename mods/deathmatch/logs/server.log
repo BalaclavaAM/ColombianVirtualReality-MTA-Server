@@ -7742,3 +7742,107 @@
 [2021-10-03 13:10:19] Resource 'NGgreenzones' changed, reloading and starting
 [2021-10-03 13:10:19] Starting NGgreenzones
 [2021-10-03 13:10:19] NGgreenzones restarted successfully
+[2021-10-03 13:11:42] INFO: MATEMÁTICAS: Pregunta 54 - 31 + 7018 ha sido generada con una respueta de 7041
+[2021-10-03 13:11:42] INFO: Enviando dinero VIP....
+[2021-10-03 13:11:42] INFO: Enviando dinero VIP
+[2021-10-03 13:11:42] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:11:42] Stopping NGgreenzones
+[2021-10-03 13:11:43] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:11:43] Starting NGgreenzones
+[2021-10-03 13:11:43] NGgreenzones restarted successfully
+[2021-10-03 13:11:44] WARNING: [no_ng_tag]\NGgreenzones\server.lua:169: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:11:44] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to perform arithmetic on field '?' (a nil value)
+[2021-10-03 13:12:04] CONNECT: ASH2 connected (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193  Version: 1.5.8-9.20957.0)
+[2021-10-03 13:12:05] JOIN: ASH2 joined the game (IP: 192.168.1.7)
+[2021-10-03 13:12:36] INFO: modloader server: Player ASH2 requested replacing
+[2021-10-03 13:13:45] INFO: NGSQL: Loading AshTheLynx3 account data (Player: ASH2)
+[2021-10-03 13:13:45] INFO: [Logeo] Info de logeo de ASH2 ha sido cargada correctamente
+[2021-10-03 13:13:45] LOGIN: (Everyone) ASH2 successfully logged in as 'AshTheLynx3' (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 13:14:29] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:14:29] Stopping NGgreenzones
+[2021-10-03 13:14:30] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:14:30] Starting NGgreenzones
+[2021-10-03 13:14:30] NGgreenzones restarted successfully
+[2021-10-03 13:17:42] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:17:42] Stopping NGgreenzones
+[2021-10-03 13:17:42] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:17:42] Starting NGgreenzones
+[2021-10-03 13:17:42] NGgreenzones restarted successfully
+[2021-10-03 13:17:44] WARNING: [no_ng_tag]\NGgreenzones\server.lua:169: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:17:44] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to concatenate a boolean value
+[2021-10-03 13:18:43] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:18:43] Stopping NGgreenzones
+[2021-10-03 13:18:44] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:18:44] Starting NGgreenzones
+[2021-10-03 13:18:44] NGgreenzones restarted successfully
+[2021-10-03 13:18:46] WARNING: [no_ng_tag]\NGgreenzones\server.lua:169: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:18:46] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to concatenate a boolean value
+[2021-10-03 13:19:34] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:19:34] Stopping NGgreenzones
+[2021-10-03 13:19:34] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:19:34] Starting NGgreenzones
+[2021-10-03 13:19:34] NGgreenzones restarted successfully
+[2021-10-03 13:19:37] WARNING: [no_ng_tag]\NGgreenzones\server.lua:170: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:19:37] ERROR: [no_ng_tag]\NGgreenzones\server.lua:170: attempt to concatenate a boolean value
+[2021-10-03 13:21:46] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:21:46] Stopping NGgreenzones
+[2021-10-03 13:21:46] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:21:46] Starting NGgreenzones
+[2021-10-03 13:21:46] NGgreenzones restarted successfully
+[2021-10-03 13:21:48] WARNING: [no_ng_tag]\NGgreenzones\server.lua:170: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:21:48] ERROR: [no_ng_tag]\NGgreenzones\server.lua:170: attempt to concatenate a boolean value
+[2021-10-03 13:22:24] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 13:24:47] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 13:25:12] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 13:26:38] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:26:38] Stopping NGgreenzones
+[2021-10-03 13:26:38] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:26:38] Starting NGgreenzones
+[2021-10-03 13:26:38] NGgreenzones restarted successfully
+[2021-10-03 13:26:40] WARNING: [no_ng_tag]\NGgreenzones\server.lua:170: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:26:42] ERROR: [no_ng_tag]\NGgreenzones\server.lua:170: attempt to concatenate a boolean value
+[2021-10-03 13:26:42] INFO: MATEMÁTICAS: Pregunta 90 - 22 + 6001 ha sido generada con una respueta de 6069
+[2021-10-03 13:27:29] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:27:29] Stopping NGgreenzones
+[2021-10-03 13:27:29] Starting NGgreenzones
+[2021-10-03 13:27:30] NGgreenzones restarted successfully
+[2021-10-03 13:28:36] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:28:36] Stopping NGgreenzones
+[2021-10-03 13:28:36] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:28:36] Starting NGgreenzones
+[2021-10-03 13:28:36] NGgreenzones restarted successfully
+[2021-10-03 13:28:55] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:28:55] Stopping NGgreenzones
+[2021-10-03 13:28:55] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:28:55] Starting NGgreenzones
+[2021-10-03 13:28:56] NGgreenzones restarted successfully
+[2021-10-03 13:28:58] WARNING: [no_ng_tag]\NGgreenzones\server.lua:170: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:28:58] ERROR: [no_ng_tag]\NGgreenzones\server.lua:170: attempt to concatenate a boolean value
+[2021-10-03 13:29:03] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:29:03] Stopping NGgreenzones
+[2021-10-03 13:29:03] Starting NGgreenzones
+[2021-10-03 13:29:04] NGgreenzones restarted successfully
+[2021-10-03 13:30:16] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:30:16] Stopping NGgreenzones
+[2021-10-03 13:30:16] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:30:16] Starting NGgreenzones
+[2021-10-03 13:30:16] NGgreenzones restarted successfully
+[2021-10-03 13:30:18] WARNING: [no_ng_tag]\NGgreenzones\server.lua:170: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:30:18] ERROR: [no_ng_tag]\NGgreenzones\server.lua:170: attempt to concatenate a boolean value
+[2021-10-03 13:30:24] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:30:24] Stopping NGgreenzones
+[2021-10-03 13:30:24] Starting NGgreenzones
+[2021-10-03 13:30:24] NGgreenzones restarted successfully
+[2021-10-03 13:31:14] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 13:31:41] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:31:41] Stopping NGgreenzones
+[2021-10-03 13:31:41] Starting NGgreenzones
+[2021-10-03 13:31:41] NGgreenzones restarted successfully
+[2021-10-03 13:36:41] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:36:41] Stopping NGgreenzones
+[2021-10-03 13:36:41] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:36:41] Starting NGgreenzones
+[2021-10-03 13:36:41] NGgreenzones restarted successfully
+[2021-10-03 13:36:47] WARNING: [no_ng_tag]\NGgreenzones\server.lua:169: Bad argument @ 'getPlayerName' [Expected element at argument 1, got nil]
+[2021-10-03 13:36:47] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to concatenate a boolean value
+[2021-10-03 13:41:42] INFO: MATEMÁTICAS: Pregunta 85 - 41 + 5998 ha sido generada con una respueta de 6042

@@ -5629,3 +5629,2116 @@
 [2021-09-30 18:28:02] Stopping NGPhone
 [2021-09-30 18:28:04] Starting NGPhone
 [2021-09-30 18:28:04] NGPhone restarted successfully
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-09-30 21:31:47] Resources: 147 loaded, 0 failed
+[2021-09-30 21:31:47] Starting resources...
+[2021-09-30 21:31:47] Server minclientversion is now 1.5.8-9.20927.0
+[2021-09-30 21:31:48] INFO: Database has been connected
+[2021-09-30 21:31:48] INFO: Checking for NG Gamemode updates 
+[2021-09-30 21:31:48] INFO: Checking for NG Gamemode updates 
+[2021-09-30 21:31:48] INFO: NGGroups: Successfully loaded 15 groups from the sql database (218MS - About 14MS/group)
+[2021-09-30 21:31:49] WARNING: NGJobs/criminal/drifter/drift_c.lua(Line 328) [Client] setControlState is deprecated and may not work in future versions. Please replace with setPedControlState.
+[2021-09-30 21:31:49] Some files in 'NGJobs' use deprecated functions.
+[2021-09-30 21:31:49] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:49] ERROR: Couldn't find resource NGLottery. Check it exists.
+[2021-09-30 21:31:49] INFO: Default jail warp location: 1779.45, -1566.41, -3.69
+[2021-09-30 21:31:49] INFO: Admin jail warp location: 1757.65, -1565.21, 1.98
+[2021-09-30 21:31:49] INFO: Release jail warp location: 1543.32, -1675.6, 13.56
+[2021-09-30 21:31:49] WARNING: NGVehicles/config.lua(Line 1) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-30 21:31:49] Some files in 'NGVehicles' use deprecated functions.
+[2021-09-30 21:31:49] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:50] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:758: bad argument #1 to 'pairs' (table expected, got string)
+[2021-09-30 21:31:50] INFO: ===============================================================================
+[2021-09-30 21:31:50] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2021-09-30 21:31:50] INFO: ===============================================================================
+[2021-09-30 21:31:50] WARNING: [needed]\CVRCapturaelCamion\s_CVRCapturaelCamion.lua:69: Bad argument @ 'startResource' [Expected resource-data at argument 1, got boolean]
+[2021-09-30 21:31:50] ERROR: Couldn't find resource guied. Check it exists.
+[2021-09-30 21:31:50] ERROR: Couldn't find resource guirun. Check it exists.
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:1: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:6: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:11: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:13: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:18: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:23: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:42: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:49: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:56: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:63: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] ERROR: [web]\webstats\internal_stats.lua:77: call: failed to call 'webstats:registerStat'
+[2021-09-30 21:31:51] WARNING: File 'skins/hmogar.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/bfypro.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/wmyclot.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/vwmybjd.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/wfyri.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/vwfywa2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/zero.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/dnb2.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:51] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
+[2021-09-30 21:31:53] ERROR: adminshout client.lua is invalid. Please re-compile at http://luac.mtasa.com/
+[2021-09-30 21:31:53] ERROR: Couldn't find resource clothessaver. Check it exists.
+[2021-09-30 21:31:53] [HOUSESYSTEM]MySQL handler 1 accepted!
+[2021-09-30 21:31:53] House with ID 108 created sucessfully!
+[2021-09-30 21:31:53] House with ID 109 created sucessfully!
+[2021-09-30 21:31:53] House with ID 110 created sucessfully!
+[2021-09-30 21:31:53] House with ID 111 created sucessfully!
+[2021-09-30 21:31:53] House with ID 112 created sucessfully!
+[2021-09-30 21:31:53] House with ID 113 created sucessfully!
+[2021-09-30 21:31:53] House with ID 114 created sucessfully!
+[2021-09-30 21:31:53] House with ID 115 created sucessfully!
+[2021-09-30 21:31:53] House with ID 116 created sucessfully!
+[2021-09-30 21:31:53] House with ID 117 created sucessfully!
+[2021-09-30 21:31:53] House with ID 118 created sucessfully!
+[2021-09-30 21:31:53] House with ID 119 created sucessfully!
+[2021-09-30 21:31:53] House with ID 120 created sucessfully!
+[2021-09-30 21:31:53] House with ID 121 created sucessfully!
+[2021-09-30 21:31:53] House with ID 122 created sucessfully!
+[2021-09-30 21:31:53] House with ID 123 created sucessfully!
+[2021-09-30 21:31:53] House with ID 124 created sucessfully!
+[2021-09-30 21:31:53] House with ID 125 created sucessfully!
+[2021-09-30 21:31:53] House with ID 126 created sucessfully!
+[2021-09-30 21:31:53] House with ID 127 created sucessfully!
+[2021-09-30 21:31:53] House with ID 128 created sucessfully!
+[2021-09-30 21:31:53] House with ID 129 created sucessfully!
+[2021-09-30 21:31:53] House with ID 130 created sucessfully!
+[2021-09-30 21:31:53] House with ID 131 created sucessfully!
+[2021-09-30 21:31:53] House with ID 132 created sucessfully!
+[2021-09-30 21:31:53] House with ID 133 created sucessfully!
+[2021-09-30 21:31:53] House with ID 134 created sucessfully!
+[2021-09-30 21:31:53] House with ID 135 created sucessfully!
+[2021-09-30 21:31:53] House with ID 136 created sucessfully!
+[2021-09-30 21:31:53] House with ID 137 created sucessfully!
+[2021-09-30 21:31:53] House with ID 138 created sucessfully!
+[2021-09-30 21:31:53] House with ID 139 created sucessfully!
+[2021-09-30 21:31:53] House with ID 140 created sucessfully!
+[2021-09-30 21:31:53] House with ID 141 created sucessfully!
+[2021-09-30 21:31:53] House with ID 142 created sucessfully!
+[2021-09-30 21:31:53] House with ID 143 created sucessfully!
+[2021-09-30 21:31:53] House with ID 144 created sucessfully!
+[2021-09-30 21:31:53] House with ID 145 created sucessfully!
+[2021-09-30 21:31:53] House with ID 146 created sucessfully!
+[2021-09-30 21:31:53] House with ID 147 created sucessfully!
+[2021-09-30 21:31:53] House with ID 148 created sucessfully!
+[2021-09-30 21:31:53] House with ID 149 created sucessfully!
+[2021-09-30 21:31:53] House with ID 150 created sucessfully!
+[2021-09-30 21:31:53] House with ID 151 created sucessfully!
+[2021-09-30 21:31:53] House with ID 152 created sucessfully!
+[2021-09-30 21:31:53] House with ID 153 created sucessfully!
+[2021-09-30 21:31:53] House with ID 154 created sucessfully!
+[2021-09-30 21:31:53] House with ID 155 created sucessfully!
+[2021-09-30 21:31:53] House with ID 156 created sucessfully!
+[2021-09-30 21:31:53] House with ID 157 created sucessfully!
+[2021-09-30 21:31:53] House with ID 158 created sucessfully!
+[2021-09-30 21:31:53] House with ID 159 created sucessfully!
+[2021-09-30 21:31:53] House with ID 160 created sucessfully!
+[2021-09-30 21:31:53] House with ID 161 created sucessfully!
+[2021-09-30 21:31:53] House with ID 162 created sucessfully!
+[2021-09-30 21:31:53] House with ID 163 created sucessfully!
+[2021-09-30 21:31:53] House with ID 164 created sucessfully!
+[2021-09-30 21:31:53] House with ID 165 created sucessfully!
+[2021-09-30 21:31:53] House with ID 166 created sucessfully!
+[2021-09-30 21:31:53] House with ID 167 created sucessfully!
+[2021-09-30 21:31:53] House with ID 168 created sucessfully!
+[2021-09-30 21:31:53] House with ID 169 created sucessfully!
+[2021-09-30 21:31:53] House with ID 170 created sucessfully!
+[2021-09-30 21:31:53] House with ID 171 created sucessfully!
+[2021-09-30 21:31:53] House with ID 172 created sucessfully!
+[2021-09-30 21:31:53] House with ID 173 created sucessfully!
+[2021-09-30 21:31:53] House with ID 174 created sucessfully!
+[2021-09-30 21:31:53] House with ID 175 created sucessfully!
+[2021-09-30 21:31:53] House with ID 176 created sucessfully!
+[2021-09-30 21:31:53] House with ID 177 created sucessfully!
+[2021-09-30 21:31:53] House with ID 178 created sucessfully!
+[2021-09-30 21:31:53] House with ID 179 created sucessfully!
+[2021-09-30 21:31:53] House with ID 180 created sucessfully!
+[2021-09-30 21:31:53] House with ID 181 created sucessfully!
+[2021-09-30 21:31:53] House with ID 182 created sucessfully!
+[2021-09-30 21:31:53] House with ID 183 created sucessfully!
+[2021-09-30 21:31:53] House with ID 184 created sucessfully!
+[2021-09-30 21:31:53] House with ID 185 created sucessfully!
+[2021-09-30 21:31:53] House with ID 186 created sucessfully!
+[2021-09-30 21:31:53] House with ID 187 created sucessfully!
+[2021-09-30 21:31:53] House with ID 188 created sucessfully!
+[2021-09-30 21:31:53] House with ID 189 created sucessfully!
+[2021-09-30 21:31:53] House with ID 190 created sucessfully!
+[2021-09-30 21:31:53] House with ID 191 created sucessfully!
+[2021-09-30 21:31:53] House with ID 192 created sucessfully!
+[2021-09-30 21:31:53] House with ID 193 created sucessfully!
+[2021-09-30 21:31:53] House with ID 194 created sucessfully!
+[2021-09-30 21:31:53] House with ID 195 created sucessfully!
+[2021-09-30 21:31:53] House with ID 196 created sucessfully!
+[2021-09-30 21:31:53] House with ID 197 created sucessfully!
+[2021-09-30 21:31:53] House with ID 198 created sucessfully!
+[2021-09-30 21:31:53] House with ID 199 created sucessfully!
+[2021-09-30 21:31:53] House with ID 200 created sucessfully!
+[2021-09-30 21:31:53] House with ID 201 created sucessfully!
+[2021-09-30 21:31:53] House with ID 202 created sucessfully!
+[2021-09-30 21:31:53] House with ID 203 created sucessfully!
+[2021-09-30 21:31:53] House with ID 204 created sucessfully!
+[2021-09-30 21:31:53] House with ID 205 created sucessfully!
+[2021-09-30 21:31:53] House with ID 206 created sucessfully!
+[2021-09-30 21:31:53] House with ID 207 created sucessfully!
+[2021-09-30 21:31:53] House with ID 208 created sucessfully!
+[2021-09-30 21:31:53] House with ID 209 created sucessfully!
+[2021-09-30 21:31:53] House with ID 210 created sucessfully!
+[2021-09-30 21:31:53] House with ID 211 created sucessfully!
+[2021-09-30 21:31:53] House with ID 212 created sucessfully!
+[2021-09-30 21:31:53] House with ID 213 created sucessfully!
+[2021-09-30 21:31:53] House with ID 214 created sucessfully!
+[2021-09-30 21:31:53] House with ID 215 created sucessfully!
+[2021-09-30 21:31:53] House with ID 216 created sucessfully!
+[2021-09-30 21:31:53] House with ID 217 created sucessfully!
+[2021-09-30 21:31:53] House with ID 218 created sucessfully!
+[2021-09-30 21:31:53] House with ID 219 created sucessfully!
+[2021-09-30 21:31:53] House with ID 220 created sucessfully!
+[2021-09-30 21:31:53] House with ID 221 created sucessfully!
+[2021-09-30 21:31:53] House with ID 222 created sucessfully!
+[2021-09-30 21:31:53] House with ID 223 created sucessfully!
+[2021-09-30 21:31:53] House with ID 224 created sucessfully!
+[2021-09-30 21:31:53] House with ID 225 created sucessfully!
+[2021-09-30 21:31:53] House with ID 226 created sucessfully!
+[2021-09-30 21:31:53] House with ID 227 created sucessfully!
+[2021-09-30 21:31:53] House with ID 228 created sucessfully!
+[2021-09-30 21:31:53] House with ID 229 created sucessfully!
+[2021-09-30 21:31:53] House with ID 230 created sucessfully!
+[2021-09-30 21:31:53] House with ID 231 created sucessfully!
+[2021-09-30 21:31:53] House with ID 232 created sucessfully!
+[2021-09-30 21:31:53] House with ID 233 created sucessfully!
+[2021-09-30 21:31:53] House with ID 234 created sucessfully!
+[2021-09-30 21:31:53] House with ID 235 created sucessfully!
+[2021-09-30 21:31:53] House with ID 236 created sucessfully!
+[2021-09-30 21:31:53] House with ID 237 created sucessfully!
+[2021-09-30 21:31:53] House with ID 238 created sucessfully!
+[2021-09-30 21:31:53] House with ID 239 created sucessfully!
+[2021-09-30 21:31:53] House with ID 240 created sucessfully!
+[2021-09-30 21:31:53] House with ID 241 created sucessfully!
+[2021-09-30 21:31:53] House with ID 242 created sucessfully!
+[2021-09-30 21:31:53] House with ID 243 created sucessfully!
+[2021-09-30 21:31:53] House with ID 244 created sucessfully!
+[2021-09-30 21:31:53] House with ID 245 created sucessfully!
+[2021-09-30 21:31:53] House with ID 246 created sucessfully!
+[2021-09-30 21:31:53] House with ID 247 created sucessfully!
+[2021-09-30 21:31:53] House with ID 248 created sucessfully!
+[2021-09-30 21:31:53] House with ID 249 created sucessfully!
+[2021-09-30 21:31:53] House with ID 250 created sucessfully!
+[2021-09-30 21:31:53] House with ID 251 created sucessfully!
+[2021-09-30 21:31:53] House with ID 252 created sucessfully!
+[2021-09-30 21:31:53] House with ID 253 created sucessfully!
+[2021-09-30 21:31:53] House with ID 254 created sucessfully!
+[2021-09-30 21:31:53] House with ID 255 created sucessfully!
+[2021-09-30 21:31:53] House with ID 256 created sucessfully!
+[2021-09-30 21:31:53] House with ID 257 created sucessfully!
+[2021-09-30 21:31:53] House with ID 258 created sucessfully!
+[2021-09-30 21:31:53] House with ID 259 created sucessfully!
+[2021-09-30 21:31:53] House with ID 260 created sucessfully!
+[2021-09-30 21:31:53] House with ID 261 created sucessfully!
+[2021-09-30 21:31:53] House with ID 262 created sucessfully!
+[2021-09-30 21:31:53] House with ID 263 created sucessfully!
+[2021-09-30 21:31:53] House with ID 264 created sucessfully!
+[2021-09-30 21:31:53] House with ID 265 created sucessfully!
+[2021-09-30 21:31:53] House with ID 266 created sucessfully!
+[2021-09-30 21:31:53] House with ID 267 created sucessfully!
+[2021-09-30 21:31:53] House with ID 268 created sucessfully!
+[2021-09-30 21:31:53] House with ID 269 created sucessfully!
+[2021-09-30 21:31:53] House with ID 270 created sucessfully!
+[2021-09-30 21:31:53] House with ID 271 created sucessfully!
+[2021-09-30 21:31:53] House with ID 272 created sucessfully!
+[2021-09-30 21:31:53] House with ID 273 created sucessfully!
+[2021-09-30 21:31:53] House with ID 274 created sucessfully!
+[2021-09-30 21:31:53] House with ID 275 created sucessfully!
+[2021-09-30 21:31:53] House with ID 276 created sucessfully!
+[2021-09-30 21:31:53] House with ID 277 created sucessfully!
+[2021-09-30 21:31:53] House with ID 278 created sucessfully!
+[2021-09-30 21:31:53] House with ID 279 created sucessfully!
+[2021-09-30 21:31:53] House with ID 280 created sucessfully!
+[2021-09-30 21:31:53] House with ID 281 created sucessfully!
+[2021-09-30 21:31:53] House with ID 282 created sucessfully!
+[2021-09-30 21:31:53] House with ID 283 created sucessfully!
+[2021-09-30 21:31:53] House with ID 284 created sucessfully!
+[2021-09-30 21:31:53] House with ID 285 created sucessfully!
+[2021-09-30 21:31:53] House with ID 286 created sucessfully!
+[2021-09-30 21:31:53] House with ID 287 created sucessfully!
+[2021-09-30 21:31:53] House with ID 288 created sucessfully!
+[2021-09-30 21:31:53] House with ID 289 created sucessfully!
+[2021-09-30 21:31:53] House with ID 290 created sucessfully!
+[2021-09-30 21:31:53] House with ID 291 created sucessfully!
+[2021-09-30 21:31:53] House with ID 292 created sucessfully!
+[2021-09-30 21:31:53] House with ID 293 created sucessfully!
+[2021-09-30 21:31:53] House with ID 294 created sucessfully!
+[2021-09-30 21:31:53] House with ID 295 created sucessfully!
+[2021-09-30 21:31:53] House with ID 296 created sucessfully!
+[2021-09-30 21:31:53] House with ID 297 created sucessfully!
+[2021-09-30 21:31:53] House with ID 298 created sucessfully!
+[2021-09-30 21:31:53] House with ID 299 created sucessfully!
+[2021-09-30 21:31:53] House with ID 300 created sucessfully!
+[2021-09-30 21:31:53] House with ID 301 created sucessfully!
+[2021-09-30 21:31:53] House with ID 302 created sucessfully!
+[2021-09-30 21:31:53] House with ID 303 created sucessfully!
+[2021-09-30 21:31:53] House with ID 304 created sucessfully!
+[2021-09-30 21:31:53] House with ID 305 created sucessfully!
+[2021-09-30 21:31:53] House with ID 306 created sucessfully!
+[2021-09-30 21:31:53] House with ID 307 created sucessfully!
+[2021-09-30 21:31:53] House with ID 308 created sucessfully!
+[2021-09-30 21:31:53] House with ID 309 created sucessfully!
+[2021-09-30 21:31:53] House with ID 310 created sucessfully!
+[2021-09-30 21:31:53] House with ID 311 created sucessfully!
+[2021-09-30 21:31:53] House with ID 312 created sucessfully!
+[2021-09-30 21:31:53] House with ID 313 created sucessfully!
+[2021-09-30 21:31:53] House with ID 314 created sucessfully!
+[2021-09-30 21:31:53] House with ID 315 created sucessfully!
+[2021-09-30 21:31:53] House with ID 316 created sucessfully!
+[2021-09-30 21:31:53] House with ID 317 created sucessfully!
+[2021-09-30 21:31:53] House with ID 318 created sucessfully!
+[2021-09-30 21:31:53] House with ID 319 created sucessfully!
+[2021-09-30 21:31:53] House with ID 320 created sucessfully!
+[2021-09-30 21:31:53] House with ID 321 created sucessfully!
+[2021-09-30 21:31:53] House with ID 322 created sucessfully!
+[2021-09-30 21:31:53] House with ID 323 created sucessfully!
+[2021-09-30 21:31:53] House with ID 324 created sucessfully!
+[2021-09-30 21:31:53] House with ID 325 created sucessfully!
+[2021-09-30 21:31:53] House with ID 326 created sucessfully!
+[2021-09-30 21:31:53] House with ID 327 created sucessfully!
+[2021-09-30 21:31:53] House with ID 328 created sucessfully!
+[2021-09-30 21:31:53] House with ID 329 created sucessfully!
+[2021-09-30 21:31:53] House with ID 330 created sucessfully!
+[2021-09-30 21:31:53] House with ID 331 created sucessfully!
+[2021-09-30 21:31:53] House with ID 332 created sucessfully!
+[2021-09-30 21:31:53] House with ID 333 created sucessfully!
+[2021-09-30 21:31:53] House with ID 334 created sucessfully!
+[2021-09-30 21:31:53] House with ID 335 created sucessfully!
+[2021-09-30 21:31:53] House with ID 336 created sucessfully!
+[2021-09-30 21:31:53] House with ID 337 created sucessfully!
+[2021-09-30 21:31:53] House with ID 338 created sucessfully!
+[2021-09-30 21:31:53] House with ID 339 created sucessfully!
+[2021-09-30 21:31:53] House with ID 340 created sucessfully!
+[2021-09-30 21:31:53] House with ID 341 created sucessfully!
+[2021-09-30 21:31:53] House with ID 342 created sucessfully!
+[2021-09-30 21:31:53] House with ID 343 created sucessfully!
+[2021-09-30 21:31:53] House with ID 344 created sucessfully!
+[2021-09-30 21:31:53] House with ID 345 created sucessfully!
+[2021-09-30 21:31:53] House with ID 346 created sucessfully!
+[2021-09-30 21:31:53] House with ID 347 created sucessfully!
+[2021-09-30 21:31:53] House with ID 348 created sucessfully!
+[2021-09-30 21:31:53] House with ID 349 created sucessfully!
+[2021-09-30 21:31:53] House with ID 350 created sucessfully!
+[2021-09-30 21:31:53] House with ID 351 created sucessfully!
+[2021-09-30 21:31:53] House with ID 352 created sucessfully!
+[2021-09-30 21:31:53] House with ID 353 created sucessfully!
+[2021-09-30 21:31:53] House with ID 354 created sucessfully!
+[2021-09-30 21:31:53] House with ID 355 created sucessfully!
+[2021-09-30 21:31:53] House with ID 356 created sucessfully!
+[2021-09-30 21:31:53] House with ID 357 created sucessfully!
+[2021-09-30 21:31:53] House with ID 358 created sucessfully!
+[2021-09-30 21:31:53] House with ID 359 created sucessfully!
+[2021-09-30 21:31:53] House with ID 360 created sucessfully!
+[2021-09-30 21:31:53] House with ID 361 created sucessfully!
+[2021-09-30 21:31:53] House with ID 362 created sucessfully!
+[2021-09-30 21:31:53] House with ID 363 created sucessfully!
+[2021-09-30 21:31:53] House with ID 364 created sucessfully!
+[2021-09-30 21:31:53] House with ID 365 created sucessfully!
+[2021-09-30 21:31:53] House with ID 366 created sucessfully!
+[2021-09-30 21:31:53] House with ID 367 created sucessfully!
+[2021-09-30 21:31:53] House with ID 368 created sucessfully!
+[2021-09-30 21:31:53] House with ID 369 created sucessfully!
+[2021-09-30 21:31:53] House with ID 370 created sucessfully!
+[2021-09-30 21:31:53] House with ID 371 created sucessfully!
+[2021-09-30 21:31:53] House with ID 372 created sucessfully!
+[2021-09-30 21:31:53] House with ID 373 created sucessfully!
+[2021-09-30 21:31:53] House with ID 374 created sucessfully!
+[2021-09-30 21:31:53] House with ID 375 created sucessfully!
+[2021-09-30 21:31:53] House with ID 376 created sucessfully!
+[2021-09-30 21:31:53] House with ID 377 created sucessfully!
+[2021-09-30 21:31:53] House with ID 378 created sucessfully!
+[2021-09-30 21:31:53] House with ID 379 created sucessfully!
+[2021-09-30 21:31:53] House with ID 380 created sucessfully!
+[2021-09-30 21:31:53] House with ID 381 created sucessfully!
+[2021-09-30 21:31:53] House with ID 382 created sucessfully!
+[2021-09-30 21:31:53] House with ID 383 created sucessfully!
+[2021-09-30 21:31:53] House with ID 384 created sucessfully!
+[2021-09-30 21:31:53] House with ID 385 created sucessfully!
+[2021-09-30 21:31:53] House with ID 386 created sucessfully!
+[2021-09-30 21:31:53] House with ID 387 created sucessfully!
+[2021-09-30 21:31:53] House with ID 388 created sucessfully!
+[2021-09-30 21:31:53] House with ID 389 created sucessfully!
+[2021-09-30 21:31:53] House with ID 390 created sucessfully!
+[2021-09-30 21:31:53] House with ID 391 created sucessfully!
+[2021-09-30 21:31:53] House with ID 392 created sucessfully!
+[2021-09-30 21:31:53] House with ID 393 created sucessfully!
+[2021-09-30 21:31:53] House with ID 394 created sucessfully!
+[2021-09-30 21:31:53] House with ID 395 created sucessfully!
+[2021-09-30 21:31:53] House with ID 396 created sucessfully!
+[2021-09-30 21:31:53] House with ID 397 created sucessfully!
+[2021-09-30 21:31:53] House with ID 398 created sucessfully!
+[2021-09-30 21:31:53] House with ID 399 created sucessfully!
+[2021-09-30 21:31:53] House with ID 400 created sucessfully!
+[2021-09-30 21:31:53] House with ID 401 created sucessfully!
+[2021-09-30 21:31:53] House with ID 402 created sucessfully!
+[2021-09-30 21:31:53] House with ID 403 created sucessfully!
+[2021-09-30 21:31:53] House with ID 404 created sucessfully!
+[2021-09-30 21:31:53] House with ID 405 created sucessfully!
+[2021-09-30 21:31:53] House with ID 406 created sucessfully!
+[2021-09-30 21:31:53] House with ID 407 created sucessfully!
+[2021-09-30 21:31:53] House with ID 408 created sucessfully!
+[2021-09-30 21:31:53] House with ID 409 created sucessfully!
+[2021-09-30 21:31:53] House with ID 410 created sucessfully!
+[2021-09-30 21:31:53] House with ID 411 created sucessfully!
+[2021-09-30 21:31:53] House with ID 412 created sucessfully!
+[2021-09-30 21:31:53] House with ID 413 created sucessfully!
+[2021-09-30 21:31:53] House with ID 414 created sucessfully!
+[2021-09-30 21:31:53] House with ID 415 created sucessfully!
+[2021-09-30 21:31:53] House with ID 416 created sucessfully!
+[2021-09-30 21:31:53] House with ID 417 created sucessfully!
+[2021-09-30 21:31:53] House with ID 418 created sucessfully!
+[2021-09-30 21:31:53] House with ID 419 created sucessfully!
+[2021-09-30 21:31:53] House with ID 420 created sucessfully!
+[2021-09-30 21:31:53] House with ID 421 created sucessfully!
+[2021-09-30 21:31:53] House with ID 422 created sucessfully!
+[2021-09-30 21:31:53] House with ID 423 created sucessfully!
+[2021-09-30 21:31:53] House with ID 424 created sucessfully!
+[2021-09-30 21:31:53] House with ID 425 created sucessfully!
+[2021-09-30 21:31:53] House with ID 426 created sucessfully!
+[2021-09-30 21:31:53] House with ID 427 created sucessfully!
+[2021-09-30 21:31:53] House with ID 428 created sucessfully!
+[2021-09-30 21:31:53] House with ID 429 created sucessfully!
+[2021-09-30 21:31:53] House with ID 430 created sucessfully!
+[2021-09-30 21:31:53] House with ID 431 created sucessfully!
+[2021-09-30 21:31:53] House with ID 432 created sucessfully!
+[2021-09-30 21:31:53] House with ID 433 created sucessfully!
+[2021-09-30 21:31:53] House with ID 434 created sucessfully!
+[2021-09-30 21:31:53] House with ID 435 created sucessfully!
+[2021-09-30 21:31:53] House with ID 436 created sucessfully!
+[2021-09-30 21:31:53] House with ID 437 created sucessfully!
+[2021-09-30 21:31:53] House with ID 438 created sucessfully!
+[2021-09-30 21:31:53] House with ID 439 created sucessfully!
+[2021-09-30 21:31:53] House with ID 440 created sucessfully!
+[2021-09-30 21:31:53] House with ID 441 created sucessfully!
+[2021-09-30 21:31:53] House with ID 442 created sucessfully!
+[2021-09-30 21:31:53] House with ID 443 created sucessfully!
+[2021-09-30 21:31:53] House with ID 444 created sucessfully!
+[2021-09-30 21:31:53] House with ID 445 created sucessfully!
+[2021-09-30 21:31:53] House with ID 446 created sucessfully!
+[2021-09-30 21:31:53] House with ID 447 created sucessfully!
+[2021-09-30 21:31:54] House with ID 448 created sucessfully!
+[2021-09-30 21:31:54] House with ID 449 created sucessfully!
+[2021-09-30 21:31:54] House with ID 450 created sucessfully!
+[2021-09-30 21:31:54] House with ID 451 created sucessfully!
+[2021-09-30 21:31:54] House with ID 452 created sucessfully!
+[2021-09-30 21:31:54] House with ID 453 created sucessfully!
+[2021-09-30 21:31:54] House with ID 454 created sucessfully!
+[2021-09-30 21:31:54] House with ID 455 created sucessfully!
+[2021-09-30 21:31:54] House with ID 456 created sucessfully!
+[2021-09-30 21:31:54] House with ID 457 created sucessfully!
+[2021-09-30 21:31:54] House with ID 458 created sucessfully!
+[2021-09-30 21:31:54] House with ID 459 created sucessfully!
+[2021-09-30 21:31:54] House with ID 460 created sucessfully!
+[2021-09-30 21:31:54] House with ID 461 created sucessfully!
+[2021-09-30 21:31:54] House with ID 462 created sucessfully!
+[2021-09-30 21:31:54] House with ID 463 created sucessfully!
+[2021-09-30 21:31:54] House with ID 464 created sucessfully!
+[2021-09-30 21:31:54] House with ID 465 created sucessfully!
+[2021-09-30 21:31:54] House with ID 466 created sucessfully!
+[2021-09-30 21:31:54] House with ID 467 created sucessfully!
+[2021-09-30 21:31:54] House with ID 468 created sucessfully!
+[2021-09-30 21:31:54] House with ID 469 created sucessfully!
+[2021-09-30 21:31:54] House with ID 470 created sucessfully!
+[2021-09-30 21:31:54] House with ID 471 created sucessfully!
+[2021-09-30 21:31:54] House with ID 472 created sucessfully!
+[2021-09-30 21:31:54] House with ID 473 created sucessfully!
+[2021-09-30 21:31:54] House with ID 474 created sucessfully!
+[2021-09-30 21:31:54] House with ID 475 created sucessfully!
+[2021-09-30 21:31:54] House with ID 476 created sucessfully!
+[2021-09-30 21:31:54] House with ID 477 created sucessfully!
+[2021-09-30 21:31:54] House with ID 478 created sucessfully!
+[2021-09-30 21:31:54] House with ID 479 created sucessfully!
+[2021-09-30 21:31:54] House with ID 480 created sucessfully!
+[2021-09-30 21:31:54] House with ID 481 created sucessfully!
+[2021-09-30 21:31:54] House with ID 482 created sucessfully!
+[2021-09-30 21:31:54] House with ID 483 created sucessfully!
+[2021-09-30 21:31:54] House with ID 484 created sucessfully!
+[2021-09-30 21:31:54] House with ID 485 created sucessfully!
+[2021-09-30 21:31:54] House with ID 486 created sucessfully!
+[2021-09-30 21:31:54] House with ID 487 created sucessfully!
+[2021-09-30 21:31:54] House with ID 488 created sucessfully!
+[2021-09-30 21:31:54] House with ID 489 created sucessfully!
+[2021-09-30 21:31:54] House with ID 490 created sucessfully!
+[2021-09-30 21:31:54] House with ID 491 created sucessfully!
+[2021-09-30 21:31:54] House with ID 492 created sucessfully!
+[2021-09-30 21:31:54] House with ID 493 created sucessfully!
+[2021-09-30 21:31:54] House with ID 494 created sucessfully!
+[2021-09-30 21:31:54] House with ID 495 created sucessfully!
+[2021-09-30 21:31:54] House with ID 496 created sucessfully!
+[2021-09-30 21:31:54] House with ID 497 created sucessfully!
+[2021-09-30 21:31:54] House with ID 498 created sucessfully!
+[2021-09-30 21:31:54] House with ID 499 created sucessfully!
+[2021-09-30 21:31:54] House with ID 500 created sucessfully!
+[2021-09-30 21:31:54] House with ID 501 created sucessfully!
+[2021-09-30 21:31:54] House with ID 502 created sucessfully!
+[2021-09-30 21:31:54] House with ID 503 created sucessfully!
+[2021-09-30 21:31:54] House with ID 504 created sucessfully!
+[2021-09-30 21:31:54] House with ID 505 created sucessfully!
+[2021-09-30 21:31:54] House with ID 506 created sucessfully!
+[2021-09-30 21:31:54] House with ID 507 created sucessfully!
+[2021-09-30 21:31:54] House with ID 508 created sucessfully!
+[2021-09-30 21:31:54] House with ID 509 created sucessfully!
+[2021-09-30 21:31:54] House with ID 510 created sucessfully!
+[2021-09-30 21:31:54] House with ID 511 created sucessfully!
+[2021-09-30 21:31:54] House with ID 512 created sucessfully!
+[2021-09-30 21:31:54] House with ID 513 created sucessfully!
+[2021-09-30 21:31:54] House with ID 514 created sucessfully!
+[2021-09-30 21:31:54] House with ID 515 created sucessfully!
+[2021-09-30 21:31:54] House with ID 516 created sucessfully!
+[2021-09-30 21:31:54] House with ID 517 created sucessfully!
+[2021-09-30 21:31:54] House with ID 518 created sucessfully!
+[2021-09-30 21:31:54] House with ID 519 created sucessfully!
+[2021-09-30 21:31:54] House with ID 520 created sucessfully!
+[2021-09-30 21:31:54] House with ID 521 created sucessfully!
+[2021-09-30 21:31:54] House with ID 522 created sucessfully!
+[2021-09-30 21:31:54] House with ID 523 created sucessfully!
+[2021-09-30 21:31:54] House with ID 524 created sucessfully!
+[2021-09-30 21:31:54] House with ID 525 created sucessfully!
+[2021-09-30 21:31:54] House with ID 526 created sucessfully!
+[2021-09-30 21:31:54] House with ID 527 created sucessfully!
+[2021-09-30 21:31:54] House with ID 528 created sucessfully!
+[2021-09-30 21:31:54] House with ID 529 created sucessfully!
+[2021-09-30 21:31:54] House with ID 530 created sucessfully!
+[2021-09-30 21:31:54] House with ID 531 created sucessfully!
+[2021-09-30 21:31:54] House with ID 532 created sucessfully!
+[2021-09-30 21:31:54] House with ID 533 created sucessfully!
+[2021-09-30 21:31:54] House with ID 534 created sucessfully!
+[2021-09-30 21:31:54] House with ID 535 created sucessfully!
+[2021-09-30 21:31:54] House with ID 536 created sucessfully!
+[2021-09-30 21:31:54] House with ID 537 created sucessfully!
+[2021-09-30 21:31:54] House with ID 538 created sucessfully!
+[2021-09-30 21:31:54] House with ID 539 created sucessfully!
+[2021-09-30 21:31:54] House with ID 540 created sucessfully!
+[2021-09-30 21:31:54] House with ID 541 created sucessfully!
+[2021-09-30 21:31:54] House with ID 542 created sucessfully!
+[2021-09-30 21:31:54] House with ID 543 created sucessfully!
+[2021-09-30 21:31:54] House with ID 544 created sucessfully!
+[2021-09-30 21:31:54] House with ID 545 created sucessfully!
+[2021-09-30 21:31:54] House with ID 546 created sucessfully!
+[2021-09-30 21:31:54] House with ID 547 created sucessfully!
+[2021-09-30 21:31:54] House with ID 548 created sucessfully!
+[2021-09-30 21:31:54] House with ID 549 created sucessfully!
+[2021-09-30 21:31:54] House with ID 550 created sucessfully!
+[2021-09-30 21:31:54] House with ID 551 created sucessfully!
+[2021-09-30 21:31:54] House with ID 552 created sucessfully!
+[2021-09-30 21:31:54] House with ID 553 created sucessfully!
+[2021-09-30 21:31:54] House with ID 554 created sucessfully!
+[2021-09-30 21:31:54] House with ID 555 created sucessfully!
+[2021-09-30 21:31:54] House with ID 556 created sucessfully!
+[2021-09-30 21:31:54] House with ID 557 created sucessfully!
+[2021-09-30 21:31:54] House with ID 558 created sucessfully!
+[2021-09-30 21:31:54] House with ID 559 created sucessfully!
+[2021-09-30 21:31:54] House with ID 560 created sucessfully!
+[2021-09-30 21:31:54] House with ID 561 created sucessfully!
+[2021-09-30 21:31:54] House with ID 562 created sucessfully!
+[2021-09-30 21:31:54] House with ID 563 created sucessfully!
+[2021-09-30 21:31:54] House with ID 564 created sucessfully!
+[2021-09-30 21:31:54] House with ID 565 created sucessfully!
+[2021-09-30 21:31:54] House with ID 566 created sucessfully!
+[2021-09-30 21:31:54] House with ID 567 created sucessfully!
+[2021-09-30 21:31:54] House with ID 568 created sucessfully!
+[2021-09-30 21:31:54] House with ID 569 created sucessfully!
+[2021-09-30 21:31:54] House with ID 570 created sucessfully!
+[2021-09-30 21:31:54] House with ID 571 created sucessfully!
+[2021-09-30 21:31:54] House with ID 572 created sucessfully!
+[2021-09-30 21:31:54] House with ID 573 created sucessfully!
+[2021-09-30 21:31:54] House with ID 574 created sucessfully!
+[2021-09-30 21:31:54] House with ID 575 created sucessfully!
+[2021-09-30 21:31:54] House with ID 576 created sucessfully!
+[2021-09-30 21:31:54] House with ID 577 created sucessfully!
+[2021-09-30 21:31:54] House with ID 578 created sucessfully!
+[2021-09-30 21:31:54] House with ID 579 created sucessfully!
+[2021-09-30 21:31:54] House with ID 580 created sucessfully!
+[2021-09-30 21:31:54] House with ID 581 created sucessfully!
+[2021-09-30 21:31:54] House with ID 582 created sucessfully!
+[2021-09-30 21:31:54] House with ID 583 created sucessfully!
+[2021-09-30 21:31:54] House with ID 584 created sucessfully!
+[2021-09-30 21:31:55] House with ID 585 created sucessfully!
+[2021-09-30 21:31:55] House with ID 586 created sucessfully!
+[2021-09-30 21:31:55] House with ID 587 created sucessfully!
+[2021-09-30 21:31:55] House with ID 588 created sucessfully!
+[2021-09-30 21:31:55] House with ID 589 created sucessfully!
+[2021-09-30 21:31:55] House with ID 590 created sucessfully!
+[2021-09-30 21:31:55] House with ID 591 created sucessfully!
+[2021-09-30 21:31:55] House with ID 592 created sucessfully!
+[2021-09-30 21:31:55] House with ID 593 created sucessfully!
+[2021-09-30 21:31:55] House with ID 594 created sucessfully!
+[2021-09-30 21:31:55] House with ID 595 created sucessfully!
+[2021-09-30 21:31:55] House with ID 596 created sucessfully!
+[2021-09-30 21:31:55] House with ID 597 created sucessfully!
+[2021-09-30 21:31:55] House with ID 598 created sucessfully!
+[2021-09-30 21:31:55] House with ID 599 created sucessfully!
+[2021-09-30 21:31:55] House with ID 600 created sucessfully!
+[2021-09-30 21:31:55] House with ID 601 created sucessfully!
+[2021-09-30 21:31:55] House with ID 602 created sucessfully!
+[2021-09-30 21:31:55] House with ID 603 created sucessfully!
+[2021-09-30 21:31:55] House with ID 604 created sucessfully!
+[2021-09-30 21:31:55] House with ID 605 created sucessfully!
+[2021-09-30 21:31:55] House with ID 606 created sucessfully!
+[2021-09-30 21:31:55] House with ID 607 created sucessfully!
+[2021-09-30 21:31:55] House with ID 608 created sucessfully!
+[2021-09-30 21:31:55] House with ID 609 created sucessfully!
+[2021-09-30 21:31:55] House with ID 610 created sucessfully!
+[2021-09-30 21:31:55] House with ID 611 created sucessfully!
+[2021-09-30 21:31:55] House with ID 612 created sucessfully!
+[2021-09-30 21:31:55] House with ID 613 created sucessfully!
+[2021-09-30 21:31:55] House with ID 614 created sucessfully!
+[2021-09-30 21:31:55] House with ID 615 created sucessfully!
+[2021-09-30 21:31:55] House with ID 616 created sucessfully!
+[2021-09-30 21:31:55] House with ID 617 created sucessfully!
+[2021-09-30 21:31:55] House with ID 618 created sucessfully!
+[2021-09-30 21:31:55] House with ID 619 created sucessfully!
+[2021-09-30 21:31:55] House with ID 620 created sucessfully!
+[2021-09-30 21:31:55] House with ID 621 created sucessfully!
+[2021-09-30 21:31:55] House with ID 622 created sucessfully!
+[2021-09-30 21:31:55] House with ID 623 created sucessfully!
+[2021-09-30 21:31:55] House with ID 624 created sucessfully!
+[2021-09-30 21:31:55] House with ID 625 created sucessfully!
+[2021-09-30 21:31:55] House with ID 626 created sucessfully!
+[2021-09-30 21:31:55] House with ID 627 created sucessfully!
+[2021-09-30 21:31:55] House with ID 628 created sucessfully!
+[2021-09-30 21:31:55] House with ID 629 created sucessfully!
+[2021-09-30 21:31:55] House with ID 630 created sucessfully!
+[2021-09-30 21:31:55] House with ID 631 created sucessfully!
+[2021-09-30 21:31:55] House with ID 632 created sucessfully!
+[2021-09-30 21:31:55] House with ID 633 created sucessfully!
+[2021-09-30 21:31:55] House with ID 634 created sucessfully!
+[2021-09-30 21:31:55] House with ID 635 created sucessfully!
+[2021-09-30 21:31:55] House with ID 636 created sucessfully!
+[2021-09-30 21:31:55] House with ID 637 created sucessfully!
+[2021-09-30 21:31:55] House with ID 638 created sucessfully!
+[2021-09-30 21:31:55] House with ID 639 created sucessfully!
+[2021-09-30 21:31:55] House with ID 640 created sucessfully!
+[2021-09-30 21:31:55] House with ID 641 created sucessfully!
+[2021-09-30 21:31:55] House with ID 642 created sucessfully!
+[2021-09-30 21:31:55] House with ID 643 created sucessfully!
+[2021-09-30 21:31:55] House with ID 644 created sucessfully!
+[2021-09-30 21:31:55] House with ID 645 created sucessfully!
+[2021-09-30 21:31:55] House with ID 646 created sucessfully!
+[2021-09-30 21:31:55] House with ID 647 created sucessfully!
+[2021-09-30 21:31:55] House with ID 648 created sucessfully!
+[2021-09-30 21:31:55] House with ID 649 created sucessfully!
+[2021-09-30 21:31:55] House with ID 650 created sucessfully!
+[2021-09-30 21:31:55] House with ID 651 created sucessfully!
+[2021-09-30 21:31:55] House with ID 652 created sucessfully!
+[2021-09-30 21:31:55] House with ID 653 created sucessfully!
+[2021-09-30 21:31:55] House with ID 654 created sucessfully!
+[2021-09-30 21:31:55] House with ID 655 created sucessfully!
+[2021-09-30 21:31:55] House with ID 656 created sucessfully!
+[2021-09-30 21:31:55] House with ID 657 created sucessfully!
+[2021-09-30 21:31:55] House with ID 658 created sucessfully!
+[2021-09-30 21:31:55] House with ID 659 created sucessfully!
+[2021-09-30 21:31:55] House with ID 660 created sucessfully!
+[2021-09-30 21:31:55] House with ID 661 created sucessfully!
+[2021-09-30 21:31:55] House with ID 662 created sucessfully!
+[2021-09-30 21:31:55] House with ID 663 created sucessfully!
+[2021-09-30 21:31:55] House with ID 664 created sucessfully!
+[2021-09-30 21:31:55] House with ID 665 created sucessfully!
+[2021-09-30 21:31:55] House with ID 666 created sucessfully!
+[2021-09-30 21:31:55] House with ID 667 created sucessfully!
+[2021-09-30 21:31:55] House with ID 668 created sucessfully!
+[2021-09-30 21:31:55] House with ID 669 created sucessfully!
+[2021-09-30 21:31:55] House with ID 670 created sucessfully!
+[2021-09-30 21:31:55] House with ID 671 created sucessfully!
+[2021-09-30 21:31:55] House with ID 672 created sucessfully!
+[2021-09-30 21:31:55] House with ID 673 created sucessfully!
+[2021-09-30 21:31:55] House with ID 674 created sucessfully!
+[2021-09-30 21:31:55] House with ID 675 created sucessfully!
+[2021-09-30 21:31:55] House with ID 676 created sucessfully!
+[2021-09-30 21:31:55] House with ID 677 created sucessfully!
+[2021-09-30 21:31:55] House with ID 678 created sucessfully!
+[2021-09-30 21:31:56] House with ID 679 created sucessfully!
+[2021-09-30 21:31:56] House with ID 680 created sucessfully!
+[2021-09-30 21:31:56] House with ID 681 created sucessfully!
+[2021-09-30 21:31:56] House with ID 682 created sucessfully!
+[2021-09-30 21:31:56] House with ID 683 created sucessfully!
+[2021-09-30 21:31:56] House with ID 684 created sucessfully!
+[2021-09-30 21:31:56] House with ID 685 created sucessfully!
+[2021-09-30 21:31:56] House with ID 686 created sucessfully!
+[2021-09-30 21:31:56] House with ID 687 created sucessfully!
+[2021-09-30 21:31:56] House with ID 688 created sucessfully!
+[2021-09-30 21:31:56] House with ID 689 created sucessfully!
+[2021-09-30 21:31:56] House with ID 690 created sucessfully!
+[2021-09-30 21:31:56] House with ID 691 created sucessfully!
+[2021-09-30 21:31:56] House with ID 692 created sucessfully!
+[2021-09-30 21:31:56] House with ID 693 created sucessfully!
+[2021-09-30 21:31:56] House with ID 694 created sucessfully!
+[2021-09-30 21:31:56] House with ID 695 created sucessfully!
+[2021-09-30 21:31:56] House with ID 696 created sucessfully!
+[2021-09-30 21:31:56] House with ID 697 created sucessfully!
+[2021-09-30 21:31:56] House with ID 698 created sucessfully!
+[2021-09-30 21:31:56] House with ID 699 created sucessfully!
+[2021-09-30 21:31:56] House with ID 700 created sucessfully!
+[2021-09-30 21:31:56] House with ID 701 created sucessfully!
+[2021-09-30 21:31:56] House with ID 702 created sucessfully!
+[2021-09-30 21:31:56] House with ID 703 created sucessfully!
+[2021-09-30 21:31:56] House with ID 704 created sucessfully!
+[2021-09-30 21:31:56] House with ID 705 created sucessfully!
+[2021-09-30 21:31:56] House with ID 706 created sucessfully!
+[2021-09-30 21:31:56] House with ID 707 created sucessfully!
+[2021-09-30 21:31:56] House with ID 708 created sucessfully!
+[2021-09-30 21:31:56] House with ID 709 created sucessfully!
+[2021-09-30 21:31:56] House with ID 710 created sucessfully!
+[2021-09-30 21:31:56] House with ID 711 created sucessfully!
+[2021-09-30 21:31:56] House with ID 712 created sucessfully!
+[2021-09-30 21:31:56] House with ID 713 created sucessfully!
+[2021-09-30 21:31:56] House with ID 714 created sucessfully!
+[2021-09-30 21:31:56] House with ID 715 created sucessfully!
+[2021-09-30 21:31:56] House with ID 716 created sucessfully!
+[2021-09-30 21:31:56] House with ID 717 created sucessfully!
+[2021-09-30 21:31:56] House with ID 718 created sucessfully!
+[2021-09-30 21:31:56] House with ID 719 created sucessfully!
+[2021-09-30 21:31:56] House with ID 720 created sucessfully!
+[2021-09-30 21:31:56] House with ID 721 created sucessfully!
+[2021-09-30 21:31:56] House with ID 722 created sucessfully!
+[2021-09-30 21:31:56] House with ID 723 created sucessfully!
+[2021-09-30 21:31:56] House with ID 724 created sucessfully!
+[2021-09-30 21:31:56] House with ID 725 created sucessfully!
+[2021-09-30 21:31:56] House with ID 726 created sucessfully!
+[2021-09-30 21:31:56] House with ID 727 created sucessfully!
+[2021-09-30 21:31:56] House with ID 728 created sucessfully!
+[2021-09-30 21:31:56] House with ID 729 created sucessfully!
+[2021-09-30 21:31:56] House with ID 730 created sucessfully!
+[2021-09-30 21:31:56] House with ID 731 created sucessfully!
+[2021-09-30 21:31:56] House with ID 732 created sucessfully!
+[2021-09-30 21:31:56] House with ID 733 created sucessfully!
+[2021-09-30 21:31:56] House with ID 734 created sucessfully!
+[2021-09-30 21:31:56] House with ID 735 created sucessfully!
+[2021-09-30 21:31:56] House with ID 736 created sucessfully!
+[2021-09-30 21:31:56] House with ID 737 created sucessfully!
+[2021-09-30 21:31:56] House with ID 738 created sucessfully!
+[2021-09-30 21:31:56] House with ID 739 created sucessfully!
+[2021-09-30 21:31:56] House with ID 740 created sucessfully!
+[2021-09-30 21:31:56] House with ID 741 created sucessfully!
+[2021-09-30 21:31:56] House with ID 742 created sucessfully!
+[2021-09-30 21:31:57] House with ID 743 created sucessfully!
+[2021-09-30 21:31:57] House with ID 744 created sucessfully!
+[2021-09-30 21:31:57] House with ID 745 created sucessfully!
+[2021-09-30 21:31:57] House with ID 746 created sucessfully!
+[2021-09-30 21:31:57] House with ID 747 created sucessfully!
+[2021-09-30 21:31:57] House with ID 748 created sucessfully!
+[2021-09-30 21:31:57] House with ID 749 created sucessfully!
+[2021-09-30 21:31:57] House with ID 750 created sucessfully!
+[2021-09-30 21:31:57] House with ID 751 created sucessfully!
+[2021-09-30 21:31:57] House with ID 752 created sucessfully!
+[2021-09-30 21:31:57] House with ID 753 created sucessfully!
+[2021-09-30 21:31:57] House with ID 754 created sucessfully!
+[2021-09-30 21:31:57] House with ID 755 created sucessfully!
+[2021-09-30 21:31:57] ERROR: Couldn't find resource CVRShaders. Check it exists.
+[2021-09-30 21:31:58] WARNING: freecam/freecam.lua(Line 56) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-09-30 21:31:58] Some files in 'freecam' use deprecated functions.
+[2021-09-30 21:31:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:58] WARNING: NGslotmachine/slotmachine_s.lua(Line 43) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-30 21:31:58] WARNING: NGslotmachine/slotmachine_c.lua(Line 388) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-09-30 21:31:58] Some files in 'NGslotmachine' use deprecated functions.
+[2021-09-30 21:31:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:58] WARNING: tele_manager/client_Script.lua(Line 88) [Client] setVehicleFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen.
+[2021-09-30 21:31:58] Some files in 'tele_manager' use deprecated functions.
+[2021-09-30 21:31:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:58] WARNING: NGmisc/zorra_s.lua(Line 192) [Server] getPlayerOccupiedVehicle is deprecated and may not work in future versions. Please replace with getPedOccupiedVehicle.
+[2021-09-30 21:31:58] WARNING: NGmisc/minigameDM.lua(Line 154) [Server] getPlayerArmor is deprecated and may not work in future versions. Please replace with getPedArmor.
+[2021-09-30 21:31:58] WARNING: NGmisc/minigameDM.lua(Line 159) [Server] setPlayerArmor is deprecated and may not work in future versions. Please replace with setPedArmor.
+[2021-09-30 21:31:58] Some files in 'NGmisc' use deprecated functions.
+[2021-09-30 21:31:58] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:58] WARNING: [needed]\NGmisc\zorra_s.lua:71: Bad argument @ 'attachElements' [Expected element at argument 2, got nil]
+[2021-09-30 21:31:59] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-30 21:31:59] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-09-30 21:31:59] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:31:59] WARNING: File 'mods/vehicles/oceanic.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/vehicles/hotring2.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/vehicles/infernus.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/vehicles/wayfarer.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/skins/bfybu.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/skins/sbmost.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/skins/wmoprea.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/skins/dwmylc1.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:31:59] WARNING: File 'mods/skins/male01.dff' in resource 'moddownloader' contains errors.
+[2021-09-30 21:32:09] INFO: [DGS]Config File Loaded!
+[2021-09-30 21:32:09] INFO: [DGS]G2D is enabled!
+[2021-09-30 21:32:09] WARNING: CVRPescadorMinigame <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-30 21:32:09] WARNING: CVRPescadorMinigame requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-09-30 21:32:09] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-09-30 21:32:09] Querying MTA master server... success! (Auto detected IP:161.10.207.172)
+[2021-09-30 21:32:09] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-09-30 21:32:09] WARNING: <owner_email_address> not set
+[2021-09-30 21:32:09] Server started and is ready to accept connections!
+[2021-09-30 21:32:09] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-09-30 21:32:09] Type 'help' for a list of commands.
+[2021-09-30 21:32:09] INFO: 
+
+====================================
+[2021-09-30 21:32:09] INFO: 
+
+====================================
+[2021-09-30 21:32:09] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-30 21:32:09] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-09-30 21:32:09] INFO: ====================================
+[2021-09-30 21:32:09] INFO: ====================================
+[2021-09-30 21:32:09] INFO: = Your version: 1.1.4
+[2021-09-30 21:32:09] INFO: = Your version: 1.1.4
+[2021-09-30 21:32:09] ERROR: [needed]\NGGamemode\ng_verCheck.server.lua:14: attempt to concatenate local 'version' (a nil value)
+[2021-09-30 21:32:09] It took 4.117 seconds to build all houses.
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:1 - Peugeout 205T16 Rally!
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:2 - Suzuki Swift!
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:3 - Alimentador!
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:4 - Carro Perro!
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:5 - Ferrari F430!
+[2021-09-30 21:32:09] INFO: Successfully loaded mod #1:6 - Camión de Acarreos!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:7 - Yamaha Ninja!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:8 - Toyota AE85 LEVIN!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:9 - Dodge Charger RT 1970!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:10 - Ford GT 2005!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:11 - Shelby Mustang 1970!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:12 - Bravado GTA V!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:13 - Nissan Skyline R32 GTR!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:14 - Nissan Farlady 300zx!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:15 - Ford Focus ST!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:16 - Lamborghini Countach!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:17 - Trineo de Nieve!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:18 - Mitshubishi Lancer Evo III!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:19 - Yamaha Ninja 2!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:20 - Mazda FC Savanna RX7!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:21 - Toyota Fortuner!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:22 - Camioneta FULL SONIDO KEVIN OCAMPO EDITION!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:23 - Pontiac Trans AM 1970!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:24 - Ferrari F40!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:25 - Mazda FD RX7!
+[2021-09-30 21:32:10] INFO: Successfully loaded mod #1:26 - Chévrolet Impala!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:27 - Maserati Gran Turismo!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:28 - Toyota AE86 Sprinter Trueno GT APEX!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:29 - Lancer Evo X!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:30 - Delorean DMC-12 Time Machine!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:31 - Honda Civic Type R!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:32 - Nissan Skyline R35 LibertyWalk!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:33 - Nissan Skyline R32 Drift!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:34 - Dodge Durango!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:35 - Mini Cooper!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:36 - Rolls Royce Phantom Hamann!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:37 - Mercedes Benz GWagon!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:38 - Suzuki Ax100!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:39 - Chevrolet Camaro Dragster!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:40 - Trailer2!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:41 - Barracks!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:42 - Honda S2000 CVR Edition!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:43 - Mercedes Benz Clase E!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:44 - BMW E30 1986!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:45 - Ambulancia!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:46 - Andromeda!
+[2021-09-30 21:32:11] INFO: Successfully loaded mod #1:47 - Vehiculo Exclusivo Clan GT!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:48 - Chevrolet Old!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:49 - Camioneta PONAL!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:50 - Honda Civic Initial D!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:51 - Hijuebus!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:52 - Camión Postobón!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:53 - Yamaha DT!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:54 - Fiat 80ntero!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:55 - Camión Ejército!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:56 - Honda C90!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:57 - Mitshubishi Montero!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:58 - Yamaha 115!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:59 - Tanqueta ESMAD!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:60 - Harley Davidson!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:61 - Sofá!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:62 - Renault Sandero!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:63 - Cadillac Eldorado Biarritz Convertible 1959!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:64 - Formula1!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:65 - Ferrari LaFerrari!
+[2021-09-30 21:32:12] INFO: Successfully loaded mod #1:66 - Moto Policías!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:67 - Rare Halloween!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:68 - Infernus!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:69 - Renault Logan!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:70 - Toyota Land Cruiser 1990!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:71 - Mazda Miata NB!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:72 - Toyota Land Cruiser (FJ)!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:73 - Jeep!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:74 - Daewoo Van!
+[2021-09-30 21:32:13] INFO: Successfully loaded mod #1:75 - MTB!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:76 - Mazda 626 Millenium!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:77 - Chiva Rumbera!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:78 - Renault 4!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:79 - Chevrolet Elcamino!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:80 - Pizzaboy Rappi!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:81 - Duster Policía!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:82 - Nissan NP300 Policía!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:83 - Nissan Camión Policía!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:84 - Chevrolet Spark!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:85 - Chevrolet Corsa!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:86 - Chevrolet Spark GT!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:87 - Buseta Colombia Shitposting .exe!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:88 - Camión alquería!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:89 - Buseta Bogotana!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:90 - Chevrolet Aveo tunning!
+[2021-09-30 21:32:14] INFO: Successfully loaded mod #1:91 - Zorra!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:92 - Renault 18!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:93 - Chevrolet Spark Taxi!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:94 - Camión Basura Bogotá!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:95 - Yate!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:96 - Nissan Skyline R34 Nur II!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:97 - NMax!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:98 - Nissan Tsuru!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:99 - Toyota Hilux!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:100 - Suzuki Samurai!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:101 - Mazda 3 2005!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:102 - Toyota Prado!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:103 - Toyota Supra!
+[2021-09-30 21:32:15] INFO: Successfully loaded mod #1:104 - Peugeot 206 Tunning!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #1:105 - BMW M5 E39!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:1 - Militar colombiano!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:2 - Spiderman!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:3 - Takeshi Nakazato!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:4 - Santa Fe barrista 1!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:5 - Miracle girls Fiesta - Kyouko Toshinou!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:6 - Rick grames - TWD!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:7 - Kagamine Len!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:8 - Miyuki takara - Lucky Star!
+[2021-09-30 21:32:16] INFO: Failed to load #2:9 (Motociclista) - txd file not found on server
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:10 - Condorito!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:11 - Eva series 1!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:12 - Burro - Shrek!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:13 - Slenderman!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:14 - GTA Online Random !
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:15 - Colegiala anime!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:16 - vegetta!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:17 - SCP-173!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:18 - Santa marta skin!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:19 - jotaron - jojo's!
+[2021-09-30 21:32:16] INFO: Successfully loaded mod #2:20 - CJ chiquito!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:21 - Limonagrio - Hora de aventura!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:22 - Dio - Jojo's!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:23 - Policia Campesino!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:24 - RE Dead Or Alive 5LR - Honoka C5!
+[2021-09-30 21:32:17] INFO: Failed to load #2:25 (Pablo Escobar) - txd file not found on server
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:26 - Konata - Lucky Star!
+[2021-09-30 21:32:17] INFO: Failed to load #2:27 (Thanos Skin) - txd file not found on server
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:28 - Espia!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:29 - Tomoe Mami - Mahou Shoujo Madoka Magica!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:30 - Skin Caleña - Colombia!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:31 - rey anayami - evangelion!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:32 - Sengoku Otome!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:33 - Shinji - Evangelion!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:34 - Guarda de transito!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:35 - Skin Buhodermia!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:36 - Rin - Love Live!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:37 - Samus Aran Zero Suit - Metroid!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:38 - Ricardo milos!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:39 - Ben10!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:40 - Goofy!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:41 - PoloPolo!
+[2021-09-30 21:32:17] INFO: Failed to load #2:42 (RockyBalboa) - txd file not found on server
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:43 - Franklin GTAV!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:44 - Nico!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:45 - Pony!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:46 - Furro!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:47 - SCP-096!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:48 - Medico!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:49 - Giorno Jojo´s!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:50 - Michael GTAV!
+[2021-09-30 21:32:17] INFO: Successfully loaded mod #2:51 - Mamizou!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:52 - Rem!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:53 - Airi!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:54 - WinniePooh!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:55 - Kurumi!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:56 - Rick!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:57 - Joker!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:58 - Trevor GTAV!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:59 - Truth!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:60 - Asuka!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:61 - LadyBug!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:62 - DonkyKong!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:63 - Tarzan!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:64 - Yandere!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:65 - GataKawaii!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:66 - Yandere 2!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:67 - Kana!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:68 - Ryoko!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:69 - Lala!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:70 - Montana!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:71 - Yandere 3!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:72 - Schwi dola!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:73 - Jhon Week!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:74 - Maestro Halo!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:75 - Nick Wilde Zootopia!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:76 - Roblox!
+[2021-09-30 21:32:18] INFO: Successfully loaded mod #2:77 - Lucario!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:78 - Maduro!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:79 - Naputo !
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:80 - Paul Walker!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:81 - Arthur Morgan!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:82 - Megu!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:83 - Akatsuki1!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:84 - Akatsuki2!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:85 - Akatsuki3!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:86 - Shoto Todoroki!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:87 - Nea Brasileña!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:88 - Akatsuki4!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:89 - Akatsuki5!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:90 - Akatsuki6!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:91 - Akatsuki7!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:92 - Guts!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:93 - Aqua - Konosuba!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:94 - Fata Bloom!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:95 - Skin kpucho!
+[2021-09-30 21:32:19] INFO: Successfully loaded mod #2:96 - Deadpool!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:97 - Deku!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:98 - Goku!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:99 - Shaggy!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:100 - Tommy Vercetti!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:101 - Skin Messi!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:102 - Skin Esmeralda2!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:103 - Skin Esmeralda3!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:104 - Skin Esmeralda5!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:105 - Skin Esmeralda6!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:106 - Skin Esmeralda7!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:107 - Skin Esmeralda8!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:108 - Skin Esmeralda9!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:109 - Skin Esmeralda10!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:110 - Skin Esmeralda11!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:111 - Trunks del Futuro!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:112 - Piccolo!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:113 - Fiona Ogro!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:114 - Takumi!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:115 - Shinohara Miyu Sword Art: Militar!
+[2021-09-30 21:32:20] INFO: Successfully loaded mod #2:116 - Crash Bandicoot!
+[2021-09-30 21:32:38] CONNECT: ASH connected (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.8-9.20957.0)
+[2021-09-30 21:32:38] JOIN: ASH joined the game (IP: 192.168.1.6)
+[2021-09-30 21:33:35] INFO: modloader server: Player ASH requested replacing
+[2021-09-30 21:33:56] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-09-30 21:33:56] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-09-30 21:33:56] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-09-30 21:36:26] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:36:26] Stopping NGgreenzones
+[2021-09-30 21:36:27] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:36:27] Starting NGgreenzones
+[2021-09-30 21:36:29] NGgreenzones restarted successfully
+[2021-09-30 21:36:58] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-09-30 21:37:58] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:37:58] Stopping NGgreenzones
+[2021-09-30 21:37:58] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:37:58] Starting NGgreenzones
+[2021-09-30 21:37:58] SCRIPT ERROR: [no_ng_tag]\NGgreenzones\server.lua:118: 'then' expected near 'getElementType'
+[2021-09-30 21:37:58] ERROR: Loading script failed: [no_ng_tag]\NGgreenzones\server.lua:118: 'then' expected near 'getElementType'
+[2021-09-30 21:37:58] NGgreenzones restarted successfully
+[2021-09-30 21:38:54] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:38:54] Stopping NGgreenzones
+[2021-09-30 21:38:54] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:38:54] Starting NGgreenzones
+[2021-09-30 21:38:54] NGgreenzones restarted successfully
+[2021-09-30 21:39:03] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:39:03] Stopping NGgreenzones
+[2021-09-30 21:39:03] Starting NGgreenzones
+[2021-09-30 21:39:04] NGgreenzones restarted successfully
+[2021-09-30 21:39:49] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:39:49] Stopping NGgreenzones
+[2021-09-30 21:39:49] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:39:49] Starting NGgreenzones
+[2021-09-30 21:39:49] NGgreenzones restarted successfully
+[2021-09-30 21:40:19] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:40:19] Stopping NGgreenzones
+[2021-09-30 21:40:19] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:40:19] Starting NGgreenzones
+[2021-09-30 21:40:19] NGgreenzones restarted successfully
+[2021-09-30 21:42:36] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:42:36] Stopping NGgreenzones
+[2021-09-30 21:42:36] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:42:36] Starting NGgreenzones
+[2021-09-30 21:42:36] NGgreenzones restarted successfully
+[2021-09-30 21:42:55] SCRIPT: ASH(AshTheLynx2) set their script debug mode to 3
+[2021-09-30 21:43:11] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-09-30 21:43:12] Stopping NGgreenzones
+[2021-09-30 21:43:12] Resource 'NGgreenzones' changed, reloading and starting
+[2021-09-30 21:43:12] Starting NGgreenzones
+[2021-09-30 21:43:13] NGgreenzones restarted successfully
+[2021-09-30 21:44:20] CONNECT: ASH2 connected (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193  Version: 1.5.8-9.20957.0)
+[2021-09-30 21:44:20] JOIN: ASH2 joined the game (IP: 192.168.1.7)
+[2021-09-30 21:44:52] INFO: modloader server: Player ASH2 requested replacing
+[2021-09-30 21:46:49] INFO: MATEMÁTICAS: Pregunta 71 - 37 + 4410 ha sido generada con una respueta de 4444
+[2021-09-30 21:53:07] QUIT: ASH left the game [Quit]
+[2021-09-30 21:53:07] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-30 22:01:49] INFO: MATEMÁTICAS: Pregunta 81 - 41 + 4181 ha sido generada con una respueta de 4221
+[2021-09-30 22:04:06] QUIT: ASH2 left the game [Quit]
+[2021-09-30 22:04:06] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-09-30 22:16:49] INFO: MATEMÁTICAS: Pregunta 80 - 28 + 8529 ha sido generada con una respueta de 8581
+[2021-09-30 22:31:49] INFO: MATEMÁTICAS: Pregunta 50 - 22 + 4636 ha sido generada con una respueta de 4664
+[2021-09-30 22:31:50] INFO: Enviando dinero VIP....
+[2021-09-30 22:31:50] INFO: Enviando dinero VIP
+[2021-09-30 22:46:49] INFO: MATEMÁTICAS: Pregunta 87 - 24 + 3687 ha sido generada con una respueta de 3750
+[2021-09-30 23:01:49] INFO: MATEMÁTICAS: Pregunta 75 - 35 + 4613 ha sido generada con una respueta de 4653
+==================================================================
+= Multi Theft Auto: San Andreas v1.5.8
+==================================================================
+= Server name      : Default MTA Server
+= Server IP address: auto
+= Server port      : 22003
+= 
+= Log file         : ..-MTA-Server/mods/deathmatch/logs/server.log
+= Maximum players  : 32
+= HTTP port        : 22005
+= Voice Chat       : Disabled
+= Bandwidth saving : Medium
+==================================================================
+[2021-10-03 12:10:55] Compacting accounts database 'internal.db' ...
+[2021-10-03 12:11:41] Resources: 147 loaded, 0 failed
+[2021-10-03 12:11:41] Compacting database 'registry.db' ...
+[2021-10-03 12:11:41] Starting resources...
+[2021-10-03 12:11:41] Server minclientversion is now 1.5.8-9.20927.0
+[2021-10-03 12:11:41] INFO: Database has been connected
+[2021-10-03 12:11:41] INFO: Checking for NG Gamemode updates 
+[2021-10-03 12:11:42] INFO: Checking for NG Gamemode updates 
+[2021-10-03 12:11:42] INFO: NGGroups: Successfully loaded 15 groups from the sql database (70MS - About 4MS/group)
+[2021-10-03 12:11:42] WARNING: NGJobs/criminal/drifter/drift_c.lua(Line 328) [Client] setControlState is deprecated and may not work in future versions. Please replace with setPedControlState.
+[2021-10-03 12:11:42] Some files in 'NGJobs' use deprecated functions.
+[2021-10-03 12:11:42] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:42] ERROR: Couldn't find resource NGLottery. Check it exists.
+[2021-10-03 12:11:42] INFO: Default jail warp location: 1779.45, -1566.41, -3.69
+[2021-10-03 12:11:42] INFO: Admin jail warp location: 1757.65, -1565.21, 1.98
+[2021-10-03 12:11:42] INFO: Release jail warp location: 1543.32, -1675.6, 13.56
+[2021-10-03 12:11:42] WARNING: NGVehicles/config.lua(Line 1) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-10-03 12:11:42] Some files in 'NGVehicles' use deprecated functions.
+[2021-10-03 12:11:42] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:42] ERROR: [needed]\NGVehicles\vehicles\vehicles_s.lua:758: bad argument #1 to 'pairs' (table expected, got string)
+[2021-10-03 12:11:42] INFO: ===============================================================================
+[2021-10-03 12:11:42] INFO:  MTA:SA HANDLING EDITOR [hedit.github.io]
+[2021-10-03 12:11:42] INFO: ===============================================================================
+[2021-10-03 12:11:42] WARNING: [needed]\CVRCapturaelCamion\s_CVRCapturaelCamion.lua:69: Bad argument @ 'startResource' [Expected resource-data at argument 1, got boolean]
+[2021-10-03 12:11:42] ERROR: Couldn't find resource guied. Check it exists.
+[2021-10-03 12:11:42] ERROR: Couldn't find resource guirun. Check it exists.
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:1: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:6: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:11: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:13: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:18: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:23: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:42: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:49: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:56: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:63: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] ERROR: [web]\webstats\internal_stats.lua:77: call: failed to call 'webstats:registerStat'
+[2021-10-03 12:11:43] WARNING: File 'skins/hmogar.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/bfypro.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/wmyclot.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/vwmybjd.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/wfyri.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/vwfywa2.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/zero.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/dnb2.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:43] WARNING: File 'skins/omyst.dff' in resource 'NGcargamods' contains errors.
+[2021-10-03 12:11:44] ERROR: adminshout client.lua is invalid. Please re-compile at http://luac.mtasa.com/
+[2021-10-03 12:11:44] ERROR: Couldn't find resource clothessaver. Check it exists.
+[2021-10-03 12:11:44] [HOUSESYSTEM]MySQL handler 1 accepted!
+[2021-10-03 12:11:44] House with ID 108 created sucessfully!
+[2021-10-03 12:11:44] House with ID 109 created sucessfully!
+[2021-10-03 12:11:44] House with ID 110 created sucessfully!
+[2021-10-03 12:11:44] House with ID 111 created sucessfully!
+[2021-10-03 12:11:44] House with ID 112 created sucessfully!
+[2021-10-03 12:11:44] House with ID 113 created sucessfully!
+[2021-10-03 12:11:44] House with ID 114 created sucessfully!
+[2021-10-03 12:11:44] House with ID 115 created sucessfully!
+[2021-10-03 12:11:44] House with ID 116 created sucessfully!
+[2021-10-03 12:11:44] House with ID 117 created sucessfully!
+[2021-10-03 12:11:44] House with ID 118 created sucessfully!
+[2021-10-03 12:11:44] House with ID 119 created sucessfully!
+[2021-10-03 12:11:44] House with ID 120 created sucessfully!
+[2021-10-03 12:11:44] House with ID 121 created sucessfully!
+[2021-10-03 12:11:44] House with ID 122 created sucessfully!
+[2021-10-03 12:11:44] House with ID 123 created sucessfully!
+[2021-10-03 12:11:44] House with ID 124 created sucessfully!
+[2021-10-03 12:11:44] House with ID 125 created sucessfully!
+[2021-10-03 12:11:44] House with ID 126 created sucessfully!
+[2021-10-03 12:11:44] House with ID 127 created sucessfully!
+[2021-10-03 12:11:44] House with ID 128 created sucessfully!
+[2021-10-03 12:11:44] House with ID 129 created sucessfully!
+[2021-10-03 12:11:44] House with ID 130 created sucessfully!
+[2021-10-03 12:11:44] House with ID 131 created sucessfully!
+[2021-10-03 12:11:44] House with ID 132 created sucessfully!
+[2021-10-03 12:11:44] House with ID 133 created sucessfully!
+[2021-10-03 12:11:44] House with ID 134 created sucessfully!
+[2021-10-03 12:11:44] House with ID 135 created sucessfully!
+[2021-10-03 12:11:44] House with ID 136 created sucessfully!
+[2021-10-03 12:11:44] House with ID 137 created sucessfully!
+[2021-10-03 12:11:44] House with ID 138 created sucessfully!
+[2021-10-03 12:11:44] House with ID 139 created sucessfully!
+[2021-10-03 12:11:44] House with ID 140 created sucessfully!
+[2021-10-03 12:11:44] House with ID 141 created sucessfully!
+[2021-10-03 12:11:44] House with ID 142 created sucessfully!
+[2021-10-03 12:11:44] House with ID 143 created sucessfully!
+[2021-10-03 12:11:44] House with ID 144 created sucessfully!
+[2021-10-03 12:11:44] House with ID 145 created sucessfully!
+[2021-10-03 12:11:44] House with ID 146 created sucessfully!
+[2021-10-03 12:11:44] House with ID 147 created sucessfully!
+[2021-10-03 12:11:44] House with ID 148 created sucessfully!
+[2021-10-03 12:11:44] House with ID 149 created sucessfully!
+[2021-10-03 12:11:44] House with ID 150 created sucessfully!
+[2021-10-03 12:11:44] House with ID 151 created sucessfully!
+[2021-10-03 12:11:44] House with ID 152 created sucessfully!
+[2021-10-03 12:11:44] House with ID 153 created sucessfully!
+[2021-10-03 12:11:44] House with ID 154 created sucessfully!
+[2021-10-03 12:11:44] House with ID 155 created sucessfully!
+[2021-10-03 12:11:44] House with ID 156 created sucessfully!
+[2021-10-03 12:11:44] House with ID 157 created sucessfully!
+[2021-10-03 12:11:44] House with ID 158 created sucessfully!
+[2021-10-03 12:11:44] House with ID 159 created sucessfully!
+[2021-10-03 12:11:44] House with ID 160 created sucessfully!
+[2021-10-03 12:11:44] House with ID 161 created sucessfully!
+[2021-10-03 12:11:44] House with ID 162 created sucessfully!
+[2021-10-03 12:11:44] House with ID 163 created sucessfully!
+[2021-10-03 12:11:44] House with ID 164 created sucessfully!
+[2021-10-03 12:11:44] House with ID 165 created sucessfully!
+[2021-10-03 12:11:44] House with ID 166 created sucessfully!
+[2021-10-03 12:11:44] House with ID 167 created sucessfully!
+[2021-10-03 12:11:44] House with ID 168 created sucessfully!
+[2021-10-03 12:11:44] House with ID 169 created sucessfully!
+[2021-10-03 12:11:44] House with ID 170 created sucessfully!
+[2021-10-03 12:11:44] House with ID 171 created sucessfully!
+[2021-10-03 12:11:44] House with ID 172 created sucessfully!
+[2021-10-03 12:11:44] House with ID 173 created sucessfully!
+[2021-10-03 12:11:44] House with ID 174 created sucessfully!
+[2021-10-03 12:11:44] House with ID 175 created sucessfully!
+[2021-10-03 12:11:44] House with ID 176 created sucessfully!
+[2021-10-03 12:11:44] House with ID 177 created sucessfully!
+[2021-10-03 12:11:44] House with ID 178 created sucessfully!
+[2021-10-03 12:11:44] House with ID 179 created sucessfully!
+[2021-10-03 12:11:44] House with ID 180 created sucessfully!
+[2021-10-03 12:11:44] House with ID 181 created sucessfully!
+[2021-10-03 12:11:44] House with ID 182 created sucessfully!
+[2021-10-03 12:11:44] House with ID 183 created sucessfully!
+[2021-10-03 12:11:44] House with ID 184 created sucessfully!
+[2021-10-03 12:11:44] House with ID 185 created sucessfully!
+[2021-10-03 12:11:44] House with ID 186 created sucessfully!
+[2021-10-03 12:11:44] House with ID 187 created sucessfully!
+[2021-10-03 12:11:44] House with ID 188 created sucessfully!
+[2021-10-03 12:11:44] House with ID 189 created sucessfully!
+[2021-10-03 12:11:44] House with ID 190 created sucessfully!
+[2021-10-03 12:11:44] House with ID 191 created sucessfully!
+[2021-10-03 12:11:44] House with ID 192 created sucessfully!
+[2021-10-03 12:11:44] House with ID 193 created sucessfully!
+[2021-10-03 12:11:44] House with ID 194 created sucessfully!
+[2021-10-03 12:11:44] House with ID 195 created sucessfully!
+[2021-10-03 12:11:44] House with ID 196 created sucessfully!
+[2021-10-03 12:11:44] House with ID 197 created sucessfully!
+[2021-10-03 12:11:44] House with ID 198 created sucessfully!
+[2021-10-03 12:11:44] House with ID 199 created sucessfully!
+[2021-10-03 12:11:44] House with ID 200 created sucessfully!
+[2021-10-03 12:11:44] House with ID 201 created sucessfully!
+[2021-10-03 12:11:44] House with ID 202 created sucessfully!
+[2021-10-03 12:11:44] House with ID 203 created sucessfully!
+[2021-10-03 12:11:44] House with ID 204 created sucessfully!
+[2021-10-03 12:11:44] House with ID 205 created sucessfully!
+[2021-10-03 12:11:44] House with ID 206 created sucessfully!
+[2021-10-03 12:11:44] House with ID 207 created sucessfully!
+[2021-10-03 12:11:44] House with ID 208 created sucessfully!
+[2021-10-03 12:11:44] House with ID 209 created sucessfully!
+[2021-10-03 12:11:44] House with ID 210 created sucessfully!
+[2021-10-03 12:11:44] House with ID 211 created sucessfully!
+[2021-10-03 12:11:44] House with ID 212 created sucessfully!
+[2021-10-03 12:11:44] House with ID 213 created sucessfully!
+[2021-10-03 12:11:44] House with ID 214 created sucessfully!
+[2021-10-03 12:11:44] House with ID 215 created sucessfully!
+[2021-10-03 12:11:44] House with ID 216 created sucessfully!
+[2021-10-03 12:11:44] House with ID 217 created sucessfully!
+[2021-10-03 12:11:44] House with ID 218 created sucessfully!
+[2021-10-03 12:11:44] House with ID 219 created sucessfully!
+[2021-10-03 12:11:44] House with ID 220 created sucessfully!
+[2021-10-03 12:11:44] House with ID 221 created sucessfully!
+[2021-10-03 12:11:44] House with ID 222 created sucessfully!
+[2021-10-03 12:11:44] House with ID 223 created sucessfully!
+[2021-10-03 12:11:44] House with ID 224 created sucessfully!
+[2021-10-03 12:11:44] House with ID 225 created sucessfully!
+[2021-10-03 12:11:44] House with ID 226 created sucessfully!
+[2021-10-03 12:11:44] House with ID 227 created sucessfully!
+[2021-10-03 12:11:44] House with ID 228 created sucessfully!
+[2021-10-03 12:11:44] House with ID 229 created sucessfully!
+[2021-10-03 12:11:44] House with ID 230 created sucessfully!
+[2021-10-03 12:11:44] House with ID 231 created sucessfully!
+[2021-10-03 12:11:44] House with ID 232 created sucessfully!
+[2021-10-03 12:11:44] House with ID 233 created sucessfully!
+[2021-10-03 12:11:44] House with ID 234 created sucessfully!
+[2021-10-03 12:11:44] House with ID 235 created sucessfully!
+[2021-10-03 12:11:44] House with ID 236 created sucessfully!
+[2021-10-03 12:11:44] House with ID 237 created sucessfully!
+[2021-10-03 12:11:44] House with ID 238 created sucessfully!
+[2021-10-03 12:11:44] House with ID 239 created sucessfully!
+[2021-10-03 12:11:44] House with ID 240 created sucessfully!
+[2021-10-03 12:11:44] House with ID 241 created sucessfully!
+[2021-10-03 12:11:44] House with ID 242 created sucessfully!
+[2021-10-03 12:11:44] House with ID 243 created sucessfully!
+[2021-10-03 12:11:44] House with ID 244 created sucessfully!
+[2021-10-03 12:11:44] House with ID 245 created sucessfully!
+[2021-10-03 12:11:44] House with ID 246 created sucessfully!
+[2021-10-03 12:11:44] House with ID 247 created sucessfully!
+[2021-10-03 12:11:44] House with ID 248 created sucessfully!
+[2021-10-03 12:11:44] House with ID 249 created sucessfully!
+[2021-10-03 12:11:44] House with ID 250 created sucessfully!
+[2021-10-03 12:11:44] House with ID 251 created sucessfully!
+[2021-10-03 12:11:44] House with ID 252 created sucessfully!
+[2021-10-03 12:11:44] House with ID 253 created sucessfully!
+[2021-10-03 12:11:44] House with ID 254 created sucessfully!
+[2021-10-03 12:11:44] House with ID 255 created sucessfully!
+[2021-10-03 12:11:44] House with ID 256 created sucessfully!
+[2021-10-03 12:11:44] House with ID 257 created sucessfully!
+[2021-10-03 12:11:44] House with ID 258 created sucessfully!
+[2021-10-03 12:11:44] House with ID 259 created sucessfully!
+[2021-10-03 12:11:44] House with ID 260 created sucessfully!
+[2021-10-03 12:11:44] House with ID 261 created sucessfully!
+[2021-10-03 12:11:44] House with ID 262 created sucessfully!
+[2021-10-03 12:11:44] House with ID 263 created sucessfully!
+[2021-10-03 12:11:44] House with ID 264 created sucessfully!
+[2021-10-03 12:11:44] House with ID 265 created sucessfully!
+[2021-10-03 12:11:44] House with ID 266 created sucessfully!
+[2021-10-03 12:11:44] House with ID 267 created sucessfully!
+[2021-10-03 12:11:44] House with ID 268 created sucessfully!
+[2021-10-03 12:11:44] House with ID 269 created sucessfully!
+[2021-10-03 12:11:44] House with ID 270 created sucessfully!
+[2021-10-03 12:11:44] House with ID 271 created sucessfully!
+[2021-10-03 12:11:44] House with ID 272 created sucessfully!
+[2021-10-03 12:11:44] House with ID 273 created sucessfully!
+[2021-10-03 12:11:44] House with ID 274 created sucessfully!
+[2021-10-03 12:11:44] House with ID 275 created sucessfully!
+[2021-10-03 12:11:44] House with ID 276 created sucessfully!
+[2021-10-03 12:11:44] House with ID 277 created sucessfully!
+[2021-10-03 12:11:44] House with ID 278 created sucessfully!
+[2021-10-03 12:11:44] House with ID 279 created sucessfully!
+[2021-10-03 12:11:44] House with ID 280 created sucessfully!
+[2021-10-03 12:11:44] House with ID 281 created sucessfully!
+[2021-10-03 12:11:44] House with ID 282 created sucessfully!
+[2021-10-03 12:11:44] House with ID 283 created sucessfully!
+[2021-10-03 12:11:44] House with ID 284 created sucessfully!
+[2021-10-03 12:11:44] House with ID 285 created sucessfully!
+[2021-10-03 12:11:44] House with ID 286 created sucessfully!
+[2021-10-03 12:11:44] House with ID 287 created sucessfully!
+[2021-10-03 12:11:44] House with ID 288 created sucessfully!
+[2021-10-03 12:11:44] House with ID 289 created sucessfully!
+[2021-10-03 12:11:44] House with ID 290 created sucessfully!
+[2021-10-03 12:11:44] House with ID 291 created sucessfully!
+[2021-10-03 12:11:44] House with ID 292 created sucessfully!
+[2021-10-03 12:11:44] House with ID 293 created sucessfully!
+[2021-10-03 12:11:44] House with ID 294 created sucessfully!
+[2021-10-03 12:11:44] House with ID 295 created sucessfully!
+[2021-10-03 12:11:44] House with ID 296 created sucessfully!
+[2021-10-03 12:11:44] House with ID 297 created sucessfully!
+[2021-10-03 12:11:44] House with ID 298 created sucessfully!
+[2021-10-03 12:11:44] House with ID 299 created sucessfully!
+[2021-10-03 12:11:44] House with ID 300 created sucessfully!
+[2021-10-03 12:11:44] House with ID 301 created sucessfully!
+[2021-10-03 12:11:44] House with ID 302 created sucessfully!
+[2021-10-03 12:11:44] House with ID 303 created sucessfully!
+[2021-10-03 12:11:44] House with ID 304 created sucessfully!
+[2021-10-03 12:11:44] House with ID 305 created sucessfully!
+[2021-10-03 12:11:44] House with ID 306 created sucessfully!
+[2021-10-03 12:11:44] House with ID 307 created sucessfully!
+[2021-10-03 12:11:44] House with ID 308 created sucessfully!
+[2021-10-03 12:11:44] House with ID 309 created sucessfully!
+[2021-10-03 12:11:44] House with ID 310 created sucessfully!
+[2021-10-03 12:11:44] House with ID 311 created sucessfully!
+[2021-10-03 12:11:44] House with ID 312 created sucessfully!
+[2021-10-03 12:11:44] House with ID 313 created sucessfully!
+[2021-10-03 12:11:44] House with ID 314 created sucessfully!
+[2021-10-03 12:11:44] House with ID 315 created sucessfully!
+[2021-10-03 12:11:44] House with ID 316 created sucessfully!
+[2021-10-03 12:11:44] House with ID 317 created sucessfully!
+[2021-10-03 12:11:44] House with ID 318 created sucessfully!
+[2021-10-03 12:11:44] House with ID 319 created sucessfully!
+[2021-10-03 12:11:44] House with ID 320 created sucessfully!
+[2021-10-03 12:11:44] House with ID 321 created sucessfully!
+[2021-10-03 12:11:44] House with ID 322 created sucessfully!
+[2021-10-03 12:11:44] House with ID 323 created sucessfully!
+[2021-10-03 12:11:44] House with ID 324 created sucessfully!
+[2021-10-03 12:11:44] House with ID 325 created sucessfully!
+[2021-10-03 12:11:44] House with ID 326 created sucessfully!
+[2021-10-03 12:11:44] House with ID 327 created sucessfully!
+[2021-10-03 12:11:44] House with ID 328 created sucessfully!
+[2021-10-03 12:11:44] House with ID 329 created sucessfully!
+[2021-10-03 12:11:44] House with ID 330 created sucessfully!
+[2021-10-03 12:11:44] House with ID 331 created sucessfully!
+[2021-10-03 12:11:44] House with ID 332 created sucessfully!
+[2021-10-03 12:11:44] House with ID 333 created sucessfully!
+[2021-10-03 12:11:44] House with ID 334 created sucessfully!
+[2021-10-03 12:11:44] House with ID 335 created sucessfully!
+[2021-10-03 12:11:44] House with ID 336 created sucessfully!
+[2021-10-03 12:11:44] House with ID 337 created sucessfully!
+[2021-10-03 12:11:44] House with ID 338 created sucessfully!
+[2021-10-03 12:11:44] House with ID 339 created sucessfully!
+[2021-10-03 12:11:44] House with ID 340 created sucessfully!
+[2021-10-03 12:11:44] House with ID 341 created sucessfully!
+[2021-10-03 12:11:44] House with ID 342 created sucessfully!
+[2021-10-03 12:11:44] House with ID 343 created sucessfully!
+[2021-10-03 12:11:44] House with ID 344 created sucessfully!
+[2021-10-03 12:11:44] House with ID 345 created sucessfully!
+[2021-10-03 12:11:44] House with ID 346 created sucessfully!
+[2021-10-03 12:11:44] House with ID 347 created sucessfully!
+[2021-10-03 12:11:44] House with ID 348 created sucessfully!
+[2021-10-03 12:11:44] House with ID 349 created sucessfully!
+[2021-10-03 12:11:44] House with ID 350 created sucessfully!
+[2021-10-03 12:11:44] House with ID 351 created sucessfully!
+[2021-10-03 12:11:44] House with ID 352 created sucessfully!
+[2021-10-03 12:11:44] House with ID 353 created sucessfully!
+[2021-10-03 12:11:44] House with ID 354 created sucessfully!
+[2021-10-03 12:11:44] House with ID 355 created sucessfully!
+[2021-10-03 12:11:44] House with ID 356 created sucessfully!
+[2021-10-03 12:11:44] House with ID 357 created sucessfully!
+[2021-10-03 12:11:44] House with ID 358 created sucessfully!
+[2021-10-03 12:11:44] House with ID 359 created sucessfully!
+[2021-10-03 12:11:44] House with ID 360 created sucessfully!
+[2021-10-03 12:11:44] House with ID 361 created sucessfully!
+[2021-10-03 12:11:44] House with ID 362 created sucessfully!
+[2021-10-03 12:11:44] House with ID 363 created sucessfully!
+[2021-10-03 12:11:44] House with ID 364 created sucessfully!
+[2021-10-03 12:11:44] House with ID 365 created sucessfully!
+[2021-10-03 12:11:44] House with ID 366 created sucessfully!
+[2021-10-03 12:11:44] House with ID 367 created sucessfully!
+[2021-10-03 12:11:44] House with ID 368 created sucessfully!
+[2021-10-03 12:11:44] House with ID 369 created sucessfully!
+[2021-10-03 12:11:44] House with ID 370 created sucessfully!
+[2021-10-03 12:11:44] House with ID 371 created sucessfully!
+[2021-10-03 12:11:44] House with ID 372 created sucessfully!
+[2021-10-03 12:11:44] House with ID 373 created sucessfully!
+[2021-10-03 12:11:44] House with ID 374 created sucessfully!
+[2021-10-03 12:11:44] House with ID 375 created sucessfully!
+[2021-10-03 12:11:44] House with ID 376 created sucessfully!
+[2021-10-03 12:11:44] House with ID 377 created sucessfully!
+[2021-10-03 12:11:44] House with ID 378 created sucessfully!
+[2021-10-03 12:11:44] House with ID 379 created sucessfully!
+[2021-10-03 12:11:44] House with ID 380 created sucessfully!
+[2021-10-03 12:11:44] House with ID 381 created sucessfully!
+[2021-10-03 12:11:44] House with ID 382 created sucessfully!
+[2021-10-03 12:11:44] House with ID 383 created sucessfully!
+[2021-10-03 12:11:44] House with ID 384 created sucessfully!
+[2021-10-03 12:11:44] House with ID 385 created sucessfully!
+[2021-10-03 12:11:44] House with ID 386 created sucessfully!
+[2021-10-03 12:11:44] House with ID 387 created sucessfully!
+[2021-10-03 12:11:44] House with ID 388 created sucessfully!
+[2021-10-03 12:11:44] House with ID 389 created sucessfully!
+[2021-10-03 12:11:44] House with ID 390 created sucessfully!
+[2021-10-03 12:11:44] House with ID 391 created sucessfully!
+[2021-10-03 12:11:44] House with ID 392 created sucessfully!
+[2021-10-03 12:11:44] House with ID 393 created sucessfully!
+[2021-10-03 12:11:44] House with ID 394 created sucessfully!
+[2021-10-03 12:11:44] House with ID 395 created sucessfully!
+[2021-10-03 12:11:44] House with ID 396 created sucessfully!
+[2021-10-03 12:11:44] House with ID 397 created sucessfully!
+[2021-10-03 12:11:44] House with ID 398 created sucessfully!
+[2021-10-03 12:11:44] House with ID 399 created sucessfully!
+[2021-10-03 12:11:44] House with ID 400 created sucessfully!
+[2021-10-03 12:11:44] House with ID 401 created sucessfully!
+[2021-10-03 12:11:44] House with ID 402 created sucessfully!
+[2021-10-03 12:11:44] House with ID 403 created sucessfully!
+[2021-10-03 12:11:44] House with ID 404 created sucessfully!
+[2021-10-03 12:11:44] House with ID 405 created sucessfully!
+[2021-10-03 12:11:44] House with ID 406 created sucessfully!
+[2021-10-03 12:11:44] House with ID 407 created sucessfully!
+[2021-10-03 12:11:44] House with ID 408 created sucessfully!
+[2021-10-03 12:11:44] House with ID 409 created sucessfully!
+[2021-10-03 12:11:44] House with ID 410 created sucessfully!
+[2021-10-03 12:11:44] House with ID 411 created sucessfully!
+[2021-10-03 12:11:44] House with ID 412 created sucessfully!
+[2021-10-03 12:11:44] House with ID 413 created sucessfully!
+[2021-10-03 12:11:44] House with ID 414 created sucessfully!
+[2021-10-03 12:11:44] House with ID 415 created sucessfully!
+[2021-10-03 12:11:44] House with ID 416 created sucessfully!
+[2021-10-03 12:11:44] House with ID 417 created sucessfully!
+[2021-10-03 12:11:44] House with ID 418 created sucessfully!
+[2021-10-03 12:11:44] House with ID 419 created sucessfully!
+[2021-10-03 12:11:44] House with ID 420 created sucessfully!
+[2021-10-03 12:11:44] House with ID 421 created sucessfully!
+[2021-10-03 12:11:44] House with ID 422 created sucessfully!
+[2021-10-03 12:11:44] House with ID 423 created sucessfully!
+[2021-10-03 12:11:44] House with ID 424 created sucessfully!
+[2021-10-03 12:11:44] House with ID 425 created sucessfully!
+[2021-10-03 12:11:44] House with ID 426 created sucessfully!
+[2021-10-03 12:11:44] House with ID 427 created sucessfully!
+[2021-10-03 12:11:44] House with ID 428 created sucessfully!
+[2021-10-03 12:11:44] House with ID 429 created sucessfully!
+[2021-10-03 12:11:44] House with ID 430 created sucessfully!
+[2021-10-03 12:11:44] House with ID 431 created sucessfully!
+[2021-10-03 12:11:44] House with ID 432 created sucessfully!
+[2021-10-03 12:11:44] House with ID 433 created sucessfully!
+[2021-10-03 12:11:44] House with ID 434 created sucessfully!
+[2021-10-03 12:11:44] House with ID 435 created sucessfully!
+[2021-10-03 12:11:44] House with ID 436 created sucessfully!
+[2021-10-03 12:11:44] House with ID 437 created sucessfully!
+[2021-10-03 12:11:44] House with ID 438 created sucessfully!
+[2021-10-03 12:11:44] House with ID 439 created sucessfully!
+[2021-10-03 12:11:44] House with ID 440 created sucessfully!
+[2021-10-03 12:11:44] House with ID 441 created sucessfully!
+[2021-10-03 12:11:44] House with ID 442 created sucessfully!
+[2021-10-03 12:11:44] House with ID 443 created sucessfully!
+[2021-10-03 12:11:44] House with ID 444 created sucessfully!
+[2021-10-03 12:11:44] House with ID 445 created sucessfully!
+[2021-10-03 12:11:44] House with ID 446 created sucessfully!
+[2021-10-03 12:11:44] House with ID 447 created sucessfully!
+[2021-10-03 12:11:44] House with ID 448 created sucessfully!
+[2021-10-03 12:11:44] House with ID 449 created sucessfully!
+[2021-10-03 12:11:44] House with ID 450 created sucessfully!
+[2021-10-03 12:11:44] House with ID 451 created sucessfully!
+[2021-10-03 12:11:44] House with ID 452 created sucessfully!
+[2021-10-03 12:11:44] House with ID 453 created sucessfully!
+[2021-10-03 12:11:44] House with ID 454 created sucessfully!
+[2021-10-03 12:11:44] House with ID 455 created sucessfully!
+[2021-10-03 12:11:44] House with ID 456 created sucessfully!
+[2021-10-03 12:11:44] House with ID 457 created sucessfully!
+[2021-10-03 12:11:44] House with ID 458 created sucessfully!
+[2021-10-03 12:11:44] House with ID 459 created sucessfully!
+[2021-10-03 12:11:44] House with ID 460 created sucessfully!
+[2021-10-03 12:11:44] House with ID 461 created sucessfully!
+[2021-10-03 12:11:44] House with ID 462 created sucessfully!
+[2021-10-03 12:11:44] House with ID 463 created sucessfully!
+[2021-10-03 12:11:44] House with ID 464 created sucessfully!
+[2021-10-03 12:11:44] House with ID 465 created sucessfully!
+[2021-10-03 12:11:44] House with ID 466 created sucessfully!
+[2021-10-03 12:11:44] House with ID 467 created sucessfully!
+[2021-10-03 12:11:44] House with ID 468 created sucessfully!
+[2021-10-03 12:11:44] House with ID 469 created sucessfully!
+[2021-10-03 12:11:44] House with ID 470 created sucessfully!
+[2021-10-03 12:11:44] House with ID 471 created sucessfully!
+[2021-10-03 12:11:44] House with ID 472 created sucessfully!
+[2021-10-03 12:11:44] House with ID 473 created sucessfully!
+[2021-10-03 12:11:44] House with ID 474 created sucessfully!
+[2021-10-03 12:11:44] House with ID 475 created sucessfully!
+[2021-10-03 12:11:44] House with ID 476 created sucessfully!
+[2021-10-03 12:11:44] House with ID 477 created sucessfully!
+[2021-10-03 12:11:44] House with ID 478 created sucessfully!
+[2021-10-03 12:11:44] House with ID 479 created sucessfully!
+[2021-10-03 12:11:44] House with ID 480 created sucessfully!
+[2021-10-03 12:11:44] House with ID 481 created sucessfully!
+[2021-10-03 12:11:44] House with ID 482 created sucessfully!
+[2021-10-03 12:11:44] House with ID 483 created sucessfully!
+[2021-10-03 12:11:44] House with ID 484 created sucessfully!
+[2021-10-03 12:11:44] House with ID 485 created sucessfully!
+[2021-10-03 12:11:44] House with ID 486 created sucessfully!
+[2021-10-03 12:11:44] House with ID 487 created sucessfully!
+[2021-10-03 12:11:44] House with ID 488 created sucessfully!
+[2021-10-03 12:11:44] House with ID 489 created sucessfully!
+[2021-10-03 12:11:44] House with ID 490 created sucessfully!
+[2021-10-03 12:11:44] House with ID 491 created sucessfully!
+[2021-10-03 12:11:44] House with ID 492 created sucessfully!
+[2021-10-03 12:11:44] House with ID 493 created sucessfully!
+[2021-10-03 12:11:44] House with ID 494 created sucessfully!
+[2021-10-03 12:11:44] House with ID 495 created sucessfully!
+[2021-10-03 12:11:44] House with ID 496 created sucessfully!
+[2021-10-03 12:11:44] House with ID 497 created sucessfully!
+[2021-10-03 12:11:44] House with ID 498 created sucessfully!
+[2021-10-03 12:11:44] House with ID 499 created sucessfully!
+[2021-10-03 12:11:44] House with ID 500 created sucessfully!
+[2021-10-03 12:11:44] House with ID 501 created sucessfully!
+[2021-10-03 12:11:44] House with ID 502 created sucessfully!
+[2021-10-03 12:11:44] House with ID 503 created sucessfully!
+[2021-10-03 12:11:44] House with ID 504 created sucessfully!
+[2021-10-03 12:11:44] House with ID 505 created sucessfully!
+[2021-10-03 12:11:44] House with ID 506 created sucessfully!
+[2021-10-03 12:11:44] House with ID 507 created sucessfully!
+[2021-10-03 12:11:44] House with ID 508 created sucessfully!
+[2021-10-03 12:11:44] House with ID 509 created sucessfully!
+[2021-10-03 12:11:44] House with ID 510 created sucessfully!
+[2021-10-03 12:11:44] House with ID 511 created sucessfully!
+[2021-10-03 12:11:44] House with ID 512 created sucessfully!
+[2021-10-03 12:11:44] House with ID 513 created sucessfully!
+[2021-10-03 12:11:44] House with ID 514 created sucessfully!
+[2021-10-03 12:11:44] House with ID 515 created sucessfully!
+[2021-10-03 12:11:44] House with ID 516 created sucessfully!
+[2021-10-03 12:11:44] House with ID 517 created sucessfully!
+[2021-10-03 12:11:44] House with ID 518 created sucessfully!
+[2021-10-03 12:11:44] House with ID 519 created sucessfully!
+[2021-10-03 12:11:44] House with ID 520 created sucessfully!
+[2021-10-03 12:11:44] House with ID 521 created sucessfully!
+[2021-10-03 12:11:44] House with ID 522 created sucessfully!
+[2021-10-03 12:11:44] House with ID 523 created sucessfully!
+[2021-10-03 12:11:44] House with ID 524 created sucessfully!
+[2021-10-03 12:11:44] House with ID 525 created sucessfully!
+[2021-10-03 12:11:44] House with ID 526 created sucessfully!
+[2021-10-03 12:11:44] House with ID 527 created sucessfully!
+[2021-10-03 12:11:44] House with ID 528 created sucessfully!
+[2021-10-03 12:11:44] House with ID 529 created sucessfully!
+[2021-10-03 12:11:44] House with ID 530 created sucessfully!
+[2021-10-03 12:11:44] House with ID 531 created sucessfully!
+[2021-10-03 12:11:44] House with ID 532 created sucessfully!
+[2021-10-03 12:11:44] House with ID 533 created sucessfully!
+[2021-10-03 12:11:44] House with ID 534 created sucessfully!
+[2021-10-03 12:11:44] House with ID 535 created sucessfully!
+[2021-10-03 12:11:44] House with ID 536 created sucessfully!
+[2021-10-03 12:11:44] House with ID 537 created sucessfully!
+[2021-10-03 12:11:44] House with ID 538 created sucessfully!
+[2021-10-03 12:11:45] House with ID 539 created sucessfully!
+[2021-10-03 12:11:45] House with ID 540 created sucessfully!
+[2021-10-03 12:11:45] House with ID 541 created sucessfully!
+[2021-10-03 12:11:45] House with ID 542 created sucessfully!
+[2021-10-03 12:11:45] House with ID 543 created sucessfully!
+[2021-10-03 12:11:45] House with ID 544 created sucessfully!
+[2021-10-03 12:11:45] House with ID 545 created sucessfully!
+[2021-10-03 12:11:45] House with ID 546 created sucessfully!
+[2021-10-03 12:11:45] House with ID 547 created sucessfully!
+[2021-10-03 12:11:45] House with ID 548 created sucessfully!
+[2021-10-03 12:11:45] House with ID 549 created sucessfully!
+[2021-10-03 12:11:45] House with ID 550 created sucessfully!
+[2021-10-03 12:11:45] House with ID 551 created sucessfully!
+[2021-10-03 12:11:45] House with ID 552 created sucessfully!
+[2021-10-03 12:11:45] House with ID 553 created sucessfully!
+[2021-10-03 12:11:45] House with ID 554 created sucessfully!
+[2021-10-03 12:11:45] House with ID 555 created sucessfully!
+[2021-10-03 12:11:45] House with ID 556 created sucessfully!
+[2021-10-03 12:11:45] House with ID 557 created sucessfully!
+[2021-10-03 12:11:45] House with ID 558 created sucessfully!
+[2021-10-03 12:11:45] House with ID 559 created sucessfully!
+[2021-10-03 12:11:45] House with ID 560 created sucessfully!
+[2021-10-03 12:11:45] House with ID 561 created sucessfully!
+[2021-10-03 12:11:45] House with ID 562 created sucessfully!
+[2021-10-03 12:11:45] House with ID 563 created sucessfully!
+[2021-10-03 12:11:45] House with ID 564 created sucessfully!
+[2021-10-03 12:11:45] House with ID 565 created sucessfully!
+[2021-10-03 12:11:45] House with ID 566 created sucessfully!
+[2021-10-03 12:11:45] House with ID 567 created sucessfully!
+[2021-10-03 12:11:45] House with ID 568 created sucessfully!
+[2021-10-03 12:11:45] House with ID 569 created sucessfully!
+[2021-10-03 12:11:45] House with ID 570 created sucessfully!
+[2021-10-03 12:11:45] House with ID 571 created sucessfully!
+[2021-10-03 12:11:45] House with ID 572 created sucessfully!
+[2021-10-03 12:11:45] House with ID 573 created sucessfully!
+[2021-10-03 12:11:45] House with ID 574 created sucessfully!
+[2021-10-03 12:11:45] House with ID 575 created sucessfully!
+[2021-10-03 12:11:45] House with ID 576 created sucessfully!
+[2021-10-03 12:11:45] House with ID 577 created sucessfully!
+[2021-10-03 12:11:45] House with ID 578 created sucessfully!
+[2021-10-03 12:11:45] House with ID 579 created sucessfully!
+[2021-10-03 12:11:45] House with ID 580 created sucessfully!
+[2021-10-03 12:11:45] House with ID 581 created sucessfully!
+[2021-10-03 12:11:45] House with ID 582 created sucessfully!
+[2021-10-03 12:11:45] House with ID 583 created sucessfully!
+[2021-10-03 12:11:45] House with ID 584 created sucessfully!
+[2021-10-03 12:11:45] House with ID 585 created sucessfully!
+[2021-10-03 12:11:45] House with ID 586 created sucessfully!
+[2021-10-03 12:11:45] House with ID 587 created sucessfully!
+[2021-10-03 12:11:45] House with ID 588 created sucessfully!
+[2021-10-03 12:11:45] House with ID 589 created sucessfully!
+[2021-10-03 12:11:45] House with ID 590 created sucessfully!
+[2021-10-03 12:11:45] House with ID 591 created sucessfully!
+[2021-10-03 12:11:45] House with ID 592 created sucessfully!
+[2021-10-03 12:11:45] House with ID 593 created sucessfully!
+[2021-10-03 12:11:45] House with ID 594 created sucessfully!
+[2021-10-03 12:11:45] House with ID 595 created sucessfully!
+[2021-10-03 12:11:45] House with ID 596 created sucessfully!
+[2021-10-03 12:11:45] House with ID 597 created sucessfully!
+[2021-10-03 12:11:45] House with ID 598 created sucessfully!
+[2021-10-03 12:11:45] House with ID 599 created sucessfully!
+[2021-10-03 12:11:45] House with ID 600 created sucessfully!
+[2021-10-03 12:11:45] House with ID 601 created sucessfully!
+[2021-10-03 12:11:45] House with ID 602 created sucessfully!
+[2021-10-03 12:11:45] House with ID 603 created sucessfully!
+[2021-10-03 12:11:45] House with ID 604 created sucessfully!
+[2021-10-03 12:11:45] House with ID 605 created sucessfully!
+[2021-10-03 12:11:45] House with ID 606 created sucessfully!
+[2021-10-03 12:11:45] House with ID 607 created sucessfully!
+[2021-10-03 12:11:45] House with ID 608 created sucessfully!
+[2021-10-03 12:11:45] House with ID 609 created sucessfully!
+[2021-10-03 12:11:45] House with ID 610 created sucessfully!
+[2021-10-03 12:11:45] House with ID 611 created sucessfully!
+[2021-10-03 12:11:45] House with ID 612 created sucessfully!
+[2021-10-03 12:11:45] House with ID 613 created sucessfully!
+[2021-10-03 12:11:45] House with ID 614 created sucessfully!
+[2021-10-03 12:11:45] House with ID 615 created sucessfully!
+[2021-10-03 12:11:45] House with ID 616 created sucessfully!
+[2021-10-03 12:11:45] House with ID 617 created sucessfully!
+[2021-10-03 12:11:45] House with ID 618 created sucessfully!
+[2021-10-03 12:11:45] House with ID 619 created sucessfully!
+[2021-10-03 12:11:45] House with ID 620 created sucessfully!
+[2021-10-03 12:11:45] House with ID 621 created sucessfully!
+[2021-10-03 12:11:45] House with ID 622 created sucessfully!
+[2021-10-03 12:11:45] House with ID 623 created sucessfully!
+[2021-10-03 12:11:45] House with ID 624 created sucessfully!
+[2021-10-03 12:11:45] House with ID 625 created sucessfully!
+[2021-10-03 12:11:45] House with ID 626 created sucessfully!
+[2021-10-03 12:11:45] House with ID 627 created sucessfully!
+[2021-10-03 12:11:45] House with ID 628 created sucessfully!
+[2021-10-03 12:11:45] House with ID 629 created sucessfully!
+[2021-10-03 12:11:45] House with ID 630 created sucessfully!
+[2021-10-03 12:11:45] House with ID 631 created sucessfully!
+[2021-10-03 12:11:45] House with ID 632 created sucessfully!
+[2021-10-03 12:11:45] House with ID 633 created sucessfully!
+[2021-10-03 12:11:45] House with ID 634 created sucessfully!
+[2021-10-03 12:11:45] House with ID 635 created sucessfully!
+[2021-10-03 12:11:45] House with ID 636 created sucessfully!
+[2021-10-03 12:11:45] House with ID 637 created sucessfully!
+[2021-10-03 12:11:45] House with ID 638 created sucessfully!
+[2021-10-03 12:11:45] House with ID 639 created sucessfully!
+[2021-10-03 12:11:45] House with ID 640 created sucessfully!
+[2021-10-03 12:11:45] House with ID 641 created sucessfully!
+[2021-10-03 12:11:45] House with ID 642 created sucessfully!
+[2021-10-03 12:11:45] House with ID 643 created sucessfully!
+[2021-10-03 12:11:45] House with ID 644 created sucessfully!
+[2021-10-03 12:11:45] House with ID 645 created sucessfully!
+[2021-10-03 12:11:45] House with ID 646 created sucessfully!
+[2021-10-03 12:11:45] House with ID 647 created sucessfully!
+[2021-10-03 12:11:45] House with ID 648 created sucessfully!
+[2021-10-03 12:11:45] House with ID 649 created sucessfully!
+[2021-10-03 12:11:45] House with ID 650 created sucessfully!
+[2021-10-03 12:11:45] House with ID 651 created sucessfully!
+[2021-10-03 12:11:45] House with ID 652 created sucessfully!
+[2021-10-03 12:11:45] House with ID 653 created sucessfully!
+[2021-10-03 12:11:45] House with ID 654 created sucessfully!
+[2021-10-03 12:11:45] House with ID 655 created sucessfully!
+[2021-10-03 12:11:45] House with ID 656 created sucessfully!
+[2021-10-03 12:11:45] House with ID 657 created sucessfully!
+[2021-10-03 12:11:45] House with ID 658 created sucessfully!
+[2021-10-03 12:11:45] House with ID 659 created sucessfully!
+[2021-10-03 12:11:45] House with ID 660 created sucessfully!
+[2021-10-03 12:11:45] House with ID 661 created sucessfully!
+[2021-10-03 12:11:45] House with ID 662 created sucessfully!
+[2021-10-03 12:11:45] House with ID 663 created sucessfully!
+[2021-10-03 12:11:45] House with ID 664 created sucessfully!
+[2021-10-03 12:11:45] House with ID 665 created sucessfully!
+[2021-10-03 12:11:45] House with ID 666 created sucessfully!
+[2021-10-03 12:11:45] House with ID 667 created sucessfully!
+[2021-10-03 12:11:45] House with ID 668 created sucessfully!
+[2021-10-03 12:11:45] House with ID 669 created sucessfully!
+[2021-10-03 12:11:45] House with ID 670 created sucessfully!
+[2021-10-03 12:11:45] House with ID 671 created sucessfully!
+[2021-10-03 12:11:45] House with ID 672 created sucessfully!
+[2021-10-03 12:11:45] House with ID 673 created sucessfully!
+[2021-10-03 12:11:45] House with ID 674 created sucessfully!
+[2021-10-03 12:11:46] House with ID 675 created sucessfully!
+[2021-10-03 12:11:46] House with ID 676 created sucessfully!
+[2021-10-03 12:11:46] House with ID 677 created sucessfully!
+[2021-10-03 12:11:46] House with ID 678 created sucessfully!
+[2021-10-03 12:11:46] House with ID 679 created sucessfully!
+[2021-10-03 12:11:46] House with ID 680 created sucessfully!
+[2021-10-03 12:11:46] House with ID 681 created sucessfully!
+[2021-10-03 12:11:46] House with ID 682 created sucessfully!
+[2021-10-03 12:11:46] House with ID 683 created sucessfully!
+[2021-10-03 12:11:46] House with ID 684 created sucessfully!
+[2021-10-03 12:11:46] House with ID 685 created sucessfully!
+[2021-10-03 12:11:46] House with ID 686 created sucessfully!
+[2021-10-03 12:11:46] House with ID 687 created sucessfully!
+[2021-10-03 12:11:46] House with ID 688 created sucessfully!
+[2021-10-03 12:11:46] House with ID 689 created sucessfully!
+[2021-10-03 12:11:46] House with ID 690 created sucessfully!
+[2021-10-03 12:11:46] House with ID 691 created sucessfully!
+[2021-10-03 12:11:46] House with ID 692 created sucessfully!
+[2021-10-03 12:11:46] House with ID 693 created sucessfully!
+[2021-10-03 12:11:46] House with ID 694 created sucessfully!
+[2021-10-03 12:11:46] House with ID 695 created sucessfully!
+[2021-10-03 12:11:46] House with ID 696 created sucessfully!
+[2021-10-03 12:11:46] House with ID 697 created sucessfully!
+[2021-10-03 12:11:46] House with ID 698 created sucessfully!
+[2021-10-03 12:11:46] House with ID 699 created sucessfully!
+[2021-10-03 12:11:46] House with ID 700 created sucessfully!
+[2021-10-03 12:11:46] House with ID 701 created sucessfully!
+[2021-10-03 12:11:46] House with ID 702 created sucessfully!
+[2021-10-03 12:11:46] House with ID 703 created sucessfully!
+[2021-10-03 12:11:46] House with ID 704 created sucessfully!
+[2021-10-03 12:11:46] House with ID 705 created sucessfully!
+[2021-10-03 12:11:46] House with ID 706 created sucessfully!
+[2021-10-03 12:11:46] House with ID 707 created sucessfully!
+[2021-10-03 12:11:46] House with ID 708 created sucessfully!
+[2021-10-03 12:11:46] House with ID 709 created sucessfully!
+[2021-10-03 12:11:46] House with ID 710 created sucessfully!
+[2021-10-03 12:11:46] House with ID 711 created sucessfully!
+[2021-10-03 12:11:46] House with ID 712 created sucessfully!
+[2021-10-03 12:11:46] House with ID 713 created sucessfully!
+[2021-10-03 12:11:46] House with ID 714 created sucessfully!
+[2021-10-03 12:11:46] House with ID 715 created sucessfully!
+[2021-10-03 12:11:46] House with ID 716 created sucessfully!
+[2021-10-03 12:11:46] House with ID 717 created sucessfully!
+[2021-10-03 12:11:46] House with ID 718 created sucessfully!
+[2021-10-03 12:11:46] House with ID 719 created sucessfully!
+[2021-10-03 12:11:46] House with ID 720 created sucessfully!
+[2021-10-03 12:11:46] House with ID 721 created sucessfully!
+[2021-10-03 12:11:46] House with ID 722 created sucessfully!
+[2021-10-03 12:11:46] House with ID 723 created sucessfully!
+[2021-10-03 12:11:46] House with ID 724 created sucessfully!
+[2021-10-03 12:11:46] House with ID 725 created sucessfully!
+[2021-10-03 12:11:46] House with ID 726 created sucessfully!
+[2021-10-03 12:11:46] House with ID 727 created sucessfully!
+[2021-10-03 12:11:46] House with ID 728 created sucessfully!
+[2021-10-03 12:11:46] House with ID 729 created sucessfully!
+[2021-10-03 12:11:46] House with ID 730 created sucessfully!
+[2021-10-03 12:11:46] House with ID 731 created sucessfully!
+[2021-10-03 12:11:46] House with ID 732 created sucessfully!
+[2021-10-03 12:11:46] House with ID 733 created sucessfully!
+[2021-10-03 12:11:46] House with ID 734 created sucessfully!
+[2021-10-03 12:11:46] House with ID 735 created sucessfully!
+[2021-10-03 12:11:46] House with ID 736 created sucessfully!
+[2021-10-03 12:11:46] House with ID 737 created sucessfully!
+[2021-10-03 12:11:46] House with ID 738 created sucessfully!
+[2021-10-03 12:11:46] House with ID 739 created sucessfully!
+[2021-10-03 12:11:46] House with ID 740 created sucessfully!
+[2021-10-03 12:11:46] House with ID 741 created sucessfully!
+[2021-10-03 12:11:46] House with ID 742 created sucessfully!
+[2021-10-03 12:11:46] House with ID 743 created sucessfully!
+[2021-10-03 12:11:46] House with ID 744 created sucessfully!
+[2021-10-03 12:11:46] House with ID 745 created sucessfully!
+[2021-10-03 12:11:46] House with ID 746 created sucessfully!
+[2021-10-03 12:11:46] House with ID 747 created sucessfully!
+[2021-10-03 12:11:46] House with ID 748 created sucessfully!
+[2021-10-03 12:11:46] House with ID 749 created sucessfully!
+[2021-10-03 12:11:46] House with ID 750 created sucessfully!
+[2021-10-03 12:11:46] House with ID 751 created sucessfully!
+[2021-10-03 12:11:46] House with ID 752 created sucessfully!
+[2021-10-03 12:11:46] House with ID 753 created sucessfully!
+[2021-10-03 12:11:46] House with ID 754 created sucessfully!
+[2021-10-03 12:11:46] House with ID 755 created sucessfully!
+[2021-10-03 12:11:46] ERROR: Couldn't find resource CVRShaders. Check it exists.
+[2021-10-03 12:11:47] WARNING: freecam/freecam.lua(Line 56) [Client] getControlState is deprecated and may not work in future versions. Please replace with getPedControlState.
+[2021-10-03 12:11:47] Some files in 'freecam' use deprecated functions.
+[2021-10-03 12:11:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:47] WARNING: NGslotmachine/slotmachine_s.lua(Line 43) [Server] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-10-03 12:11:47] WARNING: NGslotmachine/slotmachine_c.lua(Line 388) [Client] showPlayerHudComponent is deprecated and may not work in future versions. Please replace with setPlayerHudComponentVisible.
+[2021-10-03 12:11:47] Some files in 'NGslotmachine' use deprecated functions.
+[2021-10-03 12:11:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:47] WARNING: tele_manager/client_Script.lua(Line 88) [Client] setVehicleFrozen is deprecated and may not work in future versions. Please replace with setElementFrozen.
+[2021-10-03 12:11:47] Some files in 'tele_manager' use deprecated functions.
+[2021-10-03 12:11:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:47] WARNING: NGmisc/zorra_s.lua(Line 192) [Server] getPlayerOccupiedVehicle is deprecated and may not work in future versions. Please replace with getPedOccupiedVehicle.
+[2021-10-03 12:11:47] WARNING: NGmisc/minigameDM.lua(Line 154) [Server] getPlayerArmor is deprecated and may not work in future versions. Please replace with getPedArmor.
+[2021-10-03 12:11:47] WARNING: NGmisc/minigameDM.lua(Line 159) [Server] setPlayerArmor is deprecated and may not work in future versions. Please replace with setPedArmor.
+[2021-10-03 12:11:47] Some files in 'NGmisc' use deprecated functions.
+[2021-10-03 12:11:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:47] WARNING: [needed]\NGmisc\zorra_s.lua:71: Bad argument @ 'attachElements' [Expected element at argument 2, got nil]
+[2021-10-03 12:11:47] WARNING: sas_custom <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-10-03 12:11:47] WARNING: sas_custom requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.7-9.20147 because of 'engineFreeModel')
+[2021-10-03 12:11:47] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:48] WARNING: File 'mods/vehicles/oceanic.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/vehicles/hotring2.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/vehicles/infernus.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/vehicles/wayfarer.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/skins/bfybu.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/skins/sbmost.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/skins/wmoprea.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/skins/dwmylc1.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:48] WARNING: File 'mods/skins/male01.dff' in resource 'moddownloader' contains errors.
+[2021-10-03 12:11:52] INFO: [DGS]Config File Loaded!
+[2021-10-03 12:11:52] INFO: [DGS]G2D is enabled!
+[2021-10-03 12:11:52] WARNING: CVRPescadorMinigame <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-10-03 12:11:52] WARNING: CVRPescadorMinigame requires upgrade as <min_mta_version> section in the meta.xml is incorrect or missing (expected at least client 1.5.2-9.07903 because of 'c_objects.luac')
+[2021-10-03 12:11:52] Use the 'upgrade' command to perform a basic upgrade of resources.
+[2021-10-03 12:11:52] Querying MTA master server... success! (Auto detected IP:190.252.48.243)
+[2021-10-03 12:11:52] Authorized serial account protection is enabled for the ACL group(s): `Admin`  See http://mtasa.com/authserial
+[2021-10-03 12:11:52] WARNING: <owner_email_address> not set
+[2021-10-03 12:11:52] Server started and is ready to accept connections!
+[2021-10-03 12:11:52] To stop the server, type 'shutdown' or press Ctrl-C
+[2021-10-03 12:11:52] Type 'help' for a list of commands.
+[2021-10-03 12:11:53] It took 2.535 seconds to build all houses.
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:1 - Peugeout 205T16 Rally!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:2 - Suzuki Swift!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:3 - Alimentador!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:4 - Carro Perro!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:5 - Ferrari F430!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:6 - Camión de Acarreos!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:7 - Yamaha Ninja!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:8 - Toyota AE85 LEVIN!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:9 - Dodge Charger RT 1970!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:10 - Ford GT 2005!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:11 - Shelby Mustang 1970!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:12 - Bravado GTA V!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:13 - Nissan Skyline R32 GTR!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:14 - Nissan Farlady 300zx!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:15 - Ford Focus ST!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:16 - Lamborghini Countach!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:17 - Trineo de Nieve!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:18 - Mitshubishi Lancer Evo III!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:19 - Yamaha Ninja 2!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:20 - Mazda FC Savanna RX7!
+[2021-10-03 12:11:53] INFO: Successfully loaded mod #1:21 - Toyota Fortuner!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:22 - Camioneta FULL SONIDO KEVIN OCAMPO EDITION!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:23 - Pontiac Trans AM 1970!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:24 - Ferrari F40!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:25 - Mazda FD RX7!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:26 - Chévrolet Impala!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:27 - Maserati Gran Turismo!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:28 - Toyota AE86 Sprinter Trueno GT APEX!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:29 - Lancer Evo X!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:30 - Delorean DMC-12 Time Machine!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:31 - Honda Civic Type R!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:32 - Nissan Skyline R35 LibertyWalk!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:33 - Nissan Skyline R32 Drift!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:34 - Dodge Durango!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:35 - Mini Cooper!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:36 - Rolls Royce Phantom Hamann!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:37 - Mercedes Benz GWagon!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:38 - Suzuki Ax100!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:39 - Chevrolet Camaro Dragster!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:40 - Trailer2!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:41 - Barracks!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:42 - Honda S2000 CVR Edition!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:43 - Mercedes Benz Clase E!
+[2021-10-03 12:11:54] INFO: Successfully loaded mod #1:44 - BMW E30 1986!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:45 - Ambulancia!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:46 - Andromeda!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:47 - Vehiculo Exclusivo Clan GT!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:48 - Chevrolet Old!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:49 - Camioneta PONAL!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:50 - Honda Civic Initial D!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:51 - Hijuebus!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:52 - Camión Postobón!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:53 - Yamaha DT!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:54 - Fiat 80ntero!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:55 - Camión Ejército!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:56 - Honda C90!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:57 - Mitshubishi Montero!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:58 - Yamaha 115!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:59 - Tanqueta ESMAD!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:60 - Harley Davidson!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:61 - Sofá!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:62 - Renault Sandero!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:63 - Cadillac Eldorado Biarritz Convertible 1959!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:64 - Formula1!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:65 - Ferrari LaFerrari!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:66 - Moto Policías!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:67 - Rare Halloween!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:68 - Infernus!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:69 - Renault Logan!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:70 - Toyota Land Cruiser 1990!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:71 - Mazda Miata NB!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:72 - Toyota Land Cruiser (FJ)!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:73 - Jeep!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:74 - Daewoo Van!
+[2021-10-03 12:11:55] INFO: Successfully loaded mod #1:75 - MTB!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:76 - Mazda 626 Millenium!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:77 - Chiva Rumbera!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:78 - Renault 4!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:79 - Chevrolet Elcamino!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:80 - Pizzaboy Rappi!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:81 - Duster Policía!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:82 - Nissan NP300 Policía!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:83 - Nissan Camión Policía!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:84 - Chevrolet Spark!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:85 - Chevrolet Corsa!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:86 - Chevrolet Spark GT!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:87 - Buseta Colombia Shitposting .exe!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:88 - Camión alquería!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:89 - Buseta Bogotana!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:90 - Chevrolet Aveo tunning!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:91 - Zorra!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:92 - Renault 18!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:93 - Chevrolet Spark Taxi!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:94 - Camión Basura Bogotá!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:95 - Yate!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:96 - Nissan Skyline R34 Nur II!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:97 - NMax!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:98 - Nissan Tsuru!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:99 - Toyota Hilux!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:100 - Suzuki Samurai!
+[2021-10-03 12:11:56] INFO: Successfully loaded mod #1:101 - Mazda 3 2005!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #1:102 - Toyota Prado!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #1:103 - Toyota Supra!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #1:104 - Peugeot 206 Tunning!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #1:105 - BMW M5 E39!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:1 - Militar colombiano!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:2 - Spiderman!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:3 - Takeshi Nakazato!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:4 - Santa Fe barrista 1!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:5 - Miracle girls Fiesta - Kyouko Toshinou!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:6 - Rick grames - TWD!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:7 - Kagamine Len!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:8 - Miyuki takara - Lucky Star!
+[2021-10-03 12:11:57] INFO: Failed to load #2:9 (Motociclista) - txd file not found on server
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:10 - Condorito!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:11 - Eva series 1!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:12 - Burro - Shrek!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:13 - Slenderman!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:14 - GTA Online Random !
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:15 - Colegiala anime!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:16 - vegetta!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:17 - SCP-173!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:18 - Santa marta skin!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:19 - jotaron - jojo's!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:20 - CJ chiquito!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:21 - Limonagrio - Hora de aventura!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:22 - Dio - Jojo's!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:23 - Policia Campesino!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:24 - RE Dead Or Alive 5LR - Honoka C5!
+[2021-10-03 12:11:57] INFO: Failed to load #2:25 (Pablo Escobar) - txd file not found on server
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:26 - Konata - Lucky Star!
+[2021-10-03 12:11:57] INFO: Failed to load #2:27 (Thanos Skin) - txd file not found on server
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:28 - Espia!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:29 - Tomoe Mami - Mahou Shoujo Madoka Magica!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:30 - Skin Caleña - Colombia!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:31 - rey anayami - evangelion!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:32 - Sengoku Otome!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:33 - Shinji - Evangelion!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:34 - Guarda de transito!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:35 - Skin Buhodermia!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:36 - Rin - Love Live!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:37 - Samus Aran Zero Suit - Metroid!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:38 - Ricardo milos!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:39 - Ben10!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:40 - Goofy!
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:41 - PoloPolo!
+[2021-10-03 12:11:57] INFO: Failed to load #2:42 (RockyBalboa) - txd file not found on server
+[2021-10-03 12:11:57] INFO: Successfully loaded mod #2:43 - Franklin GTAV!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:44 - Nico!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:45 - Pony!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:46 - Furro!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:47 - SCP-096!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:48 - Medico!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:49 - Giorno Jojo´s!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:50 - Michael GTAV!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:51 - Mamizou!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:52 - Rem!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:53 - Airi!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:54 - WinniePooh!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:55 - Kurumi!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:56 - Rick!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:57 - Joker!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:58 - Trevor GTAV!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:59 - Truth!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:60 - Asuka!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:61 - LadyBug!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:62 - DonkyKong!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:63 - Tarzan!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:64 - Yandere!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:65 - GataKawaii!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:66 - Yandere 2!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:67 - Kana!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:68 - Ryoko!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:69 - Lala!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:70 - Montana!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:71 - Yandere 3!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:72 - Schwi dola!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:73 - Jhon Week!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:74 - Maestro Halo!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:75 - Nick Wilde Zootopia!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:76 - Roblox!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:77 - Lucario!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:78 - Maduro!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:79 - Naputo !
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:80 - Paul Walker!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:81 - Arthur Morgan!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:82 - Megu!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:83 - Akatsuki1!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:84 - Akatsuki2!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:85 - Akatsuki3!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:86 - Shoto Todoroki!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:87 - Nea Brasileña!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:88 - Akatsuki4!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:89 - Akatsuki5!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:90 - Akatsuki6!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:91 - Akatsuki7!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:92 - Guts!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:93 - Aqua - Konosuba!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:94 - Fata Bloom!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:95 - Skin kpucho!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:96 - Deadpool!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:97 - Deku!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:98 - Goku!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:99 - Shaggy!
+[2021-10-03 12:11:58] INFO: Successfully loaded mod #2:100 - Tommy Vercetti!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:101 - Skin Messi!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:102 - Skin Esmeralda2!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:103 - Skin Esmeralda3!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:104 - Skin Esmeralda5!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:105 - Skin Esmeralda6!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:106 - Skin Esmeralda7!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:107 - Skin Esmeralda8!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:108 - Skin Esmeralda9!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:109 - Skin Esmeralda10!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:110 - Skin Esmeralda11!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:111 - Trunks del Futuro!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:112 - Piccolo!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:113 - Fiona Ogro!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:114 - Takumi!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:115 - Shinohara Miyu Sword Art: Militar!
+[2021-10-03 12:11:59] INFO: Successfully loaded mod #2:116 - Crash Bandicoot!
+[2021-10-03 12:11:59] INFO: 
+
+====================================
+[2021-10-03 12:11:59] INFO: 
+
+====================================
+[2021-10-03 12:11:59] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-10-03 12:11:59] INFO: = NERD-GAMING GAMEMODE IS OUTDATED!
+[2021-10-03 12:11:59] INFO: ====================================
+[2021-10-03 12:11:59] INFO: ====================================
+[2021-10-03 12:11:59] INFO: = Your version: 1.1.4
+[2021-10-03 12:11:59] INFO: = Your version: 1.1.4
+[2021-10-03 12:11:59] ERROR: [needed]\NGGamemode\ng_verCheck.server.lua:14: attempt to concatenate local 'version' (a nil value)
+[2021-10-03 12:12:37] CONNECT: ASH connected (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1  Version: 1.5.9-9.21002.0)
+[2021-10-03 12:12:39] JOIN: ASH joined the game (IP: 192.168.1.6)
+[2021-10-03 12:12:54] CONNECT: ASH2 connected (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193  Version: 1.5.8-9.20957.0)
+[2021-10-03 12:12:59] JOIN: ASH2 joined the game (IP: 192.168.1.7)
+[2021-10-03 12:13:39] INFO: modloader server: Player ASH requested replacing
+[2021-10-03 12:14:37] INFO: NGSQL: Loading AshTheLynx2 account data (Player: ASH)
+[2021-10-03 12:14:37] INFO: [Logeo] Info de logeo de ASH ha sido cargada correctamente
+[2021-10-03 12:14:37] LOGIN: (Everyone, Level 5) ASH successfully logged in as 'AshTheLynx2' (IP: 192.168.1.6  Serial: B64EBB703CC406EC0132A1139407A6A1)
+[2021-10-03 12:16:09] INFO: modloader server: Player ASH2 requested replacing
+[2021-10-03 12:19:52] INFO: NGSQL: Loading AshTheLynx3 account data (Player: ASH2)
+[2021-10-03 12:19:52] INFO: [Logeo] Info de logeo de ASH2 ha sido cargada correctamente
+[2021-10-03 12:19:52] LOGIN: (Everyone) ASH2 successfully logged in as 'AshTheLynx3' (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 12:19:52] INFO: NGSQL: Creating account AshTheLynx3 for player ASH2 (Serial: BB2247BDF30D59AA5B6B9520D9384193 || IP: 192.168.1.7)
+[2021-10-03 12:19:52] WARNING: [needed]\NGSQL\sql.lua:25: dbExec failed; (1062) Duplicate entry 'AshTheLynx3' for key 'PRIMARY'
+[2021-10-03 12:26:42] INFO: MATEMÁTICAS: Pregunta 71 - 37 + 4410 ha sido generada con una respueta de 4444
+[2021-10-03 12:29:51] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:29:51] Stopping NGgreenzones
+[2021-10-03 12:29:51] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 12:29:51] Starting NGgreenzones
+[2021-10-03 12:29:51] NGgreenzones restarted successfully
+[2021-10-03 12:30:08] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 12:30:39] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 12:31:25] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:31:25] Stopping NGgreenzones
+[2021-10-03 12:31:25] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 12:31:25] Starting NGgreenzones
+[2021-10-03 12:31:25] NGgreenzones restarted successfully
+[2021-10-03 12:31:49] ADMIN: ASH has given ASH 'AK-47'
+[2021-10-03 12:31:49] ADMIN: ASH has given ASH 'AK-47'
+[2021-10-03 12:31:49] ADMIN: ASH has given ASH 'AK-47'
+[2021-10-03 12:31:50] ADMIN: ASH has given ASH 'AK-47'
+[2021-10-03 12:31:50] ADMIN: ASH has given ASH 'AK-47'
+[2021-10-03 12:32:04] ADMIN: ASH has given ASH a 'Banshee'" 
+[2021-10-03 12:32:24] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:32:24] Stopping NGgreenzones
+[2021-10-03 12:32:24] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 12:32:24] Starting NGgreenzones
+[2021-10-03 12:32:24] NGgreenzones restarted successfully
+[2021-10-03 12:35:51] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-10-03 12:35:51] KICK: ASH2 was kicked from the game by Console (Fuiste detectado estando AFK. Entra de nuevo - Colombian Virtual Reality)
+[2021-10-03 12:38:38] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:38:38] Stopping NGgreenzones
+[2021-10-03 12:38:38] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 12:38:38] Starting NGgreenzones
+[2021-10-03 12:38:38] NGgreenzones restarted successfully
+[2021-10-03 12:39:14] CONNECT: ASH2 connected (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193  Version: 1.5.8-9.20957.0)
+[2021-10-03 12:39:14] JOIN: ASH2 joined the game (IP: 192.168.1.7)
+[2021-10-03 12:39:47] INFO: modloader server: Player ASH2 requested replacing
+[2021-10-03 12:41:07] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:41:07] Stopping NGgreenzones
+[2021-10-03 12:41:07] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 12:41:07] Starting NGgreenzones
+[2021-10-03 12:41:07] NGgreenzones restarted successfully
+[2021-10-03 12:41:33] LOGIN: ASH2 tried to log in as 'AshTheLynx3' with an invalid password (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 12:41:38] LOGIN: ASH2 tried to log in as 'AshTheLynx3' with an invalid password (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 12:41:42] INFO: MATEMÁTICAS: Pregunta 84 - 30 + 5007 ha sido generada con una respueta de 5061
+[2021-10-03 12:41:43] LOGIN: ASH2 tried to log in as 'AshTheLynx3' with an invalid password (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 12:41:49] INFO: NGSQL: Loading AshTheLynx3 account data (Player: ASH2)
+[2021-10-03 12:41:49] INFO: [Logeo] Info de logeo de ASH2 ha sido cargada correctamente
+[2021-10-03 12:41:49] LOGIN: (Everyone) ASH2 successfully logged in as 'AshTheLynx3' (IP: 192.168.1.7  Serial: BB2247BDF30D59AA5B6B9520D9384193)
+[2021-10-03 12:42:02] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to perform arithmetic on field '?' (a nil value)
+[2021-10-03 12:42:29] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 12:42:29] Stopping NGgreenzones
+[2021-10-03 12:42:29] Starting NGgreenzones
+[2021-10-03 12:42:29] NGgreenzones restarted successfully
+[2021-10-03 12:42:41] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to perform arithmetic on field '?' (a nil value)
+[2021-10-03 12:42:47] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to perform arithmetic on field '?' (a nil value)
+[2021-10-03 12:43:44] ERROR: [no_ng_tag]\NGgreenzones\server.lua:169: attempt to perform arithmetic on field '?' (a nil value)
+[2021-10-03 12:56:42] INFO: MATEMÁTICAS: Pregunta 62 - 44 + 3288 ha sido generada con una respueta de 3306
+[2021-10-03 13:00:01] ERROR: [needed]\sas_custom\shopS.lua:50: attempt to index global 'clothesErstellt' (a nil value)
+[2021-10-03 13:00:01] KICK: ASH2 was kicked from the game by Console (Fuiste detectado estando AFK. Entra de nuevo - Colombian Virtual Reality)
+[2021-10-03 13:09:55] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:09:55] Stopping NGgreenzones
+[2021-10-03 13:09:55] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:09:55] Starting NGgreenzones
+[2021-10-03 13:09:55] NGgreenzones restarted successfully
+[2021-10-03 13:10:19] ADMIN: Resource 'NGgreenzones' restarted by ASH(AshTheLynx2)
+[2021-10-03 13:10:19] Stopping NGgreenzones
+[2021-10-03 13:10:19] Resource 'NGgreenzones' changed, reloading and starting
+[2021-10-03 13:10:19] Starting NGgreenzones
+[2021-10-03 13:10:19] NGgreenzones restarted successfully

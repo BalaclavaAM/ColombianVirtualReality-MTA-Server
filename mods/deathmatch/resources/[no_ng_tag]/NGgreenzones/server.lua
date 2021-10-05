@@ -115,8 +115,8 @@ function initGreenzones()
 
 						addEventHandler("onColShapeHit", c,
 							function(h,dim)
-								if dim then
-									if h and isElement(h) and getElementType(h) == "player" and (not(cooldown[h]) or getTickCount()-cooldown[h]>=30000 or getElementInterior(h)~=0) then
+								if dim and getElementType(h) == "player" and isPedInVehicle(h)==false then
+									if h and isElement(h) and (not(cooldown[h]) or getTickCount()-cooldown[h]>=30000 or getElementInterior(h)~=0) then
 										
 										-- Hack to prevent shooting bug: if player teleports from one greenzone directly to another and fails to clean up (on time)
 										if getElementData(h, "greenzone") then
@@ -138,7 +138,7 @@ function initGreenzones()
 
 									else
 										if cooldown[h] then
-											outputChatBox("Sólo puedes salir y entrar a la zona cada 30 segundos o hasta que mueras",h,255,0,0,true)
+											outputChatBox("[CVR] Te faltan "..math.floor(30-(getTickCount()-cooldown[h])/1000).." segundos para entrar.",h,255,0,0,true)
 											local nx,ny,nz = getElementPosition(h)
 											triggerClientEvent(h,"NGgreenzones->CalcularCoords",h,source,nx,ny,nz)
 										end
@@ -156,13 +156,27 @@ function initGreenzones()
 									if conductor and (getElementData(conductor,"Job")=="Police Officer" or getElementData(conductor,"Job")=="Detective") and hasJailedPassengers(conductor,ocupantes) then
 										outputChatBox("Te dejamos entrar a la zona segura porque tienes un capturado :)",conductor,255,255,0,true)
 									elseif table.size(ocupantes)>0 then
+										maxCoolDown=0
+										maxCoolDownPlayer=nil
 										for silla,ocupante in pairs(ocupantes) do
-											if (cooldown[ocupante]) and ((getTickCount()-cooldown[ocupante])<30000) then
-												outputChatBox("Sólo puedes salir y entrar a la zona cada 30 segundos o hasta que mueras",ocupante,255,0,0,true)
+											if cooldown[ocupante] and cooldown[ocupante]>maxCoolDown then
+												maxCoolDown=cooldown[ocupante]
+												maxCoolDownPlayer=ocupante
+											end
+										end
+										if (maxCoolDown==0) or ((getTickCount()-maxCoolDown)<30000) then
+											for silla,ocupante in pairs(ocupantes) do
+												outputChatBox("[CVR] A "..getPlayerName(maxCoolDownPlayer).." le faltan "..math.floor(30-(getTickCount()-maxCoolDown)/1000).." segundos para entrar.",ocupante,255,0,0,true)
 												local nx,ny,nz = getElementPosition(ocupante)
 												triggerClientEvent(ocupante,"NGgreenzones->CalcularCoords",ocupante,source,nx,ny,nz)
 											end
+										else 
+											for silla,ocupante in pairs(ocupantes) do
+												outputChatBox("[CVR] Has entrado a la zona verde", ocupante, 0, 220, 0)
+											end
+
 										end
+										
 									end
 								end
 							end
@@ -170,7 +184,7 @@ function initGreenzones()
 
 						addEventHandler("onColShapeLeave", c,
 							function(h)
-								if h and isElement(h) and getElementType(h) == "player" then
+								if h and isElement(h) and getElementType(h) == "player" and isPedInVehicle(h)==false then
 									if getElementData(h, "colShapeFix_IN") then
 										setElementData(h, "colShapeFix_IN", false)
 										return
@@ -181,7 +195,6 @@ function initGreenzones()
 											cooldown[h]=getTickCount()
 										end
 									end
-
 									if getElementData(h, "greenzone") then
 										setElementData(h, "greenzone", false)
 										toggleControl(h, "fire", true)
@@ -205,9 +218,19 @@ function initGreenzones()
 									setTimer(setElementData, 350, 1, h, "greenzoneveh", false)
 									local ocupantes = getVehicleOccupants(h)
 									if table.size(ocupantes)>0 then
+										maxCoolDown=0
 										for silla,ocupante in pairs(ocupantes) do
-											if getElementData(ocupante,"Job")=="Police Officer" or getElementData(ocupante,"Job")=="Criminal"or getElementData(ocupante,"Job")=="Militar" or getElementData(ocupante,"Job")=="UnEmployed" or getElementData(h,"Job")=="Detective" then
-												cooldown[ocupante]=getTickCount()
+											if cooldown[ocupante] and cooldown[ocupante]>maxCoolDown then
+												maxCoolDown=cooldown[ocupante]
+											end
+										end
+										if maxCoolDown==0 or getTickCount()-maxCoolDown>33000 then
+											for silla,ocupante in pairs(ocupantes) do
+												if getElementData(ocupante,"Job")=="Police Officer" or getElementData(ocupante,"Job")=="Criminal"or getElementData(ocupante,"Job")=="Militar" or getElementData(ocupante,"Job")=="UnEmployed" or getElementData(h,"Job")=="Detective" then
+													cooldown[ocupante]=getTickCount()
+													outputChatBox("[CVR] Has dejado la zona verde", ocupante, 220, 220, 0)
+
+												end
 											end
 										end
 									end
@@ -231,7 +254,7 @@ function handleDeath()
 	if cooldown[source] then
 		cooldown[source]=nil
 	end
-	outputChatBox("Te activamos la funcionalidad de zona verde porque moriste.",source,255,0,0)
+	outputChatBox("[CVR] Te activamos la funcionalidad de zona verde porque moriste.",source,255,0,0)
 end
 addEventHandler("onPlayerWasted",root,handleDeath)
 

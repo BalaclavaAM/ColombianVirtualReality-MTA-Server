@@ -81,6 +81,12 @@ end
 
 if ( not fileExists ( "@xml/settings3.xml" ) ) then
     createClientSettingsFile ( false, false )
+else 
+    local file = xmlLoadFile ( "@xml/settings3.xml" )
+    if xmlNodeGetChildren ( file) == false then
+        createClientSettingsFile ( false, true )
+    end
+    xmlUnloadFile ( file )
 end
 
 function getSetting ( name )
